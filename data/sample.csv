@@ -1,0 +1,1021 @@
+PatientId,Name,DOB,Gender,Blood Type,Medical Condition,Date of diease started,Address,Bill,Room no,case,date of admission,Medicine,Condition,TEMPF,PULSE,Phone number
+123,Tiffany Ramirez,08-08-2003,Female,O-,Diabetes,2022-11-17,Patrick Parker,37490.98336,146,Elective,01-12-2022,Aspirin,Inconclusive,97.5,71,9843274151
+2.99E+13,Tiffany Ramirez,08-08-2003,Female,O-,Diabetes,17-11-2022,Patrick Parker,37490.98336,146,Elective,01-12-2022,Aspirin,Inconclusive,97.5,71,9843274151
+5.59E+14,Ruben Burns,09-08-2003,Male,O+,Asthma,01-06-2023,Diane Jackson,47304.06485,404,Emergency,15-06-2023,Lipitor,Normal,98.4,89,9843274151
+4.26E+12,Chad Byrd,10-08-2003,Male,B-,Obesity,09-01-2019,Paul Baker,36874.897,292,Emergency,08-02-2019,Lipitor,Normal,97.6,85,9843274151
+8.68E+11,Antonio Frederick,11-08-2003,Male,B-,Asthma,02-05-2020,Brian Chandler,23303.32209,480,Urgent,03-05-2020,Penicillin,Abnormal,98.2,80,9843274151
+8.84E+12,Mrs. Brandy Flowers,12-08-2003,Male,O-,Arthritis,09-07-2021,Dustin Griffin,18086.34418,477,Urgent,02-08-2021,Paracetamol,Normal,98.6,97,9843274151
+9.6E+13,Patrick Parker,13-08-2003,Male,AB+,Arthritis,20-08-2020,Robin Green,22522.36338,180,Urgent,23-08-2020,Aspirin,Abnormal,98.2,177,9843274151
+7.34E+14,Charles Horton,14-08-2003,Male,AB+,Hypertension,22-03-2021,Patricia Bishop,39593.43576,161,Urgent,15-04-2021,Lipitor,Abnormal,98.6,81,9843274151
+3.45E+12,Patty Norman,15-08-2003,Female,O-,Arthritis,16-05-2019,Brian Kennedy,13546.81725,384,Elective,02-06-2019,Aspirin,Normal,98,75,9843274151
+5.64E+13,Ryan Hayes,16-08-2003,Male,A+,Diabetes,17-12-2020,Kristin Dunn,24903.03727,215,Elective,22-12-2020,Aspirin,Abnormal,98.2,106,9843274151
+7.81E+13,Sharon Perez,17-08-2003,Female,O-,Asthma,15-12-2022,Jessica Bailey,22788.23603,310,Urgent,16-12-2022,Aspirin,Normal,97.9,97,9843274151
+7.35E+14,Amy Roberts,18-08-2003,Male,B-,Cancer,13-04-2021,Anthony Roberts,40325.07139,306,Emergency,11-05-2021,Penicillin,Abnormal,98.7,90,9843274151
+7.54E+12,Mrs. Caroline Farrell,19-08-2003,Female,O-,Hypertension,09-06-2019,William Miller,6185.90353,126,Emergency,26-06-2019,Paracetamol,Inconclusive,98.6,84,9843274151
+5.67E+14,Christina Williams,20-08-2003,Female,A+,Diabetes,29-11-2021,Laura Roberts,4835.94565,444,Elective,14-12-2021,Aspirin,Inconclusive,97,104,9843274151
+9.11E+14,William Page,21-08-2003,Female,A+,Diabetes,29-07-2021,James Carney,13669.37774,492,Elective,14-08-2021,Aspirin,Normal,100.9,93,9843274151
+9.99E+13,Michael Bradshaw,22-08-2003,Female,AB+,Cancer,05-06-2021,Katherine Lowe,10342.83612,120,Emergency,25-06-2021,Ibuprofen,Inconclusive,97.6,100,9843274151
+99948393975,Brian Dorsey,23-08-2003,Female,O+,Arthritis,07-08-2021,Curtis Smith,27174.94291,492,Emergency,14-08-2021,Aspirin,Inconclusive,98,62,9843274151
+8.46E+13,Olivia Gonzalez,24-08-2003,Male,AB-,Diabetes,15-11-2019,Clayton Mcknight,17394.99426,315,Elective,04-12-2019,Aspirin,Inconclusive,98.6,60,9843274151
+1.48E+13,Teresa Caldwell,25-08-2003,Male,A+,Arthritis,08-03-2022,Debra Meyers,45213.53763,475,Elective,16-03-2022,Ibuprofen,Inconclusive,97.3,78,9843274151
+1.71E+13,Desiree Williams MD,26-08-2003,Male,O+,Obesity,19-06-2022,Megan Sanders,4262.911578,125,Elective,29-06-2022,Aspirin,Inconclusive,98.1,104,9843274151
+7.22E+12,Sally Shaw,27-08-2003,Male,O-,Arthritis,10-07-2019,Zachary Horton DDS,16609.31182,366,Emergency,07-08-2019,Ibuprofen,Inconclusive,100.9,85,9843274151
+6.22E+14,William Johnson,28-08-2003,Female,AB+,Arthritis,25-02-2023,Kelly Thompson,32263.62216,238,Emergency,27-03-2023,Penicillin,Normal,98.8,90,9843274151
+1.22E+13,Steven Bennett,29-08-2003,Male,O-,Asthma,12-12-2022,Michael Chang,42610.70456,364,Urgent,26-12-2022,Penicillin,Abnormal,97.5,73,9843274151
+8.63E+14,Haley Li,30-08-2003,Male,B-,Obesity,09-10-2022,Nicole Wood,16701.34713,130,Emergency,01-11-2022,Lipitor,Abnormal,98.5,62,9843274151
+2.14E+14,Angela Brown,31-08-2003,Female,B-,Diabetes,10-01-2019,Angela Kim,22331.28016,120,Urgent,31-01-2019,Aspirin,Abnormal,98,80,9843274151
+8.73E+12,Beverly Miller,01-09-2003,Male,A-,Asthma,05-08-2022,Jodi Holland,41319.50032,293,Urgent,03-09-2022,Paracetamol,Normal,97.8,70,9843274151
+5.82E+12,Daniel Dickson,02-09-2003,Female,B-,Obesity,27-05-2021,Christina Flores,37766.52124,292,Urgent,23-06-2021,Paracetamol,Abnormal,97.5,89,9843274151
+25787851512,Kimberly Mason,03-09-2003,Female,B-,Obesity,12-07-2021,Natalie Sullivan,35834.3566,379,Elective,29-07-2021,Paracetamol,Abnormal,98,89,9843274151
+1.22E+13,Francis Newman,04-09-2003,Female,AB+,Hypertension,25-05-2021,Carolyn Baker MD,12680.73052,298,Emergency,08-06-2021,Lipitor,Abnormal,98.2,63,9843274151
+5.93E+12,Ronnie Hughes,05-09-2003,Female,A-,Cancer,14-05-2019,Nicole Mcclain,12935.41325,392,Elective,11-06-2019,Penicillin,Abnormal,97.4,145,9843274151
+1.23E+12,Shannon Fitzpatrick DVM,06-09-2003,Female,O+,Hypertension,02-12-2022,Chloe Thomas,18393.42175,162,Emergency,18-12-2022,Lipitor,Inconclusive,98.2,73,9843274151
+3.43E+11,Teresa Gonzalez,07-09-2003,Female,B-,Arthritis,09-11-2021,Brian Watson,22356.08227,456,Emergency,28-11-2021,Lipitor,Abnormal,98.2,83,9843274151
+3.11E+11,Rodney Maynard,08-09-2003,Male,AB-,Obesity,09-07-2023,Dr. Kyle Dickson,21001.27487,197,Emergency,17-07-2023,Lipitor,Normal,97.8,78,9843274151
+5.29E+13,Kevin Johnson,09-09-2003,Male,O-,Asthma,06-02-2021,Michael Smith,9007.967866,247,Urgent,03-03-2021,Lipitor,Abnormal,98.1,61,9843274151
+7.65E+12,Rebecca Parsons,10-09-2003,Male,B-,Asthma,29-01-2021,Pamela Brown,39031.36264,228,Elective,23-02-2021,Paracetamol,Abnormal,97.6,85,9843274151
+2E+13,Linda Chavez,11-09-2003,Male,A-,Cancer,01-12-2019,Tiffany Crawford,24609.37463,137,Emergency,18-12-2019,Penicillin,Abnormal,97.6,98,9843274151
+7.82E+13,Jennifer Rodriguez,12-09-2003,Female,AB-,Asthma,12-11-2019,Rachel Sullivan,5098.663128,192,Emergency,24-11-2019,Lipitor,Abnormal,99,83,9843274151
+7.3E+13,Anna Adams,13-09-2003,Female,A+,Obesity,06-09-2022,Samuel Taylor,1000.180837,258,Emergency,18-09-2022,Paracetamol,Abnormal,97.5,74,9843274151
+1.58E+12,Mariah Williams,14-09-2003,Male,A-,Diabetes,19-03-2021,John Harvey,24913.55265,219,Elective,20-03-2021,Penicillin,Normal,98.5,64,9843274151
+5.87E+12,Brendan Moody,15-09-2003,Male,AB+,Diabetes,24-02-2021,Sylvia Johnson,24274.1416,364,Elective,21-03-2021,Paracetamol,Normal,98.6,71,9843274151
+1.46E+13,Michael Burns,16-09-2003,Male,B-,Cancer,30-06-2021,Janice Vargas,16171.94856,414,Emergency,14-07-2021,Lipitor,Inconclusive,99,105,9843274151
+9.97E+14,Miguel Baker,17-09-2003,Male,O-,Arthritis,25-03-2019,Mark Hill,39329.11431,110,Urgent,08-04-2019,Penicillin,Inconclusive,97.8,89,9843274151
+8.22E+14,Mr. Christopher Miller,18-09-2003,Male,AB+,Hypertension,15-08-2021,Amber Gonzalez,22519.33618,465,Emergency,06-09-2021,Lipitor,Inconclusive,97,96,9843274151
+2.6E+13,Theresa Mendoza,19-09-2003,Female,A+,Asthma,03-03-2023,Wendy Galloway,1996.310721,469,Urgent,05-03-2023,Penicillin,Inconclusive,97.9,85,9843274151
+7.16E+13,Laura Adams,20-09-2003,Female,B-,Diabetes,07-08-2021,Michael Harris,5470.209687,182,Emergency,09-08-2021,Ibuprofen,Inconclusive,97.9,91,9843274151
+2.74E+11,Lauren Barton,21-09-2003,Male,O+,Hypertension,06-06-2019,Emily West,16036.10999,119,Emergency,30-06-2019,Paracetamol,Normal,98.2,87,9843274151
+4.98E+12,Christina Hernandez,22-09-2003,Female,O+,Hypertension,13-10-2019,Cody Wright,10803.73034,388,Emergency,29-10-2019,Aspirin,Inconclusive,97.9,75,9843274151
+1.38E+11,Kyle Byrd,23-09-2003,Female,B-,Arthritis,20-10-2022,Melissa Kelley,38872.64522,412,Elective,04-11-2022,Penicillin,Abnormal,97.6,66,9843274151
+5.89E+11,Jasmine Singleton,24-09-2003,Male,AB-,Obesity,26-06-2019,Larry Guzman,34132.623,182,Emergency,24-07-2019,Ibuprofen,Normal,98.2,67,9843274151
+8.55E+12,John Griffin,25-09-2003,Female,B-,Cancer,03-04-2020,Kelsey Clark,25948.50719,359,Emergency,06-04-2020,Lipitor,Normal,97.8,56,9843274151
+9.22E+13,Justin Kaufman,26-09-2003,Female,AB-,Diabetes,18-02-2021,Corey Sutton,46461.82252,186,Urgent,06-03-2021,Lipitor,Abnormal,97.9,91,9843274151
+1.83E+14,Dylan Mcknight,27-09-2003,Male,B-,Cancer,14-06-2019,Ashley Edwards,10705.0984,437,Emergency,13-07-2019,Penicillin,Inconclusive,98.1,103,9843274151
+4.69E+13,Olivia Ayala,28-09-2003,Male,A-,Arthritis,26-11-2022,Leon Price,49576.87403,132,Elective,08-12-2022,Penicillin,Abnormal,98,89,9843274151
+7.99E+14,Frank Mccormick,29-09-2003,Male,A+,Obesity,25-08-2023,Kyle Estrada,8005.828337,271,Urgent,12-09-2023,Ibuprofen,Inconclusive,98.5,70,9843274151
+4.44E+14,Rachael Davidson,30-09-2003,Female,O-,Cancer,29-03-2022,Jared Harmon,41295.39975,361,Emergency,02-04-2022,Aspirin,Normal,97.9,79,9843274151
+3.37E+12,Lori Owens,01-10-2003,Male,A+,Arthritis,04-07-2021,Adrian Pierce,20080.29764,303,Emergency,29-07-2021,Ibuprofen,Normal,98.6,69,9843274151
+4.18E+13,Frank Reid,02-10-2003,Female,AB+,Obesity,04-11-2019,Jesus Snyder,1888.002111,317,Emergency,19-11-2019,Penicillin,Inconclusive,98.1,73,9843274151
+4.75E+14,Cynthia Stanton,03-10-2003,Male,A+,Cancer,28-12-2021,Sara Watts,44935.2697,439,Emergency,09-01-2022,Lipitor,Abnormal,98.4,93,9843274151
+4E+12,Nicole Williams,04-10-2003,Male,O-,Hypertension,27-10-2022,Stacy Brewer,10724.03325,153,Urgent,18-11-2022,Aspirin,Normal,97.8,66,9843274151
+44879439571,Michael Miller,05-10-2003,Male,A+,Diabetes,06-04-2023,Nicholas Aguirre,14691.25004,438,Elective,22-04-2023,Penicillin,Inconclusive,98.2,104,9843274151
+7.18E+13,Kenneth Lopez,06-10-2003,Female,A-,Cancer,19-01-2020,Miranda Robinson,47508.00018,120,Urgent,24-01-2020,Ibuprofen,Inconclusive,102.7,96,9843274151
+9.29E+12,Gabrielle Russell,07-10-2003,Male,AB+,Cancer,29-02-2020,Tina Rogers,2628.94782,380,Emergency,12-03-2020,Paracetamol,Normal,98.1,65,9843274151
+5.59E+11,Mary Brown,08-10-2003,Male,A+,Cancer,29-04-2021,Dennis Mitchell,13794.72044,194,Urgent,06-05-2021,Aspirin,Inconclusive,98.1,52,9843274151
+3.65E+13,Evan Martinez,09-10-2003,Female,B+,Obesity,07-02-2021,Robin Rodriguez,9991.074446,199,Emergency,06-03-2021,Aspirin,Normal,98,110,9843274151
+2.37E+14,Amanda Stein DVM,10-10-2003,Female,O+,Diabetes,28-10-2023,Sergio Conner,18904.7382,404,Urgent,25-11-2023,Penicillin,Inconclusive,97.5,76,9843274151
+1.89E+14,Paul Graham,11-10-2003,Female,A+,Hypertension,08-08-2020,Mr. John Short,44423.09554,301,Elective,29-08-2020,Aspirin,Normal,98.2,106,9843274151
+2.72E+14,Lisa Gonzalez,12-10-2003,Male,A+,Asthma,09-07-2023,Gina Maddox,22749.28414,223,Elective,30-07-2023,Paracetamol,Inconclusive,97.8,89,9843274151
+9.78E+14,Angela Sanchez,13-10-2003,Female,O-,Arthritis,13-06-2021,Heather Warner,21965.07966,410,Emergency,23-06-2021,Penicillin,Abnormal,98,82,9843274151
+8.65E+13,Kimberly Wheeler,14-10-2003,Female,A+,Obesity,23-11-2022,Amber Hayes,8311.397389,205,Urgent,29-11-2022,Lipitor,Abnormal,98.6,92,9843274151
+5.43E+12,Francisco Ritter,15-10-2003,Male,O+,Cancer,31-12-2020,Karen Nelson,43547.77222,134,Urgent,06-01-2021,Lipitor,Abnormal,98.3,57,9843274151
+7.94E+11,Kenneth Smith,16-10-2003,Male,A-,Hypertension,20-02-2020,Brenda Bates DVM,24509.04181,407,Urgent,27-02-2020,Lipitor,Inconclusive,99.3,65,9843274151
+6.71E+13,Christina Martinez,17-10-2003,Female,AB-,Arthritis,30-12-2020,Gabriella White,1997.332761,188,Urgent,18-01-2021,Paracetamol,Normal,98.3,95,9843274151
+1.85E+12,Ryan Richmond,18-10-2003,Male,A-,Cancer,28-03-2020,Sean Thomas,6575.139468,213,Emergency,03-04-2020,Aspirin,Abnormal,97.7,77,9843274151
+7.75E+12,Linda Wheeler,19-10-2003,Male,A-,Arthritis,07-05-2020,Aaron Burnett,37421.29666,405,Emergency,04-06-2020,Lipitor,Abnormal,98.3,61,9843274151
+4.54E+13,Anna Phillips,20-10-2003,Male,O-,Obesity,24-04-2022,Caleb Rasmussen,4679.119039,358,Elective,22-05-2022,Ibuprofen,Normal,101.7,113,9843274151
+9.67E+12,Juan Patel,21-10-2003,Female,AB-,Diabetes,30-07-2021,Christopher Castaneda,22787.27924,147,Urgent,27-08-2021,Paracetamol,Abnormal,98.6,60,9843274151
+1.49E+11,Miguel Fields,22-10-2003,Female,B-,Diabetes,12-08-2023,Angela Mcdonald,33925.02014,115,Elective,29-08-2023,Aspirin,Normal,100,101,9843274151
+6.55E+12,Tyler Rosario,23-10-2003,Female,O-,Cancer,07-07-2021,Julia Gibson,42685.19,436,Emergency,16-07-2021,Penicillin,Abnormal,98.4,68,9843274151
+5.75E+12,Lisa Johnson,24-10-2003,Male,B-,Diabetes,24-08-2020,Denise Jones,9029.126291,263,Emergency,05-09-2020,Ibuprofen,Normal,98.2,80,9843274151
+6.26E+11,David Sanchez,25-10-2003,Male,O+,Arthritis,27-07-2019,Sandra Hogan,6777.229314,493,Emergency,08-08-2019,Ibuprofen,Inconclusive,98,72,9843274151
+9.91E+13,Teresa Marks,26-10-2003,Female,O+,Cancer,19-08-2023,Kathryn Garcia,28792.63197,460,Emergency,07-09-2023,Ibuprofen,Inconclusive,98.5,97,9843274151
+1.49E+12,Jonathan Fernandez,27-10-2003,Female,O+,Arthritis,15-01-2021,Adrian Terry,22081.27826,356,Emergency,26-01-2021,Penicillin,Abnormal,98.5,88,9843274151
+1.98E+13,Douglas Crawford,28-10-2003,Male,AB+,Arthritis,16-08-2023,Joseph Santiago,26440.39673,142,Elective,15-09-2023,Lipitor,Abnormal,98,109,9843274151
+1.83E+11,Anthony Fisher,29-10-2003,Female,O+,Asthma,22-10-2019,Kristin Nash,46144.93972,392,Emergency,10-11-2019,Aspirin,Normal,98,82,9843274151
+2.27E+11,Kimberly Vargas,30-10-2003,Female,B+,Obesity,28-12-2018,Donald Nelson,5319.542763,139,Elective,27-01-2019,Aspirin,Abnormal,98.3,96,9843274151
+2.69E+13,Travis Walker,31-10-2003,Female,A-,Arthritis,12-01-2019,Nathan Colon,44047.14424,482,Elective,11-02-2019,Penicillin,Normal,101.2,120,9843274151
+7.47E+13,Amanda Ortiz,01-11-2003,Male,A+,Cancer,30-06-2019,John Chavez MD,47452.44188,141,Urgent,20-07-2019,Lipitor,Abnormal,98.3,124,9843274151
+3.38E+12,Keith Johns,02-11-2003,Female,B-,Diabetes,12-12-2020,Stephen West,34056.92987,397,Emergency,29-12-2020,Paracetamol,Normal,98.3,66,9843274151
+4.14E+12,Jesse Williams,03-11-2003,Male,B-,Arthritis,21-10-2019,Eric Sellers,17241.11636,347,Urgent,22-10-2019,Lipitor,Abnormal,97.8,88,9843274151
+4.45E+12,Michael Ford,04-11-2003,Female,B-,Cancer,10-02-2021,Raymond Moore Jr.,18898.60356,245,Elective,21-02-2021,Ibuprofen,Inconclusive,98.1,97,9843274151
+4.31E+14,Jessica Ford,05-11-2003,Female,O-,Diabetes,15-08-2020,Briana Olson,35869.40641,143,Elective,29-08-2020,Paracetamol,Normal,98.5,90,9843274151
+8.78E+14,Thomas Washington,06-11-2003,Female,A+,Cancer,17-03-2022,Sherri Jones,23559.59614,405,Emergency,09-04-2022,Paracetamol,Inconclusive,98.8,84,9843274151
+2.29E+12,Ariel Davis,07-11-2003,Female,B-,Hypertension,23-10-2021,Bethany Graham,23777.79552,142,Elective,21-11-2021,Lipitor,Abnormal,98,71,9843274151
+2.95E+14,Joyce Vaughn,08-11-2003,Male,O-,Diabetes,22-09-2021,Angelica Gross,16931.63601,108,Emergency,22-10-2021,Lipitor,Normal,98.6,101,9843274151
+6.32E+13,Jermaine Thomas,09-11-2003,Female,B+,Arthritis,28-03-2021,Carrie Ho,13073.28802,268,Emergency,06-04-2021,Penicillin,Normal,98.6,89,9843274151
+8.19E+12,Jason Horn,10-11-2003,Female,AB+,Arthritis,18-11-2018,David Williams,5092.749675,182,Urgent,08-12-2018,Aspirin,Inconclusive,97.5,83,9843274151
+1.99E+14,Samuel Welch,11-11-2003,Male,B-,Hypertension,26-02-2020,Stacy Salazar,22577.60261,119,Elective,18-03-2020,Aspirin,Abnormal,98.4,80,9843274151
+7.94E+13,Steven Boyer,12-11-2003,Male,B+,Arthritis,10-12-2020,Mitchell Bradshaw,11057.97564,176,Emergency,09-01-2021,Ibuprofen,Abnormal,98.6,102,9843274151
+5.25E+12,Gabrielle Francis,13-11-2003,Male,A-,Asthma,15-10-2022,Jennifer Barry,1923.906794,462,Elective,19-10-2022,Ibuprofen,Abnormal,98.8,88,9843274151
+3.73E+14,Christian Guerrero,14-11-2003,Male,B+,Cancer,03-07-2023,Catherine Russell,33776.79959,484,Urgent,19-07-2023,Aspirin,Inconclusive,98.6,70,9843274151
+1.25E+11,Christopher Juarez,15-11-2003,Male,B+,Obesity,23-04-2023,William Martinez,38450.62746,329,Urgent,01-05-2023,Penicillin,Normal,98.4,78,9843274151
+1.66E+14,Paul Greer,16-11-2003,Male,A+,Obesity,05-10-2020,Amanda Young,48379.06256,335,Urgent,03-11-2020,Aspirin,Inconclusive,100.2,116,9843274151
+6.82E+13,Brian Robinson,17-11-2003,Female,A+,Hypertension,12-09-2021,Angela Cruz DDS,40340.53042,201,Emergency,27-09-2021,Lipitor,Inconclusive,100.9,98,9843274151
+4.23E+13,Scott Adams,18-11-2003,Male,O+,Diabetes,31-10-2022,Marcus Reed,18161.75198,309,Emergency,29-11-2022,Penicillin,Inconclusive,99.4,88,9843274151
+3.72E+11,Amber Solomon,19-11-2003,Male,A+,Hypertension,28-12-2020,Denise Richards,23517.46185,389,Urgent,14-01-2021,Paracetamol,Normal,98,98,9843274151
+3.33E+12,Jacob Howell,20-11-2003,Female,O+,Obesity,25-08-2019,Andrea Nguyen,24116.59973,217,Urgent,23-09-2019,Aspirin,Inconclusive,98.6,120,9843274151
+2.92E+12,Monica Stevens,21-11-2003,Female,A+,Asthma,16-02-2020,Ian Hunter,8895.137288,137,Elective,27-02-2020,Aspirin,Abnormal,98.6,82,9843274151
+4.44E+14,Kurt Sloan,22-11-2003,Female,AB-,Obesity,14-06-2022,Thomas Smith,48995.04884,299,Emergency,13-07-2022,Aspirin,Inconclusive,97.8,77,9843274151
+7.95E+12,Allison White,23-11-2003,Female,A+,Diabetes,16-08-2021,Wesley Thompson,17835.95054,275,Urgent,01-09-2021,Aspirin,Normal,98.3,99,9843274151
+4.34E+13,Ronald Rollins,24-11-2003,Female,O+,Obesity,02-03-2023,Eduardo Ross,36379.94715,181,Emergency,27-03-2023,Ibuprofen,Abnormal,98.5,80,9843274151
+1.3E+14,Albert Dunn,25-11-2003,Male,A+,Obesity,22-01-2021,Rita Payne,23684.91555,401,Emergency,19-02-2021,Paracetamol,Abnormal,98.3,89,9843274151
+3.74E+12,Anthony Armstrong,26-11-2003,Female,B-,Obesity,25-05-2023,Sherry Sharp,20312.76982,263,Elective,15-06-2023,Paracetamol,Inconclusive,97.9,51,9843274151
+3.77E+11,William Jacobson,27-11-2003,Female,A-,Hypertension,11-11-2020,Diana Hunt,47999.80613,214,Elective,14-11-2020,Lipitor,Normal,97.7,66,9843274151
+9.54E+12,Jennifer Reeves,28-11-2003,Male,A-,Diabetes,05-12-2019,Christina Gonzalez,41814.42447,267,Emergency,13-12-2019,Penicillin,Inconclusive,98.3,70,9843274151
+6E+13,Tammy Thompson,29-11-2003,Male,AB+,Cancer,31-05-2021,Rodney Obrien,25436.99472,211,Urgent,01-06-2021,Lipitor,Inconclusive,98.2,84,9843274151
+3.59E+13,Susan Mills,30-11-2003,Male,O+,Diabetes,08-03-2020,Shannon Pineda,22139.972,247,Elective,06-04-2020,Paracetamol,Normal,97.7,68,9843274151
+8.47E+11,Kelly Manning,01-12-2003,Female,O-,Obesity,21-06-2019,Laurie Gonzalez,39666.24055,482,Elective,20-07-2019,Penicillin,Inconclusive,98.8,92,9843274151
+4.67E+12,Joseph Barrera,02-12-2003,Female,A-,Arthritis,27-03-2022,Sydney Brown,26051.41446,184,Emergency,07-04-2022,Ibuprofen,Inconclusive,98.4,99,9843274151
+744463183,Jason Hunter,03-12-2003,Male,B+,Diabetes,13-09-2019,Jonathan Phillips,19279.26021,140,Emergency,16-09-2019,Aspirin,Abnormal,98.1,93,9843274151
+9.71E+12,Martha Franklin,04-12-2003,Male,B+,Cancer,23-03-2022,Brandon Ray,32007.35286,416,Elective,04-04-2022,Ibuprofen,Inconclusive,97.9,67,9843274151
+3.29E+11,Alyssa Osborne,05-12-2003,Male,B-,Obesity,19-06-2020,Deborah Johnson,36823.92826,179,Elective,04-07-2020,Paracetamol,Normal,98.3,79,9843274151
+6.3E+12,Carlos Young,06-12-2003,Male,O-,Hypertension,09-07-2021,Matthew Williams,36946.00027,115,Urgent,10-07-2021,Paracetamol,Normal,98.6,90,9843274151
+4.56E+14,Jesse Sanders,07-12-2003,Female,A-,Asthma,14-01-2020,Tim Bradshaw,3345.703489,292,Elective,05-02-2020,Penicillin,Inconclusive,98,81,9843274151
+4.6E+12,Mrs. Brittany Fields,08-12-2003,Female,AB+,Arthritis,01-11-2022,Charles Medina,21591.83617,289,Elective,24-11-2022,Ibuprofen,Abnormal,98.2,78,9843274151
+3.67E+13,Melanie Clark,09-12-2003,Male,AB+,Hypertension,24-08-2021,Kathleen Cummings MD,13080.66532,293,Elective,06-09-2021,Ibuprofen,Abnormal,97.9,72,9843274151
+5.48E+11,Kevin Andrews,10-12-2003,Female,B+,Arthritis,28-04-2023,Judy Carlson,31008.47931,350,Urgent,04-05-2023,Aspirin,Abnormal,98,72,9843274151
+1E+14,Caitlin Sanders,11-12-2003,Male,O-,Hypertension,14-11-2021,William Wolf,31546.5202,104,Urgent,26-11-2021,Aspirin,Abnormal,98.2,98,9843274151
+9.45E+14,Sabrina Patterson,12-12-2003,Female,AB+,Arthritis,16-07-2020,Carl Rivera,9824.265046,238,Emergency,05-08-2020,Penicillin,Abnormal,99.2,88,9843274151
+4.22E+12,Destiny Parks,13-12-2003,Female,O-,Arthritis,28-04-2022,Jennifer Vasquez,44419.98542,220,Elective,20-05-2022,Paracetamol,Normal,97.3,84,9843274151
+9.49E+14,Antonio Miller,14-12-2003,Female,AB+,Arthritis,03-08-2023,Rachel Wheeler,13759.84381,464,Urgent,22-08-2023,Penicillin,Inconclusive,98,80,9843274151
+5.54E+13,Matthew Oliver,15-12-2003,Male,O-,Diabetes,30-04-2022,David Stephenson,22862.2085,215,Urgent,11-05-2022,Ibuprofen,Normal,98.7,80,9843274151
+1.52E+14,Joshua Benjamin,16-12-2003,Male,AB+,Hypertension,20-10-2020,Stephanie Parker,40372.11674,419,Urgent,23-10-2020,Paracetamol,Normal,95.8,56,9843274151
+4.76E+13,Albert Carter,17-12-2003,Female,A-,Diabetes,07-08-2020,Kelly Sanchez,37867.01933,445,Emergency,28-08-2020,Lipitor,Normal,98.3,52,9843274151
+8.47E+14,James Pittman,18-12-2003,Male,A-,Arthritis,01-12-2022,Sierra Graves,42968.2727,401,Emergency,04-12-2022,Ibuprofen,Normal,98.2,75,9843274151
+3.59E+12,Danielle Rice,19-12-2003,Male,AB-,Cancer,04-03-2019,Ryan Wilkins,23907.33532,247,Elective,24-03-2019,Penicillin,Inconclusive,98,104,9843274151
+2.16E+12,John Edwards,20-12-2003,Female,A-,Obesity,31-05-2020,Nicole Holland,17415.97577,398,Emergency,18-06-2020,Aspirin,Normal,97.9,74,9843274151
+7.61E+12,Lori Sanders,21-12-2003,Male,AB-,Obesity,29-07-2020,Victoria Stafford,49219.20954,146,Elective,20-08-2020,Paracetamol,Inconclusive,98.6,74,9843274151
+3.43E+12,Rebecca Mcdonald,22-12-2003,Male,O+,Hypertension,18-04-2023,Timothy Miller,6171.457068,153,Emergency,27-04-2023,Penicillin,Abnormal,97.6,73,9843274151
+85457935622,James Marsh,23-12-2003,Female,O+,Arthritis,20-08-2020,Angela Wright,31644.801,336,Emergency,22-08-2020,Ibuprofen,Normal,98,91,9843274151
+2.87E+11,Patrick Bates,24-12-2003,Male,B+,Cancer,09-07-2023,Jillian Marshall,44535.25304,413,Emergency,17-07-2023,Penicillin,Normal,97.9,83,9843274151
+9.47E+12,Sheila Castro,25-12-2003,Female,AB-,Diabetes,19-08-2023,Zachary Potter,10591.26964,115,Emergency,27-08-2023,Penicillin,Inconclusive,98,94,9843274151
+2.32E+13,Tim Mercer,26-12-2003,Female,AB+,Arthritis,09-05-2021,Gabrielle Pitts,43535.60904,145,Emergency,24-05-2021,Aspirin,Normal,97.9,89,9843274151
+1.49E+13,Andrea Williams,27-12-2003,Male,AB+,Asthma,21-04-2019,Jason Mcintosh,41058.23387,148,Urgent,09-05-2019,Aspirin,Abnormal,97.8,74,9843274151
+2.94E+14,Zachary Wood,28-12-2003,Male,O-,Arthritis,23-06-2021,Jessica Smith,7154.9567,432,Emergency,03-07-2021,Paracetamol,Inconclusive,98.3,111,9843274151
+4.76E+12,Meghan Burns,29-12-2003,Female,O+,Hypertension,30-04-2022,Spencer Bentley,46131.07032,430,Emergency,18-05-2022,Lipitor,Normal,98,50,9843274151
+1.76E+14,Mark Grant,30-12-2003,Male,AB+,Asthma,01-04-2021,Bruce Matthews,16487.67679,406,Elective,01-05-2021,Ibuprofen,Abnormal,97.9,100,9843274151
+2.37E+13,Kelly Walker,31-12-2003,Female,A+,Asthma,27-04-2023,Jason Ryan,31583.55279,214,Emergency,28-04-2023,Aspirin,Abnormal,98.2,72,9843274151
+4.29E+12,Kelly Miller,01-01-2004,Male,B-,Asthma,20-08-2021,Mark Fischer,29289.6526,295,Elective,28-08-2021,Aspirin,Abnormal,98.3,65,9843274151
+2.98E+14,Tina Vargas,02-01-2004,Female,B+,Hypertension,04-12-2019,Katherine George,27022.82693,175,Urgent,19-12-2019,Lipitor,Normal,98,87,9843274151
+5.64E+14,Christopher Gilbert,03-01-2004,Male,AB+,Cancer,20-08-2020,Nicholas Glover,13962.42778,409,Urgent,14-09-2020,Lipitor,Inconclusive,97.9,106,9843274151
+2.15E+12,Randall Meyer,04-01-2004,Female,O+,Asthma,16-12-2021,Christopher Wallace,18991.07322,424,Emergency,26-12-2021,Ibuprofen,Normal,99.5,72,9843274151
+53924187266,Russell Holden,05-01-2004,Female,B+,Hypertension,25-06-2019,Adam Rasmussen,8851.608731,168,Elective,29-06-2019,Ibuprofen,Inconclusive,97.8,105,9843274151
+1.46E+13,Sara Bates,06-01-2004,Male,AB+,Arthritis,02-04-2020,Richard Harris,31670.26328,136,Emergency,22-04-2020,Aspirin,Inconclusive,97.7,70,9843274151
+3.8E+13,Jeff Cooper MD,07-01-2004,Female,B-,Hypertension,17-03-2020,Erika Long,25129.17595,459,Emergency,06-04-2020,Ibuprofen,Inconclusive,97.7,84,9843274151
+19252634865,Anne Smith,08-01-2004,Male,B-,Arthritis,31-07-2022,Nathan Hawkins,6787.53399,110,Urgent,20-08-2022,Ibuprofen,Inconclusive,98.6,51,9843274151
+19252634865,Ernest Peters,09-01-2004,Female,O+,Asthma,09-04-2022,Christopher Sullivan,5974.970205,238,Emergency,13-04-2022,Ibuprofen,Inconclusive,98.4,119,9843274151
+9.72E+14,Tammy Savage,10-01-2004,Female,AB+,Diabetes,31-03-2022,Laura Johnson,18200.758,261,Elective,06-04-2022,Ibuprofen,Abnormal,98.4,125,9843274151
+2.86E+13,Deborah Butler,11-01-2004,Female,A+,Asthma,27-11-2019,Tammy Williamson,10753.75762,145,Urgent,14-12-2019,Paracetamol,Normal,98.8,112,9843274151
+2.43E+13,Amy Jensen,12-01-2004,Female,O-,Diabetes,02-03-2022,Kara Frey,28004.34154,261,Elective,25-03-2022,Ibuprofen,Abnormal,97.9,59,9843274151
+5.88E+14,Zachary Martinez,13-01-2004,Male,AB+,Hypertension,13-07-2022,Dr. Jessica Harris MD,41890.24644,257,Emergency,26-07-2022,Penicillin,Inconclusive,98,94,9843274151
+6.99E+11,Eric Wilson,14-01-2004,Female,O-,Asthma,28-04-2020,Jeffery Maxwell,23961.06981,170,Elective,24-05-2020,Ibuprofen,Inconclusive,97.9,96,9843274151
+2.92E+13,Matthew Pratt,15-01-2004,Female,AB+,Hypertension,21-10-2021,Stephanie Clark,42051.09409,219,Emergency,09-11-2021,Aspirin,Abnormal,98.7,86,9843274151
+2.54E+14,Andrew Alvarez,16-01-2004,Female,B+,Hypertension,02-04-2023,Jenna Ward,32613.24161,186,Elective,25-04-2023,Aspirin,Abnormal,97.8,86,9843274151
+3.79E+14,Jocelyn Simmons,17-01-2004,Female,A-,Obesity,19-05-2023,Vicki Merritt,36745.21046,451,Elective,22-05-2023,Lipitor,Abnormal,97.8,94,9843274151
+3.25E+13,Andre Perez MD,18-01-2004,Male,A+,Asthma,02-02-2020,Kevin Davis,21341.23884,372,Emergency,18-02-2020,Penicillin,Normal,98.2,82,9843274151
+4.19E+14,Michael White,19-01-2004,Male,B-,Hypertension,18-02-2022,Emily Jensen,26060.67337,202,Emergency,23-02-2022,Aspirin,Abnormal,98,105,9843274151
+2.76E+12,Emily Perez,20-01-2004,Female,B+,Asthma,29-04-2020,Michael Pacheco,23968.31692,245,Elective,18-05-2020,Ibuprofen,Normal,98.1,70,9843274151
+9.67E+12,David Casey,21-01-2004,Male,B-,Cancer,01-02-2022,Jason Little,25926.94854,394,Elective,15-02-2022,Aspirin,Normal,98.2,57,9843274151
+1E+13,Joseph Bailey,22-01-2004,Male,O-,Obesity,08-10-2023,Mark Nichols,13981.11261,372,Elective,27-10-2023,Lipitor,Abnormal,98.5,119,9843274151
+1.24E+12,Raymond Cain,23-01-2004,Female,B+,Asthma,24-05-2023,Joseph Navarro,21470.41774,264,Elective,27-05-2023,Aspirin,Inconclusive,98.4,109,9843274151
+7.53E+14,Victoria Dunn,24-01-2004,Female,AB+,Asthma,23-12-2018,Allison Bond,45391.28464,398,Urgent,13-01-2019,Lipitor,Normal,98.6,69,9843274151
+8.75E+11,Paula Knight,25-01-2004,Female,O-,Hypertension,04-03-2020,Douglas Holmes,20926.29798,279,Emergency,01-04-2020,Lipitor,Abnormal,98.3,80,9843274151
+2.37E+13,Jennifer Trevino,26-01-2004,Male,B-,Cancer,24-08-2019,Shannon Hall,14029.20695,260,Emergency,05-09-2019,Paracetamol,Abnormal,98.9,91,9843274151
+5.72E+13,Mrs. Deborah Rose,27-01-2004,Female,O+,Diabetes,04-12-2020,Charles Mora,47034.49402,499,Emergency,12-12-2020,Paracetamol,Normal,97.9,85,9843274151
+7.68E+13,Ryan Cross,28-01-2004,Male,O-,Obesity,18-05-2019,Kevin Morris,48782.85632,452,Emergency,31-05-2019,Lipitor,Normal,97.7,60,9843274151
+6.59E+12,Michael Morgan,29-01-2004,Male,O+,Hypertension,23-09-2022,Heather Anderson,40262.31151,365,Urgent,19-10-2022,Ibuprofen,Inconclusive,98.6,119,9843274151
+6.85E+11,Christina Armstrong,30-01-2004,Male,A-,Hypertension,18-12-2022,Joshua Larson,17902.64639,267,Urgent,05-01-2023,Paracetamol,Inconclusive,97.9,93,9843274151
+9.56E+14,Anne Bates,31-01-2004,Male,B+,Diabetes,13-05-2020,Alyssa Acevedo,15773.90118,340,Emergency,03-06-2020,Lipitor,Inconclusive,98.3,83,9843274151
+7.27E+12,Scott Nicholson,01-02-2004,Male,A-,Cancer,03-11-2020,Kelly Scott MD,31155.40427,360,Emergency,07-11-2020,Paracetamol,Inconclusive,102,108,9843274151
+2.3E+14,Jeffrey Cross,02-02-2004,Female,A+,Asthma,25-03-2020,Ashley Taylor,7140.773833,290,Urgent,10-04-2020,Paracetamol,Normal,102.6,124,9843274151
+2.14E+13,Holly Hickman,03-02-2004,Male,A-,Obesity,02-05-2023,William Meza,21901.82664,103,Urgent,27-05-2023,Lipitor,Inconclusive,98.1,80,9843274151
+1.88E+12,Jacob Rodriguez,04-02-2004,Female,O-,Diabetes,07-12-2022,Jessica Powell MD,36744.03788,187,Urgent,22-12-2022,Aspirin,Abnormal,97.9,89,9843274151
+1.49E+11,Jessica Joseph,05-02-2004,Female,B+,Hypertension,26-05-2020,Theresa Garcia,37006.72483,378,Elective,05-06-2020,Paracetamol,Inconclusive,97.4,67,9843274151
+5.5E+14,Stacy Williams,06-02-2004,Male,O+,Cancer,27-06-2022,Stephanie Bennett,42431.39127,334,Elective,02-07-2022,Lipitor,Normal,98.3,103,9843274151
+7.25E+11,Gregory Wilson,07-02-2004,Female,AB+,Hypertension,10-07-2020,Michelle Harris,14578.91301,470,Urgent,04-08-2020,Penicillin,Normal,97,72,9843274151
+7.57E+12,Elizabeth Sullivan,08-02-2004,Male,A-,Cancer,12-12-2021,Lee Evans,30845.78202,252,Elective,18-12-2021,Aspirin,Inconclusive,98.1,91,9843274151
+6.64E+13,Wendy Cantu,09-02-2004,Female,A+,Obesity,01-06-2023,Michael Sutton,14876.21548,162,Emergency,13-06-2023,Lipitor,Abnormal,102,108,9843274151
+7.33E+13,Michael White,10-02-2004,Male,AB+,Asthma,13-03-2023,James Nichols,37318.52253,372,Urgent,19-03-2023,Lipitor,Normal,98.5,76,9843274151
+5.42E+13,Paul Wells,11-02-2004,Male,B+,Hypertension,15-07-2019,Terry Bean,5727.338103,450,Elective,31-07-2019,Lipitor,Abnormal,98.7,85,9843274151
+1.88E+14,Troy Villarreal,12-02-2004,Female,AB-,Diabetes,17-11-2022,Jose Cross,38068.85215,106,Emergency,26-11-2022,Aspirin,Abnormal,97.5,53,9843274151
+6.65E+14,Latoya Price,13-02-2004,Male,B+,Asthma,23-01-2019,Dennis Morris,21198.65473,259,Urgent,02-02-2019,Lipitor,Abnormal,99.3,155,9843274151
+9458117812,Paul Watson,14-02-2004,Female,O+,Arthritis,25-03-2022,David Davis,35415.68223,344,Urgent,04-04-2022,Lipitor,Normal,98.8,100,9843274151
+3.94E+14,Alejandro Ramirez DDS,15-02-2004,Male,A+,Arthritis,25-10-2022,Shane Browning,3673.042948,489,Urgent,28-10-2022,Penicillin,Normal,97.8,71,9843274151
+1.17E+12,Timothy Miranda,16-02-2004,Male,B+,Cancer,21-11-2018,Kara Barton,1608.691793,153,Urgent,29-11-2018,Penicillin,Abnormal,98,78,9843274151
+2.38E+11,Brian Shea,17-02-2004,Male,AB-,Asthma,30-09-2022,Bonnie Weaver,24357.60787,276,Urgent,05-10-2022,Lipitor,Abnormal,97.8,97,9843274151
+4.44E+11,Shirley Casey,18-02-2004,Female,B+,Diabetes,24-02-2022,Christopher Barton,28710.51395,134,Elective,26-02-2022,Paracetamol,Abnormal,97.2,88,9843274151
+6.52E+14,Kathy Cross,19-02-2004,Female,A+,Asthma,30-12-2019,Andrew Mendez,7942.853286,155,Emergency,26-01-2020,Penicillin,Abnormal,98,111,9843274151
+7.56E+12,Pam Cantu,20-02-2004,Female,A-,Asthma,09-11-2018,Jonathan Rodriguez,3623.408231,361,Urgent,19-11-2018,Paracetamol,Abnormal,99.7,78,9843274151
+1.75E+12,Heidi Parker,21-02-2004,Male,A+,Arthritis,02-06-2021,Geoffrey Diaz,5516.704185,155,Urgent,14-06-2021,Aspirin,Abnormal,97.3,73,9843274151
+2.15E+13,Lori Anderson,22-02-2004,Male,B-,Arthritis,12-11-2021,Austin Alvarado,1452.053819,120,Emergency,28-11-2021,Penicillin,Abnormal,97.9,105,9843274151
+6.43E+13,Colleen Swanson,23-02-2004,Male,O+,Arthritis,30-10-2019,Russell Soto,19630.67349,455,Urgent,13-11-2019,Aspirin,Inconclusive,97.8,77,9843274151
+7.34E+14,Christopher Campos,24-02-2004,Female,B-,Arthritis,18-09-2023,Anna Meyers,7061.84244,425,Urgent,30-09-2023,Ibuprofen,Abnormal,98.6,112,9843274151
+4.69E+14,Samantha Simpson,25-02-2004,Male,O-,Obesity,21-07-2019,Susan Pennington,48659.59883,108,Urgent,10-08-2019,Lipitor,Normal,97.6,85,9843274151
+7.12E+12,Terrence Edwards,26-02-2004,Male,B-,Asthma,13-02-2021,Wanda Warren,4357.928047,361,Emergency,02-03-2021,Ibuprofen,Abnormal,97.3,80,9843274151
+2.62E+13,Amanda Lee,27-02-2004,Female,A-,Diabetes,12-02-2020,Brenda Burton,17166.80211,181,Elective,06-03-2020,Penicillin,Abnormal,97.3,93,9843274151
+1.29E+13,Nancy Moore,28-02-2004,Female,B-,Cancer,11-07-2023,Christopher Garcia,34595.32839,205,Elective,02-08-2023,Penicillin,Abnormal,98.2,86,9843274151
+9.75E+14,Rachel Williams,29-02-2004,Male,A-,Arthritis,17-01-2023,Zachary Rogers,4871.013184,400,Elective,25-01-2023,Lipitor,Abnormal,97.3,84,9843274151
+1.73E+11,Carolyn Murphy,01-03-2004,Female,AB+,Diabetes,12-08-2022,Jennifer Merritt,24714.11476,127,Emergency,28-08-2022,Penicillin,Inconclusive,99.6,106,9843274151
+6.36E+13,Angela Beard,02-03-2004,Male,AB+,Cancer,28-03-2021,Colleen Velazquez,25146.96665,148,Emergency,04-04-2021,Lipitor,Normal,97.8,71,9843274151
+82186114497,Vanessa Taylor,03-03-2004,Male,AB+,Cancer,14-05-2019,Austin Fernandez,1523.10602,333,Elective,15-05-2019,Penicillin,Normal,98.1,87,9843274151
+3.25E+14,Brooke Ellison,04-03-2004,Male,A+,Asthma,29-03-2021,Christina Barnes,42208.79875,162,Elective,25-04-2021,Ibuprofen,Inconclusive,98,77,9843274151
+1.89E+13,Kevin Copeland,05-03-2004,Female,O-,Cancer,12-05-2019,Brian Walsh,17656.0384,119,Urgent,25-05-2019,Lipitor,Normal,101.7,133,9843274151
+9.87E+12,Timothy Lynch,06-03-2004,Male,A+,Asthma,24-05-2021,Latoya Knapp,19286.48182,456,Elective,21-06-2021,Ibuprofen,Normal,98.1,82,9843274151
+4.27E+14,Christopher Barker,07-03-2004,Male,AB+,Obesity,28-08-2022,Terry Berger,12580.88843,443,Elective,20-09-2022,Aspirin,Normal,98.6,77,9843274151
+2.95E+13,Stephanie Ayers,08-03-2004,Female,B-,Hypertension,26-07-2022,Michelle Perez,24153.7093,129,Urgent,21-08-2022,Lipitor,Normal,98.4,90,9843274151
+1.16E+13,Amber Foley,09-03-2004,Female,O+,Cancer,28-06-2020,Amber Jennings,33771.61715,292,Elective,23-07-2020,Penicillin,Normal,97.6,137,9843274151
+9.87E+12,Geoffrey Robertson,10-03-2004,Female,A-,Obesity,06-05-2021,Tony Hawkins,35774.25699,164,Emergency,30-05-2021,Aspirin,Inconclusive,98.1,102,9843274151
+3.72E+11,Laurie Mitchell,11-03-2004,Female,B-,Obesity,10-11-2018,Chris Cobb DVM,26660.61244,486,Elective,14-11-2018,Lipitor,Abnormal,97.8,99,9843274151
+3.86E+13,Stephanie Carter,12-03-2004,Male,A+,Obesity,29-10-2021,Aaron Taylor,12586.40269,440,Elective,12-11-2021,Penicillin,Inconclusive,97.4,94,9843274151
+8.49E+14,Ana Hall,13-03-2004,Female,B+,Asthma,23-02-2021,Gregory Schroeder,36936.78774,275,Elective,06-03-2021,Ibuprofen,Abnormal,98.2,84,9843274151
+8.82E+13,Thomas Lopez,14-03-2004,Female,B+,Diabetes,06-01-2020,Monica Mueller,3973.849432,265,Urgent,10-01-2020,Ibuprofen,Abnormal,98,81,9843274151
+8.57E+13,Paul Welch,15-03-2004,Female,B-,Hypertension,11-08-2022,Ann Butler,7377.715553,459,Elective,23-08-2022,Aspirin,Normal,96.6,71,9843274151
+8.43E+14,David Harding,16-03-2004,Male,O+,Cancer,15-11-2019,Sheri Ramirez,41708.40918,193,Urgent,12-12-2019,Ibuprofen,Normal,97.8,80,9843274151
+7.66E+14,Frederick Salazar,17-03-2004,Female,B+,Cancer,27-11-2021,Richard Shaw,39323.8513,309,Emergency,11-12-2021,Penicillin,Inconclusive,99.2,70,9843274151
+6.96E+11,Jose Hayes,18-03-2004,Female,AB-,Arthritis,19-03-2019,Samuel Sutton,45969.61025,222,Emergency,18-04-2019,Ibuprofen,Normal,98.5,78,9843274151
+1.79E+13,Kara Long,19-03-2004,Female,AB-,Diabetes,17-10-2020,Kimberly Palmer,37374.02614,488,Emergency,14-11-2020,Lipitor,Abnormal,96.8,117,9843274151
+5.15E+13,David Reed,20-03-2004,Male,AB-,Cancer,17-05-2023,Alex Sutton,39086.98787,472,Emergency,23-05-2023,Ibuprofen,Normal,97.2,46,9843274151
+7.37E+11,Wayne Livingston,21-03-2004,Female,O-,Hypertension,05-10-2020,Tina Jordan,40530.70254,391,Urgent,16-10-2020,Paracetamol,Normal,97,70,9843274151
+6.47E+13,Joel Williams,22-03-2004,Female,B-,Hypertension,07-11-2021,Jose Love MD,11571.57078,295,Elective,22-11-2021,Ibuprofen,Inconclusive,97.6,80,9843274151
+1.34E+13,Michael Daniel,23-03-2004,Female,O+,Diabetes,05-11-2018,Meredith Johnson DDS,44256.64931,186,Urgent,18-11-2018,Lipitor,Normal,98.3,94,9843274151
+4.77E+12,Deanna Moon,24-03-2004,Male,A+,Hypertension,06-12-2019,John Thompson,11113.37366,162,Urgent,17-12-2019,Ibuprofen,Abnormal,97.9,76,9843274151
+5.95E+14,Wanda Moore MD,25-03-2004,Male,A-,Hypertension,20-03-2021,Mark Barnes,19660.00693,179,Elective,03-04-2021,Penicillin,Inconclusive,98.5,108,9843274151
+2.93E+13,Charles Singleton,26-03-2004,Female,AB-,Cancer,03-01-2020,Philip Torres,45434.40973,230,Urgent,30-01-2020,Lipitor,Abnormal,98.2,130,9843274151
+1.78E+13,Matthew Russell,27-03-2004,Female,AB-,Arthritis,28-02-2019,William Hart,49035.20693,460,Urgent,26-03-2019,Paracetamol,Inconclusive,98.6,75,9843274151
+9.96E+12,Anna Davis,28-03-2004,Female,B+,Asthma,25-06-2023,Joshua Wilson,43321.06324,322,Elective,28-06-2023,Aspirin,Normal,97.7,90,9843274151
+8.72E+13,Emily Sanders,29-03-2004,Female,A+,Diabetes,03-01-2022,Kenneth Higgins,44033.88632,272,Emergency,12-01-2022,Paracetamol,Abnormal,98.4,75,9843274151
+9.99E+11,Erin Molina,30-03-2004,Female,A-,Arthritis,20-08-2021,Rebekah Cruz,36912.18671,452,Emergency,01-09-2021,Lipitor,Normal,97.9,89,9843274151
+7.13E+14,Alyssa Wright,31-03-2004,Female,O+,Hypertension,03-02-2021,Destiny Avery,23391.79405,301,Urgent,05-03-2021,Lipitor,Inconclusive,97.8,64,9843274151
+5.37E+12,Samantha Mora,01-04-2004,Female,A-,Arthritis,09-04-2022,Jerry Cruz,12547.10088,154,Elective,05-05-2022,Aspirin,Normal,98.2,98,9843274151
+7.84E+11,Kyle Dean,02-04-2004,Male,A-,Cancer,02-02-2020,Nicole Fernandez,28792.05062,416,Emergency,15-02-2020,Lipitor,Abnormal,97.4,79,9843274151
+4.64E+13,Jodi Moore,03-04-2004,Female,AB-,Arthritis,30-07-2022,Misty Clark,48047.65259,414,Urgent,13-08-2022,Paracetamol,Inconclusive,98,106,9843274151
+2.29E+14,Mark Chen,04-04-2004,Male,O-,Hypertension,11-04-2021,Christopher Tran,18782.95573,236,Elective,21-04-2021,Ibuprofen,Abnormal,97,59,9843274151
+8.8E+13,Christina Rogers,05-04-2004,Male,A+,Hypertension,06-07-2023,Dana Adams,3866.337052,375,Emergency,12-07-2023,Penicillin,Abnormal,98.4,77,9843274151
+4.71E+13,Alejandro Baxter,06-04-2004,Female,B+,Obesity,08-05-2021,Nicole Miller,23016.7601,141,Urgent,26-05-2021,Aspirin,Normal,97.5,104,9843274151
+4.41E+14,Felicia Rodriguez,07-04-2004,Female,AB+,Cancer,17-06-2022,Misty Lopez,10159.67083,221,Urgent,04-07-2022,Penicillin,Inconclusive,98,76,9843274151
+5.78E+12,Rebecca Campbell,08-04-2004,Female,O+,Arthritis,29-12-2021,Alexis Reeves,2212.477919,244,Emergency,18-01-2022,Paracetamol,Normal,98,78,9843274151
+4.68E+12,Michael Pollard,09-04-2004,Male,AB+,Hypertension,14-08-2020,Donald Johnson,34789.57596,201,Emergency,30-08-2020,Lipitor,Inconclusive,98,68,9843274151
+7.68E+12,Willie Chan,10-04-2004,Male,AB-,Hypertension,20-07-2022,Norman Weaver,49488.20078,287,Urgent,27-07-2022,Ibuprofen,Normal,98.2,89,9843274151
+22357227114,Adam Ballard,11-04-2004,Female,A+,Diabetes,11-01-2021,Barbara Hurst,30304.65385,129,Urgent,29-01-2021,Aspirin,Inconclusive,97.8,77,9843274151
+9.27E+11,William Mahoney,12-04-2004,Male,O-,Diabetes,28-10-2023,Vanessa Wilson,24559.75929,179,Emergency,02-11-2023,Lipitor,Abnormal,98,95,9843274151
+68165314285,Aaron Hughes,13-04-2004,Male,O-,Asthma,04-12-2020,Scott Beck,13318.19549,181,Elective,30-12-2020,Aspirin,Abnormal,97.2,127,9843274151
+2.94E+14,Jeanette White,14-04-2004,Female,AB+,Obesity,16-03-2023,Rebecca Morales,30570.90207,243,Elective,14-04-2023,Paracetamol,Normal,97.9,96,9843274151
+6.54E+11,Tammy Williams,15-04-2004,Female,O-,Cancer,24-03-2020,Jessica Sanders,12831.04656,370,Elective,28-03-2020,Lipitor,Inconclusive,98.4,86,9843274151
+3.35E+12,Travis Morales,16-04-2004,Male,AB-,Hypertension,22-10-2021,Bradley Ellis,2684.401721,147,Elective,04-11-2021,Paracetamol,Inconclusive,98,89,9843274151
+6.29E+13,John Garza,17-04-2004,Female,AB+,Diabetes,17-04-2021,Jessica Newton,43535.02257,237,Elective,16-05-2021,Lipitor,Inconclusive,98.3,80,9843274151
+8.21E+12,Elizabeth Adams,18-04-2004,Male,AB-,Asthma,20-07-2020,Monica Wright,41414.98653,292,Urgent,09-08-2020,Aspirin,Abnormal,98,84,9843274151
+9.95E+14,Mindy Torres,19-04-2004,Male,AB-,Asthma,28-04-2022,Amber Flores,16085.73751,465,Elective,25-05-2022,Aspirin,Normal,97,87,9843274151
+85997128896,Nicole Smith,20-04-2004,Female,A+,Cancer,24-03-2021,Anne White,15847.44025,264,Urgent,12-04-2021,Ibuprofen,Inconclusive,97.9,75,9843274151
+2.94E+12,Donna Sanchez,21-04-2004,Female,B-,Diabetes,14-04-2021,Annette Cook,33811.68577,234,Elective,28-04-2021,Penicillin,Abnormal,97.9,94,9843274151
+38247915222,Stephen Manning,22-04-2004,Female,A+,Asthma,22-11-2022,William Oconnor,31911.12913,458,Urgent,09-12-2022,Paracetamol,Normal,98.6,53,9843274151
+7.69E+14,Willie Black,23-04-2004,Male,AB-,Hypertension,30-09-2021,Michael Sullivan,15801.84229,226,Urgent,28-10-2021,Penicillin,Abnormal,98.6,83,9843274151
+4.14E+13,Jennifer Berg,24-04-2004,Male,AB-,Arthritis,09-12-2020,Christopher Howard,22815.89121,478,Urgent,17-12-2020,Lipitor,Abnormal,97,96,9843274151
+6.73E+13,Lauren Ward,25-04-2004,Male,AB+,Diabetes,29-03-2023,Sarah Torres,26525.99381,204,Urgent,22-04-2023,Paracetamol,Abnormal,102.3,109,9843274151
+2.62E+11,John Briggs,26-04-2004,Female,AB-,Obesity,08-03-2019,Melissa Nguyen,22985.61666,366,Urgent,25-03-2019,Ibuprofen,Inconclusive,97.6,86,9843274151
+1.91E+11,Yvette Scott,27-04-2004,Female,AB-,Diabetes,24-08-2023,Catherine Jones,39573.52145,196,Emergency,21-09-2023,Paracetamol,Inconclusive,96.6,70,9843274151
+1.97E+13,Eric Martinez,28-04-2004,Female,AB-,Asthma,23-12-2021,Elizabeth Cordova,37246.81915,294,Elective,07-01-2022,Penicillin,Normal,97,88,9843274151
+5.4E+14,Jennifer Frye,29-04-2004,Male,AB-,Asthma,08-12-2022,Stephanie Bryan,49359.79206,462,Emergency,16-12-2022,Ibuprofen,Abnormal,97.9,109,9843274151
+1.2E+13,Jamie Kelley,30-04-2004,Male,O-,Asthma,10-07-2022,Samuel Lowe,42621.44965,297,Urgent,28-07-2022,Penicillin,Inconclusive,97.2,79,9843274151
+2.62E+12,Richard Kramer,01-05-2004,Male,B-,Arthritis,27-03-2021,Mr. Eric Smith,23660.21663,280,Elective,07-04-2021,Penicillin,Normal,99,98,9843274151
+82915128241,Ashley Armstrong,02-05-2004,Female,A+,Diabetes,23-12-2021,Jamie Marks,35791.95633,238,Urgent,10-01-2022,Penicillin,Inconclusive,98.4,70,9843274151
+5283221457,Jacob Meyers,03-05-2004,Male,O-,Asthma,08-08-2022,Wesley Mcpherson,43882.56195,374,Elective,14-08-2022,Aspirin,Abnormal,97.9,75,9843274151
+8.62E+12,Jillian Robinson,04-05-2004,Male,A+,Hypertension,23-05-2022,Jordan Johnston,22979.21354,216,Emergency,11-06-2022,Penicillin,Abnormal,101.1,95,9843274151
+1.98E+14,Roberta Fisher,05-05-2004,Female,A-,Obesity,19-09-2021,Nathan Mason,37360.63959,135,Elective,29-09-2021,Aspirin,Normal,98.1,80,9843274151
+5.12E+12,Andrew Morales,06-05-2004,Male,O+,Obesity,16-05-2022,Jason Smith,40757.91094,303,Urgent,09-06-2022,Penicillin,Inconclusive,98.1,62,9843274151
+8.44E+12,Jason Evans,07-05-2004,Female,A+,Obesity,27-01-2023,Kimberly Valentine,23331.2812,225,Elective,12-02-2023,Penicillin,Abnormal,99.1,104,9843274151
+4E+12,Harry Thomas,08-05-2004,Female,AB-,Cancer,14-12-2020,Brittany Weaver,6628.356139,152,Elective,16-12-2020,Ibuprofen,Abnormal,97.7,100,9843274151
+5.88E+13,Natalie Jackson,09-05-2004,Male,A-,Hypertension,26-09-2020,Robert Page,12470.7696,444,Emergency,18-10-2020,Paracetamol,Abnormal,97.9,85,9843274151
+1.19E+12,Molly Houston,10-05-2004,Male,A-,Obesity,24-02-2022,Sean Black,7364.750961,270,Urgent,05-03-2022,Lipitor,Inconclusive,97.2,88,9843274151
+8.59E+13,Ryan Lee,11-05-2004,Female,AB+,Obesity,02-06-2022,Jamie Wright,1939.319102,454,Elective,18-06-2022,Paracetamol,Normal,98.4,86,9843274151
+3.78E+13,Christopher Martin,12-05-2004,Female,B+,Cancer,30-01-2020,Aaron Padilla,4002.824157,425,Urgent,01-02-2020,Aspirin,Inconclusive,98.8,96,9843274151
+5.67E+12,Tabitha Carr,13-05-2004,Male,AB+,Arthritis,08-06-2022,Dustin Martinez,28394.39907,442,Emergency,08-07-2022,Aspirin,Normal,98.1,113,9843274151
+2.16E+12,Lisa Rojas,14-05-2004,Male,B+,Cancer,01-09-2023,John Ryan MD,47295.55751,189,Emergency,07-09-2023,Paracetamol,Normal,97.6,88,9843274151
+3.2E+11,Mary Delgado,15-05-2004,Female,AB-,Hypertension,16-06-2022,Kelsey Ross,13749.96828,487,Emergency,24-06-2022,Ibuprofen,Normal,98,91,9843274151
+9.76E+12,Lisa Sanchez,16-05-2004,Female,AB-,Diabetes,13-02-2019,Andrea Owen,42550.62184,119,Urgent,23-02-2019,Lipitor,Abnormal,99.7,103,9843274151
+5.57E+12,Kathleen Hanson,17-05-2004,Female,AB-,Hypertension,27-08-2020,Melissa Gomez MD,42182.74977,356,Elective,17-09-2020,Aspirin,Normal,97.6,77,9843274151
+4.76E+14,Donna Jones,18-05-2004,Male,A-,Diabetes,15-12-2018,Sharon Banks,5901.145156,104,Urgent,19-12-2018,Ibuprofen,Inconclusive,97.3,66,9843274151
+63428437855,Rachel Morales,19-05-2004,Male,AB-,Hypertension,10-12-2018,Peter Bailey,10333.00182,184,Urgent,22-12-2018,Aspirin,Inconclusive,97.3,78,9843274151
+8.39E+12,Michelle Quinn,20-05-2004,Female,AB+,Asthma,06-11-2021,Lindsay Watson,7164.886172,130,Urgent,25-11-2021,Ibuprofen,Normal,98.2,72,9843274151
+2.25E+13,Crystal Smith,21-05-2004,Male,AB+,Cancer,18-07-2020,Sarah Williams,15622.69369,485,Elective,22-07-2020,Ibuprofen,Abnormal,97.6,74,9843274151
+2.25E+13,Tracey Martin,22-05-2004,Female,A+,Obesity,31-05-2020,Nicole Johnson,20699.81344,218,Elective,17-06-2020,Paracetamol,Inconclusive,99.4,88,9843274151
+7.22E+12,Matthew Palmer,23-05-2004,Female,AB+,Arthritis,27-01-2019,Nathaniel Wilson,25420.21124,445,Urgent,08-02-2019,Aspirin,Abnormal,97.9,80,9843274151
+7.22E+12,Kristy Donaldson,24-05-2004,Female,B+,Arthritis,15-12-2018,Elizabeth Clark DDS,17531.21278,111,Emergency,28-12-2018,Aspirin,Inconclusive,97.8,107,9843274151
+5.26E+14,Amy Jackson,25-05-2004,Male,B-,Asthma,12-04-2019,Jose Harris,17743.96852,119,Emergency,25-04-2019,Ibuprofen,Abnormal,98.2,118,9843274151
+4.65E+13,Patrick Taylor DDS,26-05-2004,Female,B-,Arthritis,31-10-2020,Ronnie Hernandez,45477.90914,482,Emergency,27-11-2020,Penicillin,Normal,97.3,109,9843274151
+9.94E+12,Robert Carter DDS,27-05-2004,Male,B+,Hypertension,16-04-2023,Veronica Bradley,26633.45042,105,Emergency,08-05-2023,Aspirin,Inconclusive,98.2,95,9843274151
+6.49E+12,Elizabeth Charles,28-05-2004,Male,B-,Hypertension,09-11-2022,Charles Blake,41995.87228,362,Urgent,20-11-2022,Aspirin,Normal,98.9,85,9843274151
+2.81E+13,Melissa Jones,29-05-2004,Female,AB-,Cancer,12-04-2019,Jose Richard,29696.19164,425,Elective,08-05-2019,Ibuprofen,Normal,98.2,104,9843274151
+9.98E+13,Tammy Cook,30-05-2004,Female,AB-,Hypertension,02-03-2021,Richard Fuller,10033.76692,347,Urgent,07-03-2021,Ibuprofen,Abnormal,97,90,9843274151
+1.41E+13,Dennis Banks,31-05-2004,Female,O+,Asthma,19-09-2019,Amanda Blackburn,41417.84434,230,Elective,18-10-2019,Aspirin,Abnormal,97.4,59,9843274151
+4.43E+13,Cody Gonzales,01-06-2004,Male,B-,Obesity,06-03-2020,Rachel Roberts,16592.01215,223,Emergency,22-03-2020,Penicillin,Abnormal,97.9,80,9843274151
+9.53E+13,Peter Alvarado,02-06-2004,Female,AB+,Cancer,18-08-2021,Robert Leblanc,7858.398731,199,Emergency,09-09-2021,Penicillin,Abnormal,98.6,83,9843274151
+4.29E+12,Timothy Melton,03-06-2004,Male,A-,Asthma,02-10-2021,Dawn Waller,8487.438712,497,Elective,15-10-2021,Ibuprofen,Inconclusive,97.9,82,9843274151
+2E+12,Donald Moreno,04-06-2004,Female,B+,Obesity,19-09-2021,Leslie Walls,32142.99757,420,Elective,28-09-2021,Penicillin,Normal,97.7,66,9843274151
+4.37E+13,Lori Barrett,05-06-2004,Male,A+,Arthritis,03-07-2019,Jennifer Newton,43311.75942,432,Emergency,21-07-2019,Ibuprofen,Normal,97.7,81,9843274151
+6.78E+13,Cynthia Patterson,06-06-2004,Female,B-,Cancer,02-01-2020,Dr. Sean Russell,26419.32481,483,Emergency,30-01-2020,Ibuprofen,Inconclusive,98.4,87,9843274151
+7.23E+12,Angel Robles,07-06-2004,Male,O-,Asthma,27-04-2019,Diane Fuller,11548.83051,162,Elective,16-05-2019,Ibuprofen,Normal,98.2,79,9843274151
+9.79E+11,Denise Randall,08-06-2004,Male,AB+,Asthma,14-11-2018,Jordan Wise,27593.64508,161,Elective,01-12-2018,Ibuprofen,Abnormal,98.2,65,9843274151
+2.65E+11,Laurie Turner,09-06-2004,Male,O-,Arthritis,02-07-2023,Mr. Samuel Burgess,8129.358499,436,Emergency,08-07-2023,Lipitor,Abnormal,97.8,94,9843274151
+9.75E+11,Whitney Garza,10-06-2004,Female,O-,Cancer,10-12-2021,Nathaniel Richardson,44941.23044,485,Emergency,12-12-2021,Aspirin,Inconclusive,97.9,92,9843274151
+9.85E+14,Erin Porter,11-06-2004,Male,B-,Hypertension,25-04-2019,Amber Meza,18364.41465,288,Elective,20-05-2019,Lipitor,Abnormal,99.1,102,9843274151
+1.19E+12,Victor Gardner,12-06-2004,Female,O-,Arthritis,12-11-2019,Amber Flores,42007.24435,440,Emergency,07-12-2019,Paracetamol,Normal,97.4,87,9843274151
+3.73E+14,Angelica Chen,13-06-2004,Male,AB-,Obesity,24-06-2022,Cheryl Robles,34747.27008,133,Emergency,03-07-2022,Lipitor,Inconclusive,97.9,34,9843274151
+3.99E+13,Alan Rodriguez,14-06-2004,Male,O+,Asthma,14-06-2023,Victoria Smith,4740.109026,425,Emergency,18-06-2023,Aspirin,Abnormal,98,74,9843274151
+3.53E+13,Angela Garcia,15-06-2004,Male,B+,Cancer,11-09-2019,Christopher Flores,31600.77208,237,Emergency,21-09-2019,Lipitor,Normal,97.4,83,9843274151
+1.76E+13,Julia Johnson,16-06-2004,Female,AB-,Asthma,15-03-2020,Jason Wright,25429.83078,104,Elective,11-04-2020,Paracetamol,Abnormal,98,89,9843274151
+2.36E+13,David Hess,17-06-2004,Male,AB+,Asthma,10-07-2023,Michael Chung,44724.88271,114,Emergency,04-08-2023,Aspirin,Abnormal,97,87,9843274151
+53189235487,Jeffery Young,18-06-2004,Male,AB-,Obesity,06-09-2023,Lucas Clark,29673.00847,253,Urgent,30-09-2023,Lipitor,Abnormal,102,121,9843274151
+1.76E+13,Louis Lewis,19-06-2004,Female,O+,Asthma,25-12-2022,Joyce Cuevas,46868.40818,244,Urgent,31-12-2022,Paracetamol,Normal,98.4,76,9843274151
+9.17E+14,Jennifer Benson,20-06-2004,Female,AB-,Obesity,24-10-2021,Joanne Owen,14496.08309,458,Elective,12-11-2021,Ibuprofen,Inconclusive,98.4,67,9843274151
+5.9E+13,Daniel Alexander,21-06-2004,Male,AB-,Hypertension,19-03-2020,Jill Hughes,36496.77564,286,Elective,05-04-2020,Penicillin,Normal,98.9,73,9843274151
+9.15E+14,Robert Taylor,22-06-2004,Male,B+,Asthma,10-01-2021,Scott Martin,6850.9728,270,Elective,20-01-2021,Ibuprofen,Inconclusive,97.4,93,9843274151
+9.18E+13,Mrs. Crystal Garcia,23-06-2004,Female,O-,Arthritis,28-08-2021,Gina Beasley,1256.479072,265,Urgent,22-09-2021,Lipitor,Abnormal,99,87,9843274151
+6.56E+12,Eduardo Davidson,24-06-2004,Male,A+,Cancer,06-05-2021,Tricia Mcclure,9731.395318,109,Elective,13-05-2021,Paracetamol,Inconclusive,98.5,86,9843274151
+3.88E+12,Dustin Garrett,25-06-2004,Female,O-,Diabetes,06-07-2023,Rodney Johnson,11610.39349,390,Urgent,07-07-2023,Ibuprofen,Abnormal,97,99,9843274151
+6.79E+13,Jacqueline Sanchez,26-06-2004,Female,AB-,Arthritis,22-02-2023,Katie Erickson,21859.77342,207,Urgent,18-03-2023,Lipitor,Normal,98.6,82,9843274151
+6.17E+11,Brian Foster,27-06-2004,Male,A-,Cancer,19-09-2020,James Garcia,26442.35875,442,Emergency,18-10-2020,Lipitor,Abnormal,99.4,82,9843274151
+8.31E+13,Elizabeth Kline,28-06-2004,Female,AB+,Asthma,20-08-2019,Tonya Castaneda,12287.13944,384,Elective,07-09-2019,Lipitor,Inconclusive,97,70,9843274151
+5.7E+12,Angela Ramos,29-06-2004,Female,O+,Obesity,09-05-2020,Theresa Brown,40449.84643,411,Emergency,05-06-2020,Paracetamol,Normal,97.9,71,9843274151
+5.92E+13,Lisa Howell,30-06-2004,Female,AB+,Hypertension,25-11-2018,James Holmes,35939.43193,324,Emergency,17-12-2018,Lipitor,Normal,98.6,79,9843274151
+1.63E+13,Jonathan Nielsen,01-07-2004,Female,A-,Asthma,12-11-2021,Randy White,14230.46649,357,Elective,28-11-2021,Aspirin,Normal,98,90,9843274151
+7E+13,Rose Robinson,02-07-2004,Male,B+,Asthma,27-08-2022,Jason Kelley,3380.772381,153,Elective,13-09-2022,Aspirin,Inconclusive,97.9,90,9843274151
+7.24E+12,Timothy Mcgrath,03-07-2004,Male,B-,Cancer,07-06-2020,Kimberly Brewer,37081.46099,283,Emergency,11-06-2020,Aspirin,Inconclusive,98.7,88,9843274151
+8.22E+11,Jonathan Brown,04-07-2004,Female,O-,Obesity,15-03-2020,Jonathan Good,22268.03466,315,Urgent,04-04-2020,Penicillin,Inconclusive,97,75,9843274151
+7.79E+13,Christopher Velasquez,05-07-2004,Female,O+,Hypertension,28-07-2023,Cory Fletcher,37744.29959,471,Elective,29-07-2023,Aspirin,Abnormal,100,107,9843274151
+7.91E+12,Louis Campbell,06-07-2004,Female,A-,Obesity,29-06-2023,Amy Matthews,33399.46561,274,Urgent,02-07-2023,Aspirin,Abnormal,99.1,110,9843274151
+2.27E+13,William Dawson,07-07-2004,Male,A-,Hypertension,21-05-2022,Anne Velazquez,34173.02524,353,Elective,04-06-2022,Aspirin,Abnormal,98.5,126,9843274151
+3.85E+14,Cindy Jones,08-07-2004,Male,B-,Obesity,15-09-2020,Todd Jackson,45825.9789,311,Urgent,25-09-2020,Paracetamol,Normal,103,103,9843274151
+2.82E+13,Adrian Valencia,09-07-2004,Male,A+,Arthritis,29-10-2022,Sandra Scott,30203.55765,490,Emergency,20-11-2022,Ibuprofen,Inconclusive,98.7,102,9843274151
+6.42E+14,Alexis Chen,10-07-2004,Female,AB-,Diabetes,23-01-2020,Dr. Nicolas Bryant,24305.5337,135,Urgent,28-01-2020,Paracetamol,Inconclusive,98.7,59,9843274151
+4.75E+13,Kathleen Murray,11-07-2004,Female,O+,Cancer,29-03-2022,Heather Lewis,45444.29374,368,Elective,21-04-2022,Lipitor,Abnormal,98.1,83,9843274151
+4.44E+14,Michelle Harris,12-07-2004,Female,B+,Cancer,04-02-2021,David Patel,2534.70047,284,Elective,22-02-2021,Penicillin,Inconclusive,101.3,92,9843274151
+7.65E+13,Julie Mckenzie,13-07-2004,Female,A+,Obesity,07-02-2019,Jerome Davis,27676.33723,242,Urgent,22-02-2019,Penicillin,Normal,103.1,142,9843274151
+7.23E+12,Robert Ho,14-07-2004,Female,AB+,Cancer,08-12-2018,Michael Villanueva,5674.214337,209,Urgent,15-12-2018,Ibuprofen,Abnormal,100,87,9843274151
+6.3E+13,Katelyn Vincent,15-07-2004,Male,O-,Asthma,11-12-2019,Elizabeth Chase,43475.2851,404,Elective,13-12-2019,Penicillin,Abnormal,99.6,92,9843274151
+6.73E+11,Anne Wallace,16-07-2004,Female,A+,Arthritis,30-07-2019,Edward Collins,7237.040595,442,Emergency,28-08-2019,Paracetamol,Normal,98.3,73,9843274151
+8.22E+11,Joseph Lynch,17-07-2004,Male,O+,Diabetes,08-10-2021,Jonathon Klein,45537.19439,110,Urgent,01-11-2021,Paracetamol,Normal,97,76,9843274151
+2.55E+13,Dr. Leah Delgado,18-07-2004,Female,O-,Asthma,02-10-2021,David Sanchez,37113.07025,226,Elective,07-10-2021,Penicillin,Inconclusive,97.7,65,9843274151
+66385679235,Melissa Robinson,19-07-2004,Male,A-,Obesity,29-03-2023,Matthew Downs,30730.89329,400,Urgent,14-04-2023,Penicillin,Inconclusive,98,100,9843274151
+4.14E+13,Carol Murray,20-07-2004,Male,AB-,Diabetes,06-02-2022,Jennifer Acosta,22773.1311,433,Emergency,21-02-2022,Penicillin,Normal,99,66,9843274151
+7.56E+13,Nathan Elliott,21-07-2004,Female,AB+,Diabetes,25-11-2021,Karen Collier,31303.64787,116,Elective,24-12-2021,Aspirin,Abnormal,97.1,81,9843274151
+8.41E+11,Melissa Harris,22-07-2004,Male,O+,Cancer,02-01-2020,Cheryl Palmer,37527.71151,247,Urgent,27-01-2020,Lipitor,Inconclusive,90,108,9843274151
+7.74E+12,Gabriel Mccormick,23-07-2004,Male,B-,Arthritis,07-06-2022,Joseph Ortega,29986.11628,439,Emergency,10-06-2022,Paracetamol,Inconclusive,97.7,60,9843274151
+8.35E+13,Erica Santos,24-07-2004,Male,B-,Cancer,10-06-2023,Donna Vasquez,23360.65861,460,Elective,01-07-2023,Penicillin,Inconclusive,98,95,9843274151
+5.92E+12,Carrie Miller,25-07-2004,Female,B-,Obesity,15-04-2022,Alexander Shelton,27065.74705,275,Elective,12-05-2022,Penicillin,Normal,97.1,89,9843274151
+5.14E+13,Barbara Salinas,26-07-2004,Male,A+,Arthritis,29-07-2019,Anna Adams,34465.82488,361,Emergency,27-08-2019,Paracetamol,Inconclusive,97.8,78,9843274151
+9.83E+14,Amanda Smith MD,27-07-2004,Male,O-,Cancer,02-02-2019,Karen Cox,36439.07845,303,Emergency,05-02-2019,Lipitor,Abnormal,98.2,78,9843274151
+1.99E+11,Charles Simmons,28-07-2004,Female,AB+,Cancer,19-05-2023,Lindsey Gentry,46161.70793,278,Elective,13-06-2023,Penicillin,Abnormal,96.7,75,9843274151
+7.62E+13,Christina Mccoy,29-07-2004,Male,B-,Arthritis,14-10-2022,Jordan Garrett,48192.64861,490,Urgent,03-11-2022,Lipitor,Inconclusive,98,72,9843274151
+5.52E+13,Brett Montoya,30-07-2004,Female,AB+,Cancer,24-07-2022,Julia Perez,5061.593285,249,Emergency,28-07-2022,Ibuprofen,Normal,98.4,74,9843274151
+7.35E+14,Mr. Ricardo Bullock,31-07-2004,Male,AB-,Hypertension,14-09-2020,Theresa Ramsey,11784.94142,176,Elective,27-09-2020,Aspirin,Abnormal,99.1,95,9843274151
+7.98E+11,Mrs. Kristine Hall MD,01-08-2004,Female,O+,Hypertension,26-09-2019,Carolyn Mann,6442.968217,498,Urgent,02-10-2019,Penicillin,Inconclusive,98,114,9843274151
+8.51E+13,Mary Jones,02-08-2004,Male,AB+,Obesity,13-06-2019,Terry Cameron MD,13591.04309,240,Emergency,02-07-2019,Lipitor,Inconclusive,98,86,9843274151
+6.38E+11,Jeffrey Wilson,03-08-2004,Female,A+,Cancer,26-08-2023,Alexander Hamilton,19710.53533,107,Emergency,16-09-2023,Ibuprofen,Inconclusive,98,100,9843274151
+7.42E+13,John Miller,04-08-2004,Female,O-,Arthritis,15-11-2021,Jessica Rodriguez,20846.38332,407,Elective,21-11-2021,Paracetamol,Normal,97,68,9843274151
+7.42E+13,Ashley Cherry,05-08-2004,Male,AB+,Arthritis,05-12-2018,Kayla Reyes,24261.16168,383,Urgent,16-12-2018,Lipitor,Normal,99.5,120,9843274151
+7.45E+13,Douglas Myers,06-08-2004,Male,AB-,Asthma,01-08-2019,Victoria Chavez,43495.23035,493,Urgent,23-08-2019,Aspirin,Abnormal,98.7,86,9843274151
+1.87E+14,Stephanie Fowler,07-08-2004,Male,O+,Hypertension,26-06-2023,Melinda Brown,34698.50262,338,Urgent,10-07-2023,Penicillin,Inconclusive,98.2,106,9843274151
+3.5E+14,David Hines,08-08-2004,Male,B-,Cancer,14-06-2020,Wendy Hooper,18524.74395,115,Elective,28-06-2020,Ibuprofen,Normal,98,68,9843274151
+2.21E+12,Robert Mcdonald,09-08-2004,Male,A+,Asthma,27-05-2021,Pedro Harmon,17061.04666,357,Urgent,12-06-2021,Paracetamol,Abnormal,98,90,9843274151
+4.34E+14,Ryan Frazier,10-08-2004,Female,B-,Cancer,25-04-2023,Lucas Phillips,3535.011881,130,Elective,30-04-2023,Lipitor,Abnormal,101.5,106,9843274151
+4.34E+14,Eric Price,11-08-2004,Female,AB+,Cancer,24-11-2020,Renee Brown,31359.51893,262,Urgent,17-12-2020,Penicillin,Abnormal,98.3,123,9843274151
+4497415116,Meagan Smith,12-08-2004,Female,A+,Hypertension,20-05-2021,Paula Washington,37419.01662,496,Elective,08-06-2021,Ibuprofen,Inconclusive,98.3,78,9843274151
+4497415116,Jordan Nelson,13-08-2004,Female,AB+,Arthritis,03-06-2021,Jordan Lutz,22697.41583,447,Emergency,20-06-2021,Lipitor,Inconclusive,98.9,102,9843274151
+9.56E+13,Patrick Howard,14-08-2004,Female,O+,Asthma,12-10-2019,Dr. Jessica Castro,20649.38721,246,Urgent,17-10-2019,Paracetamol,Abnormal,102.5,115,9843274151
+9.56E+13,Shelley Martinez,15-08-2004,Male,B+,Arthritis,10-02-2019,Taylor Braun,29737.63584,275,Elective,16-02-2019,Paracetamol,Abnormal,98.3,57,9843274151
+2.21E+12,Donna Mitchell,16-08-2004,Male,B+,Arthritis,04-07-2023,Lori Morton,44019.07745,111,Urgent,15-07-2023,Aspirin,Inconclusive,98.8,61,9843274151
+3.16E+13,Lindsey Hampton,17-08-2004,Male,A-,Obesity,30-05-2020,Whitney Gibson,21864.01001,406,Elective,15-06-2020,Lipitor,Inconclusive,98.3,104,9843274151
+2.12E+11,Dr. Wendy Taylor,18-08-2004,Male,AB-,Hypertension,10-02-2022,Sierra Farmer,15469.68128,305,Elective,06-03-2022,Lipitor,Abnormal,98.6,93,9843274151
+9.12E+11,Jodi Shannon,19-08-2004,Female,O-,Obesity,02-09-2023,Amy Bush,27667.1266,252,Urgent,10-09-2023,Ibuprofen,Abnormal,98,109,9843274151
+98791544133,Nancy Peters,20-08-2004,Male,A-,Asthma,17-04-2022,Adam Gonzales,26172.07906,155,Emergency,04-05-2022,Penicillin,Inconclusive,99.1,70,9843274151
+2.58E+14,Vanessa Landry,21-08-2004,Male,A-,Hypertension,25-08-2020,Troy Kim,44643.05436,152,Elective,06-09-2020,Penicillin,Inconclusive,98.4,84,9843274151
+8.31E+13,Carlos Bennett,22-08-2004,Male,AB+,Arthritis,24-05-2021,Dwayne Mooney,39533.3782,315,Urgent,13-06-2021,Penicillin,Normal,97.2,80,9843274151
+1.46E+12,Jessica Roman,23-08-2004,Male,B+,Cancer,20-01-2022,Teresa Griffith DDS,29878.88133,479,Elective,22-01-2022,Penicillin,Abnormal,100.5,91,9843274151
+4.5E+13,Mrs. Margaret Morris DDS,24-08-2004,Female,B-,Cancer,04-07-2023,Samuel Carrillo,34386.58635,462,Elective,26-07-2023,Paracetamol,Normal,98.2,62,9843274151
+6.49E+11,Adam Butler,25-08-2004,Male,A+,Diabetes,01-08-2023,Elizabeth Humphrey,44655.69908,363,Emergency,16-08-2023,Aspirin,Inconclusive,97.4,70,9843274151
+9.49E+11,Cheryl Mcgee,26-08-2004,Male,B+,Cancer,07-05-2021,Tina Stevenson,29272.27447,153,Emergency,19-05-2021,Penicillin,Inconclusive,98.6,108,9843274151
+9.49E+12,George Gordon,27-08-2004,Female,O+,Asthma,05-12-2020,Angela Garcia,24181.19276,394,Emergency,18-12-2020,Paracetamol,Abnormal,98,74,9843274151
+9.17E+12,Mrs. Ashley Simpson MD,28-08-2004,Male,A-,Cancer,16-10-2020,Michael Robinson,18089.13307,239,Emergency,02-11-2020,Paracetamol,Normal,97.6,84,9843274151
+5.41E+13,Rose Rios,29-08-2004,Male,B-,Diabetes,30-03-2021,Gina Turner,2485.616432,145,Emergency,17-04-2021,Paracetamol,Normal,97.8,90,9843274151
+8.43E+13,Gerald Moreno,30-08-2004,Female,AB+,Hypertension,13-06-2023,Matthew Hammond,16118.16654,192,Urgent,11-07-2023,Penicillin,Abnormal,97.1,69,9843274151
+8.43E+12,Danielle Kim DVM,31-08-2004,Female,O+,Asthma,11-03-2023,Shannon Gonzales,21025.56674,142,Urgent,01-04-2023,Lipitor,Abnormal,98,88,9843274151
+3.7E+11,Nicole Casey,01-09-2004,Male,B+,Obesity,07-03-2022,Jared Diaz,22624.00546,158,Emergency,09-03-2022,Paracetamol,Normal,97.3,85,9843274151
+3.96E+14,Terry Branch,02-09-2004,Male,AB-,Arthritis,10-09-2023,Gregory Casey,4098.854203,168,Elective,18-09-2023,Paracetamol,Inconclusive,98.3,88,9843274151
+8.38E+13,Michael Schmidt,03-09-2004,Female,A-,Arthritis,12-06-2022,Gene Goodman,19955.34498,379,Emergency,13-06-2022,Aspirin,Inconclusive,95.9,130,9843274151
+6.54E+12,Justin Parker,04-09-2004,Female,AB-,Arthritis,21-11-2019,Nancy Smith,10179.75643,126,Emergency,09-12-2019,Lipitor,Abnormal,98,81,9843274151
+7.77E+11,Donna Strickland,05-09-2004,Female,A+,Obesity,31-10-2022,Brianna Cervantes,17185.19441,369,Emergency,26-11-2022,Lipitor,Normal,98.4,107,9843274151
+5.67E+12,Jessica Garcia,06-09-2004,Male,O-,Cancer,11-04-2023,Gregory Anderson,5411.414546,270,Elective,06-05-2023,Penicillin,Normal,97.3,92,9843274151
+3.27E+11,David Brock,07-09-2004,Male,A+,Hypertension,29-08-2022,Julia Wu,35307.19748,229,Urgent,07-09-2022,Paracetamol,Abnormal,98.3,99,9843274151
+4.61E+14,Mark Mack,08-09-2004,Male,B+,Hypertension,26-01-2022,Patrick Ochoa,10492.79955,497,Emergency,06-02-2022,Penicillin,Normal,97.9,80,9843274151
+9.44E+12,Renee Tate,09-09-2004,Male,AB-,Arthritis,17-02-2019,Monique Meyer,13271.71678,425,Elective,27-02-2019,Paracetamol,Inconclusive,100.1,102,9843274151
+5.24E+12,Christopher Farmer,10-09-2004,Female,AB+,Arthritis,23-02-2019,Jessica Daniels,7219.466253,483,Urgent,06-03-2019,Ibuprofen,Normal,98.8,94,9843274151
+9.52E+13,Bryan Moyer,11-09-2004,Male,B-,Cancer,09-01-2020,Nicole George,6098.460276,372,Urgent,17-01-2020,Lipitor,Normal,98,67,9843274151
+2.32E+14,James Evans,12-09-2004,Male,A-,Arthritis,20-08-2021,James Garza,29285.34405,162,Emergency,15-09-2021,Aspirin,Abnormal,98.3,73,9843274151
+1.88E+12,Deborah Barrera,13-09-2004,Male,O+,Hypertension,17-03-2023,Jennifer Rose,35490.26267,403,Urgent,25-03-2023,Penicillin,Abnormal,98.8,95,9843274151
+8.62E+11,Laura Robinson,14-09-2004,Female,AB+,Diabetes,14-02-2021,Nicole Leon,28835.35019,205,Emergency,24-02-2021,Ibuprofen,Abnormal,98.1,79,9843274151
+7.44E+14,Hannah Joseph,15-09-2004,Male,O+,Obesity,29-01-2020,David Smith,11300.52727,497,Urgent,15-02-2020,Lipitor,Abnormal,98.1,69,9843274151
+2.91E+11,Richard Smith,16-09-2004,Female,AB+,Hypertension,07-12-2022,Christopher Walker,15988.78244,353,Emergency,29-12-2022,Penicillin,Inconclusive,98.1,84,9843274151
+7.87E+13,Drew Edwards,17-09-2004,Female,A-,Cancer,17-06-2021,Nathaniel White,30137.59627,196,Emergency,04-07-2021,Lipitor,Normal,98.1,76,9843274151
+3.92E+14,Dana Peterson,18-09-2004,Female,B-,Obesity,05-03-2022,Juan Jordan,10045.00323,349,Urgent,03-04-2022,Lipitor,Normal,98.5,80,9843274151
+4.75E+13,David Stuart,19-09-2004,Female,AB-,Asthma,22-10-2020,John Martin,48716.28911,476,Emergency,19-11-2020,Penicillin,Normal,97.7,115,9843274151
+1.42E+13,Allen Munoz,20-09-2004,Male,A-,Asthma,27-04-2022,Eric Powell,47881.28111,144,Urgent,12-05-2022,Lipitor,Abnormal,97.8,68,9843274151
+3.22E+13,Donald Mccoy,21-09-2004,Male,A-,Diabetes,08-07-2023,Tammy Harris,31587.21251,406,Urgent,17-07-2023,Aspirin,Abnormal,98.4,81,9843274151
+4.87E+14,Jamie Day,22-09-2004,Female,AB-,Obesity,06-07-2019,Christopher Russell,19425.96782,257,Emergency,25-07-2019,Paracetamol,Normal,100.9,136,9843274151
+4.67E+12,Corey Johnson,23-09-2004,Male,O+,Asthma,03-09-2023,Joe Leonard,38734.81354,259,Elective,10-09-2023,Penicillin,Abnormal,98.7,87,9843274151
+2.82E+13,Sarah Henson,24-09-2004,Female,A-,Diabetes,07-03-2019,Erik Noble,39757.64873,330,Elective,20-03-2019,Lipitor,Normal,98.8,91,9843274151
+7.27E+12,Chelsea Johnson,25-09-2004,Male,O-,Diabetes,24-06-2019,Benjamin Cameron,9199.668301,291,Elective,09-07-2019,Penicillin,Abnormal,98.7,86,9843274151
+7.27E+12,Danielle Ballard,26-09-2004,Female,AB-,Obesity,17-10-2022,Kelly Neal,22111.45568,334,Emergency,09-11-2022,Lipitor,Abnormal,98,69,9843274151
+3.99E+14,Heather Turner,27-09-2004,Female,AB+,Cancer,16-09-2023,Elaine Medina,11391.12216,180,Urgent,27-09-2023,Paracetamol,Inconclusive,99.8,81,9843274151
+3.99E+14,Joel Whitehead,28-09-2004,Female,AB+,Asthma,09-03-2021,Jacob Smith,33952.60919,407,Emergency,08-04-2021,Aspirin,Inconclusive,98.3,76,9843274151
+3.82E+13,Lauren Clark,29-09-2004,Male,AB+,Arthritis,17-12-2022,Rebecca Ortiz,39875.21588,230,Elective,11-01-2023,Ibuprofen,Inconclusive,98.2,89,9843274151
+7.27E+12,Cory Miller,30-09-2004,Female,AB-,Cancer,29-10-2020,Alyssa Collins,46133.54165,325,Elective,08-11-2020,Ibuprofen,Inconclusive,98.4,87,9843274151
+8.67E+13,Eric Aguirre,01-10-2004,Female,O+,Arthritis,13-02-2020,James May,19528.40176,268,Elective,20-02-2020,Penicillin,Inconclusive,96.6,97,9843274151
+4.4E+13,Cheryl Jones,02-10-2004,Male,O-,Asthma,10-03-2023,Diamond Robbins,45925.07177,224,Elective,27-03-2023,Paracetamol,Abnormal,97.9,98,9843274151
+7.39E+14,Christopher Baker,03-10-2004,Female,B+,Asthma,11-10-2023,Vickie Brooks,18272.82554,359,Emergency,27-10-2023,Penicillin,Abnormal,98,72,9843274151
+1.69E+13,Thomas Stevens,04-10-2004,Female,AB-,Diabetes,31-10-2022,Sarah Anderson,32052.22463,213,Emergency,16-11-2022,Ibuprofen,Abnormal,97.5,72,9843274151
+3.83E+12,Christopher Duffy,05-10-2004,Male,O-,Arthritis,09-02-2019,Anthony Jones,18605.86044,433,Emergency,25-02-2019,Ibuprofen,Normal,96.6,100,9843274151
+8.42E+12,Donna Bailey,06-10-2004,Female,AB+,Obesity,06-03-2022,Jacob White,45565.74981,340,Elective,29-03-2022,Penicillin,Inconclusive,97.6,68,9843274151
+8.42E+12,John Gill,07-10-2004,Female,A+,Diabetes,27-02-2022,Jane Berger,49213.85167,406,Elective,21-03-2022,Paracetamol,Inconclusive,98.2,71,9843274151
+3.74E+14,Kristina Becker,08-10-2004,Male,A-,Hypertension,12-12-2019,Ryan Guerra,41767.21233,286,Emergency,16-12-2019,Paracetamol,Inconclusive,99.2,109,9843274151
+7.67E+14,Mrs. Christine Rodriguez,09-10-2004,Female,A-,Cancer,27-01-2022,Cynthia Brown,28158.32777,374,Urgent,15-02-2022,Paracetamol,Abnormal,99.1,75,9843274151
+3.86E+14,Scott Dickerson MD,10-10-2004,Female,B-,Diabetes,14-04-2022,Melissa Roman,23888.35668,336,Urgent,19-04-2022,Aspirin,Abnormal,97.6,66,9843274151
+7.89E+13,Ruth Perry,11-10-2004,Male,AB-,Asthma,29-04-2023,Matthew Stafford,3991.755829,252,Elective,18-05-2023,Paracetamol,Abnormal,97.1,75,9843274151
+9.99E+12,Mrs. Penny Sanchez,12-10-2004,Female,B+,Diabetes,04-09-2023,Mr. Rodney Morrow DDS,22314.39394,386,Elective,17-09-2023,Paracetamol,Abnormal,98.6,88,9843274151
+4.86E+12,Benjamin Hanson,13-10-2004,Male,O+,Obesity,26-07-2019,Michael Solis,49619.86255,428,Elective,25-08-2019,Lipitor,Abnormal,98.2,77,9843274151
+7.76E+14,Michael Hall,14-10-2004,Female,B-,Cancer,24-06-2021,Jeffrey Steele,47695.93307,439,Emergency,11-07-2021,Ibuprofen,Inconclusive,98.3,81,9843274151
+9.63E+14,William Stokes,15-10-2004,Female,O+,Arthritis,19-08-2022,Craig Haley,4377.601987,265,Elective,09-09-2022,Lipitor,Abnormal,98.8,53,9843274151
+53628917368,Tiffany White,16-10-2004,Female,AB-,Obesity,09-11-2020,Shelley Lang,33919.88146,153,Elective,17-11-2020,Paracetamol,Abnormal,97.9,75,9843274151
+2.62E+12,Bradley Cross,17-10-2004,Male,AB-,Obesity,19-01-2021,Kari Patrick,26017.31807,264,Urgent,14-02-2021,Lipitor,Inconclusive,99.9,93,9843274151
+7.12E+14,Richard Brown,18-10-2004,Male,AB-,Diabetes,05-08-2020,Jeremy Farley,24371.73245,234,Emergency,13-08-2020,Paracetamol,Normal,97.1,83,9843274151
+5.38E+12,Megan Gibson DVM,19-10-2004,Female,B+,Obesity,02-04-2022,Brittany Keith,12723.42048,174,Elective,09-04-2022,Paracetamol,Inconclusive,97.1,85,9843274151
+9.38E+14,Taylor Byrd,20-10-2004,Female,A-,Asthma,05-02-2023,Anna Knapp,4433.950956,445,Emergency,18-02-2023,Ibuprofen,Abnormal,98.5,86,9843274151
+8.37E+13,Daniel Kline,21-10-2004,Male,AB+,Cancer,29-09-2019,Monica Peters,6849.015274,110,Urgent,24-10-2019,Aspirin,Inconclusive,98.1,104,9843274151
+3.94E+13,Alicia French,22-10-2004,Female,AB-,Diabetes,07-02-2021,Betty Evans,17219.17249,101,Urgent,21-02-2021,Aspirin,Abnormal,97.9,54,9843274151
+5.85E+13,Shelley Lee,23-10-2004,Male,B+,Diabetes,21-06-2020,Phillip Crawford,13137.6325,145,Urgent,20-07-2020,Aspirin,Abnormal,98.4,81,9843274151
+4.6E+13,Jennifer Cunningham,24-10-2004,Male,A+,Asthma,06-07-2022,Andrew Nash,49528.92118,382,Elective,13-07-2022,Ibuprofen,Inconclusive,97.7,69,9843274151
+1.22E+13,Robert Powell,25-10-2004,Male,B-,Asthma,05-05-2021,Chris Torres,39734.99512,496,Emergency,14-05-2021,Ibuprofen,Abnormal,98.3,81,9843274151
+2.53E+12,Amanda Martinez,26-10-2004,Male,AB+,Obesity,26-08-2020,Jennifer Carlson,1926.881278,485,Urgent,19-09-2020,Penicillin,Normal,97.5,81,9843274151
+24494241866,Suzanne Clark,27-10-2004,Female,AB-,Arthritis,29-07-2023,Steven Melton,26531.69829,375,Elective,10-08-2023,Paracetamol,Abnormal,99.3,90,9843274151
+1.32E+13,Cassandra Burke,28-10-2004,Male,A+,Arthritis,15-07-2020,Vanessa Gutierrez,32573.72475,435,Urgent,14-08-2020,Ibuprofen,Normal,98.6,73,9843274151
+6.28E+13,Mike Winters,29-10-2004,Female,AB-,Cancer,02-07-2019,Crystal Wallace,9880.393142,235,Emergency,18-07-2019,Ibuprofen,Normal,97.2,103,9843274151
+2.91E+13,Kevin Johnson,30-10-2004,Male,B-,Cancer,01-10-2022,Alexis Alexander,5706.438142,492,Emergency,28-10-2022,Ibuprofen,Abnormal,99.2,96,9843274151
+7.13E+14,Christopher Clark MD,31-10-2004,Female,B-,Asthma,15-11-2019,Brooke Phillips,28473.03123,353,Urgent,25-11-2019,Penicillin,Abnormal,97.8,79,9843274151
+3.26E+12,Charles Wade,01-11-2004,Male,O-,Cancer,24-10-2023,Kathy Walker,41787.18813,474,Urgent,27-10-2023,Aspirin,Abnormal,98.1,61,9843274151
+3.66E+14,Gabriel Vasquez,02-11-2004,Male,B-,Diabetes,02-07-2022,Lori Stone,42419.10894,443,Urgent,22-07-2022,Lipitor,Abnormal,98.3,75,9843274151
+5.64E+14,Donald Holden,03-11-2004,Male,A-,Cancer,30-07-2020,Justin Carter,1769.479423,344,Urgent,04-08-2020,Paracetamol,Abnormal,97.1,77,9843274151
+2.14E+14,Nancy Hodges,04-11-2004,Male,O-,Obesity,28-05-2019,Laura Herrera,22938.06138,363,Elective,12-06-2019,Aspirin,Normal,97.6,75,9843274151
+7.91E+14,Albert Sandoval,05-11-2004,Male,AB-,Hypertension,28-03-2020,James Novak,29149.76226,301,Emergency,11-04-2020,Paracetamol,Abnormal,97.9,87,9843274151
+2.23E+13,George Morton,06-11-2004,Female,AB-,Hypertension,13-12-2021,Michelle Moyer,35725.016,246,Elective,22-12-2021,Penicillin,Abnormal,97.9,108,9843274151
+4.14E+12,Peter Sutton,07-11-2004,Female,O+,Hypertension,03-07-2023,Tasha Pierce,45968.66601,242,Elective,06-07-2023,Aspirin,Abnormal,97.7,78,9843274151
+1.27E+14,Francisco Allen,08-11-2004,Female,B+,Asthma,31-07-2022,Dustin Cunningham,47633.19612,467,Elective,10-08-2022,Penicillin,Inconclusive,97.5,105,9843274151
+5.86E+13,Richard Johnson,09-11-2004,Female,B-,Diabetes,24-03-2022,Mr. Andrew Keller,11837.39138,439,Emergency,13-04-2022,Aspirin,Inconclusive,98.4,92,9843274151
+5.29E+14,Jessica Duncan,10-11-2004,Male,B-,Asthma,10-06-2023,Sara Howard,34295.81942,435,Urgent,10-07-2023,Ibuprofen,Normal,99.5,82,9843274151
+3.32E+12,William Cohen,11-11-2004,Female,O+,Obesity,15-02-2019,Robin Lopez,41665.4236,146,Elective,11-03-2019,Penicillin,Inconclusive,98.8,97,9843274151
+2.27E+11,Gary Jackson,12-11-2004,Female,O+,Arthritis,08-06-2021,John Leon,31726.59716,118,Elective,04-07-2021,Paracetamol,Abnormal,98.6,72,9843274151
+522886422,Frederick Newman,13-11-2004,Female,B-,Asthma,02-06-2022,Mr. Charles Garcia,12798.35444,206,Elective,15-06-2022,Penicillin,Inconclusive,97.5,80,9843274151
+9.17E+14,Jason Alvarez,14-11-2004,Female,AB+,Diabetes,07-11-2022,Jonathan Shaw,13364.28478,233,Emergency,21-11-2022,Ibuprofen,Normal,98.2,44,9843274151
+5.16E+12,Linda Brown,15-11-2004,Female,AB+,Hypertension,07-10-2019,Tim Clark,9198.071178,158,Elective,29-10-2019,Penicillin,Inconclusive,98.8,103,9843274151
+5.16E+12,Travis Williams,16-11-2004,Male,B-,Cancer,26-09-2020,Samuel Gilbert,45218.39686,269,Elective,05-10-2020,Lipitor,Inconclusive,99.1,76,9843274151
+5.89E+12,Joshua Brooks,17-11-2004,Female,O+,Obesity,25-08-2022,Miss Rachel Barnes,7813.239089,422,Emergency,27-08-2022,Ibuprofen,Abnormal,98.8,113,9843274151
+9.32E+11,Catherine Wallace,18-11-2004,Female,O+,Diabetes,07-09-2020,Miguel Jones,14722.06487,441,Urgent,21-09-2020,Lipitor,Inconclusive,98.4,86,9843274151
+7.27E+13,Matthew Landry,19-11-2004,Female,B+,Asthma,06-08-2020,Lisa Salazar,28414.39283,136,Elective,30-08-2020,Ibuprofen,Normal,98.4,86,9843274151
+7.27E+13,Nicholas Jordan,20-11-2004,Female,AB-,Hypertension,07-11-2019,Sean Charles,23600.11103,289,Emergency,10-11-2019,Lipitor,Normal,98.6,108,9843274151
+5.53E+13,Jose Brown,21-11-2004,Female,AB-,Obesity,16-02-2020,Amber Madden,22065.2814,320,Elective,07-03-2020,Ibuprofen,Abnormal,99,88,9843274151
+7.92E+13,Tami Oliver,22-11-2004,Female,AB+,Diabetes,21-12-2021,Charles Clayton,28830.35044,173,Elective,25-12-2021,Penicillin,Abnormal,98.6,81,9843274151
+8.34E+14,Rachel Brooks,23-11-2004,Male,AB-,Asthma,16-07-2022,Kayla Hernandez,11169.29948,269,Urgent,02-08-2022,Aspirin,Abnormal,99.1,95,9843274151
+8.78E+13,Frank Rosario,24-11-2004,Male,O+,Hypertension,30-10-2023,Amanda Shepard,37904.39533,359,Elective,08-11-2023,Lipitor,Abnormal,96.8,81,9843274151
+9.64E+11,Kayla Jackson,25-11-2004,Female,O-,Cancer,24-01-2023,Kristy Reynolds,17370.67403,334,Emergency,18-02-2023,Paracetamol,Abnormal,98.6,89,9843274151
+4.41E+13,Melissa Martinez,26-11-2004,Female,AB+,Cancer,16-10-2023,Kristin Young,42494.65849,180,Urgent,29-10-2023,Paracetamol,Abnormal,98.2,100,9843274151
+5.12E+11,Emily Hull,27-11-2004,Male,AB-,Asthma,24-05-2023,Heather Burke,3717.532768,412,Elective,12-06-2023,Paracetamol,Normal,100.8,111,9843274151
+5.15E+13,Stephen Reynolds,28-11-2004,Male,B-,Arthritis,14-07-2021,Morgan Johnson,5181.797329,277,Urgent,21-07-2021,Ibuprofen,Normal,98.2,84,9843274151
+1.16E+11,Glen Brown,29-11-2004,Male,AB-,Hypertension,31-10-2019,Francisco Cortez,38384.83384,423,Elective,29-11-2019,Ibuprofen,Inconclusive,97.2,96,9843274151
+3.45E+14,Ashley Greene,30-11-2004,Female,B-,Hypertension,11-11-2019,Laura Wright,1872.62407,249,Emergency,04-12-2019,Ibuprofen,Normal,98.1,77,9843274151
+3.88E+12,Julie Acevedo,01-12-2004,Male,O+,Asthma,27-08-2021,Allison Schroeder,26642.91853,265,Emergency,06-09-2021,Penicillin,Inconclusive,97.7,56,9843274151
+6.85E+13,Micheal Duran,02-12-2004,Male,AB-,Cancer,16-11-2019,Jimmy Brown,12517.38312,112,Elective,17-11-2019,Penicillin,Abnormal,98.4,85,9843274151
+5.52E+11,Rebecca Harrison,03-12-2004,Female,B-,Diabetes,25-11-2018,David Phillips,2095.155926,433,Elective,18-12-2018,Lipitor,Abnormal,98.1,74,9843274151
+6.18E+12,Johnny Johnson,04-12-2004,Male,B+,Arthritis,10-08-2019,Timothy Hoffman,1733.365027,139,Urgent,16-08-2019,Aspirin,Abnormal,97.9,94,9843274151
+3.88E+12,Harry Brown,05-12-2004,Female,B-,Diabetes,15-07-2023,John Mcdonald,47022.68532,304,Urgent,03-08-2023,Aspirin,Abnormal,97.7,73,9843274151
+3.88E+12,Tasha Smith,06-12-2004,Female,A-,Hypertension,04-03-2022,Debbie Fritz,37784.19229,120,Urgent,12-03-2022,Penicillin,Inconclusive,98.2,77,9843274151
+4.92E+14,April Young,07-12-2004,Female,AB-,Obesity,17-08-2021,Nicole Carter,48166.46497,215,Emergency,04-09-2021,Paracetamol,Inconclusive,97.2,82,9843274151
+8.55E+14,Cathy Duncan,08-12-2004,Male,AB+,Hypertension,17-02-2021,Shane Matthews,8771.405136,478,Emergency,03-03-2021,Paracetamol,Abnormal,99.3,89,9843274151
+9.23E+12,Megan Johnson,09-12-2004,Male,B-,Asthma,27-02-2019,Anthony Ross,29401.01362,450,Elective,22-03-2019,Lipitor,Normal,97.7,105,9843274151
+2.44E+13,Joshua Owens,10-12-2004,Female,O+,Asthma,05-06-2022,Wesley Rice,25768.14923,105,Emergency,25-06-2022,Paracetamol,Normal,96.8,85,9843274151
+3.68E+13,Teresa Williams,11-12-2004,Male,O-,Obesity,07-12-2021,Laura Bell,24931.51071,129,Urgent,25-12-2021,Penicillin,Normal,97.2,80,9843274151
+2.27E+11,Ryan Garrison,12-12-2004,Male,B-,Asthma,22-12-2021,Brian Adams,25403.26543,436,Urgent,15-01-2022,Ibuprofen,Normal,96.4,88,9843274151
+2.68E+13,Dr. Benjamin Jimenez,13-12-2004,Female,A+,Asthma,21-08-2022,Karen Mullen,4872.522039,300,Emergency,23-08-2022,Aspirin,Normal,98.4,86,9843274151
+7.15E+13,Mariah Davis,14-12-2004,Female,A-,Cancer,07-03-2021,Christopher Blair,16579.52311,181,Elective,14-03-2021,Penicillin,Abnormal,97.9,76,9843274151
+6.45E+14,Nathan Schwartz,15-12-2004,Female,B+,Asthma,31-07-2019,Eddie Shah,36267.53005,359,Elective,08-08-2019,Lipitor,Inconclusive,98.2,91,9843274151
+4.2E+12,Vickie Bernard,16-12-2004,Female,B-,Diabetes,17-04-2019,Joseph Small,14630.92198,243,Elective,19-04-2019,Penicillin,Inconclusive,99,76,9843274151
+6.59E+12,Robert Brown,17-12-2004,Male,A-,Cancer,06-03-2021,Teresa Cannon,20948.86841,451,Elective,08-03-2021,Lipitor,Inconclusive,98.2,62,9843274151
+4.55E+13,Daniel Mayo,18-12-2004,Male,O-,Cancer,25-06-2019,William Hart,16520.40104,454,Emergency,06-07-2019,Paracetamol,Abnormal,97.2,84,9843274151
+3.27E+12,Danny Farley,19-12-2004,Male,AB+,Arthritis,08-02-2021,Rachel Jimenez,40894.21214,324,Urgent,03-03-2021,Lipitor,Abnormal,98.6,87,9843274151
+3.27E+12,Maria Williams,20-12-2004,Male,A-,Hypertension,29-11-2022,Ashley Garcia,21763.63092,413,Elective,20-12-2022,Aspirin,Abnormal,99,83,9843274151
+6.64E+12,Sally Henderson,21-12-2004,Female,A-,Cancer,20-08-2019,John Brown,19095.93782,233,Urgent,06-09-2019,Penicillin,Abnormal,98.8,81,9843274151
+6.64E+12,Kathy Walls,22-12-2004,Male,O-,Hypertension,12-04-2023,Ashley Perez,36653.51867,279,Urgent,10-05-2023,Lipitor,Normal,98.6,98,9843274151
+2.89E+13,Angela Lara,23-12-2004,Female,AB-,Diabetes,30-10-2021,Trevor Walker,7425.021655,257,Elective,14-11-2021,Paracetamol,Normal,98.1,111,9843274151
+4.88E+13,Terry Martinez,24-12-2004,Male,A+,Asthma,31-05-2022,Paul Tanner,7971.315646,227,Elective,24-06-2022,Penicillin,Inconclusive,98.4,82,9843274151
+4.57E+12,Alicia Bartlett,25-12-2004,Male,AB-,Obesity,28-06-2020,Autumn Washington,39914.27607,458,Urgent,09-07-2020,Penicillin,Inconclusive,98.6,93,9843274151
+16179957944,Melissa Smith,26-12-2004,Female,B+,Arthritis,10-10-2020,Ryan Cline,7114.390325,209,Urgent,14-10-2020,Aspirin,Normal,98.1,55,9843274151
+2.23E+12,Bruce Atkinson,27-12-2004,Male,A-,Hypertension,17-11-2019,Shannon Ochoa,35155.66422,148,Urgent,18-11-2019,Lipitor,Abnormal,98.8,88,9843274151
+3.32E+12,Monica Hampton,28-12-2004,Male,O-,Hypertension,05-06-2019,Matthew Wyatt,2940.426701,121,Elective,23-06-2019,Paracetamol,Inconclusive,97.3,109,9843274151
+2.76E+12,Travis Barrett,29-12-2004,Male,B+,Diabetes,25-09-2021,Deborah Jones,20832.68128,461,Emergency,21-10-2021,Lipitor,Inconclusive,97.9,98,9843274151
+4.98E+12,Kayla Herrera,30-12-2004,Male,AB-,Diabetes,03-07-2022,Angela Branch,26790.38572,228,Urgent,12-07-2022,Penicillin,Normal,98.6,95,9843274151
+2.59E+12,Brian Gibson,31-12-2004,Male,B+,Arthritis,30-06-2020,Kathleen Oconnor DDS,7075.042493,216,Elective,25-07-2020,Lipitor,Inconclusive,99.1,95,9843274151
+6.77E+12,Ryan Rodriguez,01-01-2005,Male,AB+,Hypertension,06-10-2021,Janice Morgan,41813.39959,302,Urgent,21-10-2021,Ibuprofen,Abnormal,98.8,115,9843274151
+3.92E+14,Jeremy Whitney,02-01-2005,Female,A-,Arthritis,16-08-2019,Michael Harris,26925.89518,266,Elective,12-09-2019,Penicillin,Inconclusive,98.6,84,9843274151
+2.54E+14,Amanda Hernandez,03-01-2005,Female,A-,Obesity,11-04-2019,Amy Carpenter,34710.04305,115,Emergency,12-04-2019,Penicillin,Inconclusive,98.2,103,9843274151
+5.93E+14,Steven Schaefer,04-01-2005,Male,AB-,Diabetes,10-05-2022,Denise Gonzalez,24406.04562,417,Emergency,27-05-2022,Paracetamol,Abnormal,97.9,61,9843274151
+4.77E+13,Matthew Norris,05-01-2005,Male,O-,Cancer,13-03-2020,Pamela Davis MD,32681.8883,450,Urgent,01-04-2020,Aspirin,Normal,98.2,86,9843274151
+8.65E+12,Diana Watkins,06-01-2005,Female,B+,Asthma,30-04-2022,Tara Jones,6070.790387,283,Urgent,09-05-2022,Lipitor,Inconclusive,98.6,77,9843274151
+6.77E+14,Keith Chambers,07-01-2005,Male,A-,Cancer,27-12-2022,Gary Baldwin,8144.499917,369,Emergency,11-01-2023,Penicillin,Normal,98.8,95,9843274151
+2.97E+12,Andrew Davis,08-01-2005,Male,A+,Hypertension,18-04-2019,Wendy Gallagher,33700.44951,227,Urgent,12-05-2019,Lipitor,Inconclusive,98.8,107,9843274151
+4.99E+11,Daniel Horne,09-01-2005,Male,O-,Asthma,13-12-2018,William Townsend,23147.66204,121,Emergency,16-12-2018,Lipitor,Inconclusive,98.6,77,9843274151
+5.17E+13,Angela Hunter,10-01-2005,Male,A-,Hypertension,20-05-2021,Amanda Clark,4779.894357,382,Urgent,29-05-2021,Aspirin,Abnormal,98.4,119,9843274151
+5.49E+13,Karen Clark,11-01-2005,Female,B+,Hypertension,12-08-2021,Joshua Lopez,35536.8354,231,Elective,22-08-2021,Aspirin,Normal,98.6,96,9843274151
+1.33E+11,Walter Miller,12-01-2005,Male,O-,Cancer,21-03-2022,George Davis,9548.401159,384,Emergency,19-04-2022,Lipitor,Normal,97.9,98,9843274151
+5.82E+13,Shane Olson,13-01-2005,Female,A-,Arthritis,03-08-2021,David Richardson,37589.3058,171,Urgent,17-08-2021,Aspirin,Normal,98.6,90,9843274151
+4.24E+13,Rhonda Larson,14-01-2005,Male,B-,Obesity,18-04-2021,Kristen Henderson,11480.50809,150,Elective,06-05-2021,Penicillin,Normal,97.5,105,9843274151
+8.57E+12,Jasmine Hernandez,15-01-2005,Female,AB+,Hypertension,29-10-2021,Deborah Andrews,48934.26926,224,Elective,09-11-2021,Paracetamol,Abnormal,98.2,109,9843274151
+9.24E+13,Christopher Delgado,16-01-2005,Female,A-,Obesity,08-06-2021,Susan Franklin,41867.42277,292,Elective,13-06-2021,Aspirin,Normal,98.1,98,9843274151
+8.87E+12,Laura Banks,17-01-2005,Male,A-,Hypertension,07-09-2020,James Fleming,30326.54812,464,Urgent,02-10-2020,Ibuprofen,Abnormal,99.3,107,9843274151
+4.22E+12,John Johnson,18-01-2005,Female,B-,Obesity,15-02-2019,Blake Young,15650.89136,323,Emergency,13-03-2019,Aspirin,Abnormal,99,100,9843274151
+5.45E+14,Craig Garcia,19-01-2005,Male,B-,Asthma,07-07-2023,Bradley Jones,23674.45,457,Emergency,08-07-2023,Ibuprofen,Normal,99,129,9843274151
+5.47E+13,Stephen Wheeler,20-01-2005,Male,A-,Asthma,26-02-2020,Toni Hoover,4327.007176,443,Urgent,07-03-2020,Aspirin,Abnormal,97.3,86,9843274151
+2.82E+13,Heather Walters,21-01-2005,Female,A-,Diabetes,15-03-2021,Tara Kaufman,29642.72166,349,Urgent,28-03-2021,Aspirin,Abnormal,97.5,86,9843274151
+3.75E+12,Alexis Huynh,22-01-2005,Female,O+,Asthma,30-06-2019,Kathryn Boone,23708.64705,358,Emergency,23-07-2019,Lipitor,Abnormal,97.2,84,9843274151
+4.54E+12,Timothy Henderson,23-01-2005,Female,AB-,Hypertension,01-05-2019,Penny Moore,25553.10842,449,Urgent,18-05-2019,Lipitor,Abnormal,97.9,84,9843274151
+4.54E+11,Colleen Allen,24-01-2005,Male,O-,Diabetes,20-09-2021,Dana Daniels,2843.956771,223,Emergency,12-10-2021,Penicillin,Inconclusive,99,92,9843274151
+1.97E+12,Robert Cruz,25-01-2005,Female,O+,Arthritis,02-08-2023,Carla Sanchez,17514.33573,418,Emergency,01-09-2023,Penicillin,Normal,97.7,112,9843274151
+3.55E+13,Laura Torres,26-01-2005,Male,A+,Hypertension,30-01-2020,Robert Johnson,13176.78746,220,Urgent,01-02-2020,Lipitor,Abnormal,97.7,85,9843274151
+8.33E+13,Laura Leonard,27-01-2005,Female,AB+,Hypertension,26-04-2019,Michelle Ali,26984.72144,370,Urgent,17-05-2019,Paracetamol,Normal,100,68,9843274151
+35771471862,Andrew Sharp,28-01-2005,Male,A+,Diabetes,08-08-2022,Julia Lang,6972.148003,270,Urgent,02-09-2022,Penicillin,Inconclusive,96.8,88,9843274151
+5.98E+12,Jacob Jenkins,29-01-2005,Female,B-,Obesity,16-06-2022,Jeffrey Bush,23127.21956,489,Emergency,06-07-2022,Penicillin,Abnormal,97.5,84,9843274151
+5.14E+14,Theodore Sanchez,30-01-2005,Male,A-,Cancer,10-02-2022,Sean Knight,49053.35607,383,Emergency,26-02-2022,Penicillin,Normal,96.8,101,9843274151
+6.31E+13,Robert Harris,31-01-2005,Female,AB+,Diabetes,18-02-2021,Daniel Barnett,26673.32884,151,Elective,25-02-2021,Penicillin,Abnormal,98.2,98,9843274151
+2.37E+14,Julie Johnston,01-02-2005,Female,O-,Obesity,22-10-2019,Randy Carlson,26730.53303,475,Elective,14-11-2019,Lipitor,Normal,99.1,113,9843274151
+8.75E+11,Angela Lewis,02-02-2005,Female,O-,Hypertension,30-12-2018,Curtis Sanchez,1273.563489,193,Emergency,09-01-2019,Aspirin,Inconclusive,97.5,88,9843274151
+1.72E+13,Steven Irwin,03-02-2005,Male,AB+,Arthritis,07-10-2019,Penny Jones,9530.447756,130,Emergency,17-10-2019,Penicillin,Normal,98.4,107,9843274151
+5.82E+12,Katelyn Barron,04-02-2005,Male,B-,Diabetes,12-03-2021,Samuel Tran,41468.33202,486,Urgent,13-03-2021,Paracetamol,Inconclusive,98.1,108,9843274151
+1.97E+13,Karen Sanford,05-02-2005,Male,O-,Obesity,29-11-2018,Jonathan Ruiz,29471.33858,195,Emergency,29-12-2018,Aspirin,Normal,98.4,84,9843274151
+2.62E+11,Yvette Banks,06-02-2005,Female,B-,Obesity,28-07-2023,John Sloan,13566.27382,370,Urgent,02-08-2023,Paracetamol,Inconclusive,97.9,84,9843274151
+7.64E+12,James Perkins,07-02-2005,Female,A-,Obesity,06-01-2020,Jessica Cook,44848.31327,394,Emergency,12-01-2020,Aspirin,Normal,97.3,67,9843274151
+1.82E+13,Nicholas Marquez,08-02-2005,Female,AB+,Hypertension,17-03-2021,Stephen Henderson,45032.99862,332,Urgent,02-04-2021,Lipitor,Normal,99.7,81,9843274151
+5.56E+14,Christopher Haynes,09-02-2005,Male,AB+,Asthma,05-11-2022,Mr. Jeffrey Oliver,35815.45585,183,Emergency,04-12-2022,Aspirin,Normal,98.6,84,9843274151
+1.33E+14,Heather Johnson,10-02-2005,Female,B-,Hypertension,24-06-2019,Joshua Ramirez,19532.53279,482,Urgent,12-07-2019,Aspirin,Abnormal,97.2,114,9843274151
+4.92E+12,John Turner,11-02-2005,Female,B+,Hypertension,04-12-2019,Luis Brown,45970.0254,349,Urgent,31-12-2019,Lipitor,Abnormal,99,83,9843274151
+4.92E+12,Maria Mahoney,12-02-2005,Female,AB+,Cancer,03-02-2021,Denise Costa,31603.46429,129,Urgent,03-03-2021,Penicillin,Inconclusive,98.6,101,9843274151
+9.59E+13,Michelle Johnson,13-02-2005,Female,B-,Asthma,20-04-2022,Maurice Collins,46859.30081,101,Urgent,05-05-2022,Lipitor,Normal,97.2,108,9843274151
+9.84E+13,Monica Serrano,14-02-2005,Male,AB-,Arthritis,28-11-2021,Tim Bauer,12442.55739,437,Urgent,12-12-2021,Penicillin,Normal,97.5,66,9843274151
+7.63E+13,Larry Fitzpatrick,15-02-2005,Female,AB+,Obesity,11-12-2021,Joshua Myers,30663.06092,350,Elective,18-12-2021,Aspirin,Abnormal,100,142,9843274151
+6.98E+12,Karen Dunn,16-02-2005,Male,AB-,Diabetes,08-04-2019,Louis Vasquez,46515.22909,309,Emergency,04-05-2019,Penicillin,Inconclusive,96.8,76,9843274151
+6.65E+14,David Kim,17-02-2005,Male,A-,Obesity,09-02-2023,Douglas Contreras,11124.06466,114,Urgent,22-02-2023,Aspirin,Inconclusive,98.4,59,9843274151
+7.42E+13,Christian Gonzalez,18-02-2005,Male,O+,Obesity,30-06-2021,Julie Carr,47627.27784,394,Urgent,09-07-2021,Ibuprofen,Inconclusive,101.8,134,9843274151
+92646467998,Martin Hines,19-02-2005,Female,AB+,Diabetes,11-04-2020,Mr. Samuel Garcia,31263.33812,359,Urgent,21-04-2020,Penicillin,Abnormal,99,107,9843274151
+7.42E+13,Sandra Rose,20-02-2005,Male,AB+,Hypertension,03-02-2022,Michael Holder,28352.41473,469,Emergency,20-02-2022,Paracetamol,Inconclusive,98.6,97,9843274151
+3.39E+13,Casey Brown,21-02-2005,Male,B+,Asthma,12-05-2022,Andre Hernandez,42655.64206,366,Emergency,05-06-2022,Ibuprofen,Normal,97.9,93,9843274151
+5.56E+14,Vincent Reese,22-02-2005,Female,O+,Cancer,23-06-2020,Chris Weeks,22269.55697,158,Emergency,08-07-2020,Ibuprofen,Abnormal,99.3,81,9843274151
+5.57E+14,Mr. John Martin DVM,23-02-2005,Female,O-,Arthritis,08-05-2021,Mike Allen,42727.06258,424,Emergency,16-05-2021,Lipitor,Inconclusive,99.7,106,9843274151
+6.47E+14,Amanda Stone,24-02-2005,Female,A-,Arthritis,05-06-2019,Adam Snyder,33632.92974,359,Elective,27-06-2019,Paracetamol,Inconclusive,97.3,67,9843274151
+8.26E+14,Timothy Hernandez,25-02-2005,Female,O-,Asthma,13-05-2021,Anna Mclean,35921.24998,312,Elective,20-05-2021,Penicillin,Normal,98.6,81,9843274151
+2.88E+12,Kelly Jones,26-02-2005,Male,O-,Asthma,10-04-2019,Laura Norris,29057.33789,292,Urgent,16-04-2019,Lipitor,Inconclusive,98.2,69,9843274151
+4.89E+13,Megan Kelley,27-02-2005,Female,A-,Diabetes,23-02-2020,Theresa Ingram,11798.27264,120,Urgent,29-02-2020,Lipitor,Normal,97.9,137,9843274151
+3.93E+13,Michelle Robinson MD,28-02-2005,Female,B-,Cancer,05-02-2019,Paul Walker,29004.14832,172,Elective,09-02-2019,Lipitor,Abnormal,98.4,92,9843274151
+1.81E+13,Mr. Christopher Burns DDS,01-03-2005,Female,O+,Hypertension,03-08-2022,Mario Dillon,35302.05425,285,Elective,30-08-2022,Penicillin,Inconclusive,97.9,117,9843274151
+9.62E+13,Deborah Kelley,02-03-2005,Male,B+,Asthma,01-06-2023,Amber Carter,40930.3367,269,Elective,27-06-2023,Paracetamol,Abnormal,98.6,68,9843274151
+9.62E+13,Julie Long,03-03-2005,Female,A+,Diabetes,13-10-2020,Michael Allen,18198.87372,353,Urgent,04-11-2020,Aspirin,Abnormal,98.6,76,9843274151
+8.36E+12,Natalie Johnson,04-03-2005,Male,A-,Asthma,04-02-2020,Tony Bean,2169.800025,250,Emergency,17-02-2020,Lipitor,Abnormal,98.8,86,9843274151
+3E+14,Steven Rodriguez,05-03-2005,Male,A-,Arthritis,04-09-2023,Nicole Rodriguez,22325.85849,494,Emergency,16-09-2023,Ibuprofen,Normal,98.2,113,9843274151
+7.38E+12,Jennifer Williams,06-03-2005,Male,O+,Hypertension,17-07-2020,Eric Clark,39300.53214,148,Urgent,22-07-2020,Penicillin,Normal,99,66,9843274151
+3.39E+13,Mark Gordon,07-03-2005,Male,A+,Hypertension,09-09-2021,Nichole Lewis,48637.89035,489,Urgent,30-09-2021,Aspirin,Inconclusive,97.5,71,9843274151
+4.5E+13,Jon Harding,08-03-2005,Male,O-,Obesity,21-10-2019,Wanda Meyers,11455.63828,299,Elective,07-11-2019,Penicillin,Abnormal,99,91,9843274151
+7.99E+11,Leslie Kennedy,09-03-2005,Male,O+,Asthma,14-08-2023,Steven Smith,29736.4858,333,Urgent,02-09-2023,Aspirin,Normal,97.5,82,9843274151
+6.17E+14,Christina Roberts,10-03-2005,Female,O-,Obesity,19-09-2023,Carl Sanders,31546.04034,118,Emergency,23-09-2023,Lipitor,Inconclusive,97.5,108,9843274151
+6.89E+13,Zachary Roberts,11-03-2005,Female,AB+,Cancer,11-03-2023,Dr. Robert Massey,29531.96895,194,Urgent,07-04-2023,Aspirin,Abnormal,97,69,9843274151
+73698268241,Steven Reilly,12-03-2005,Male,AB+,Arthritis,08-11-2020,Eric Knox,27793.87415,354,Elective,07-12-2020,Lipitor,Abnormal,97.5,114,9843274151
+8.42E+12,Amber Carter,13-03-2005,Female,B-,Asthma,21-12-2022,Eric Marquez,25651.52417,210,Urgent,27-12-2022,Lipitor,Abnormal,98.4,94,9843274151
+6.75E+13,Victor Edwards,14-03-2005,Male,O+,Hypertension,20-06-2019,Seth Lewis,2633.793098,459,Urgent,11-07-2019,Paracetamol,Abnormal,98.4,82,9843274151
+1.13E+13,Jeffery Tucker,15-03-2005,Female,AB-,Cancer,18-10-2019,James Phillips,36200.57482,150,Elective,07-11-2019,Penicillin,Inconclusive,99.5,85,9843274151
+7.58E+13,Robert Cooper,16-03-2005,Female,AB-,Arthritis,17-09-2022,Gregory Smith,27740.6219,419,Elective,25-09-2022,Aspirin,Abnormal,97.5,53,9843274151
+5.18E+14,Victoria Velez,17-03-2005,Female,A+,Diabetes,17-06-2023,Colleen Miller,10942.24671,308,Urgent,05-07-2023,Paracetamol,Normal,97.3,53,9843274151
+5.93E+13,Angela Scott,18-03-2005,Female,O+,Asthma,27-09-2022,Christopher Henry,1580.523899,385,Emergency,05-10-2022,Ibuprofen,Normal,98.2,75,9843274151
+2.83E+13,Sarah Burke,19-03-2005,Male,O-,Obesity,22-08-2021,Wendy Santiago,4430.935758,283,Urgent,12-09-2021,Paracetamol,Abnormal,96.8,99,9843274151
+1.17E+13,Karen Fox,20-03-2005,Female,B-,Cancer,22-05-2020,Paul Hill,47716.54156,150,Elective,29-05-2020,Aspirin,Abnormal,97.7,72,9843274151
+5.23E+13,Nathan Harrison,21-03-2005,Male,A-,Hypertension,15-07-2023,Jay Lopez,6907.865086,298,Emergency,29-07-2023,Penicillin,Normal,97.2,94,9843274151
+3.24E+14,Allen Chen,22-03-2005,Male,B+,Obesity,26-04-2023,John Diaz,37718.96598,349,Urgent,09-05-2023,Lipitor,Inconclusive,96.8,125,9843274151
+2.81E+12,Bryan Williams,23-03-2005,Female,B+,Diabetes,16-08-2020,George May,20190.80934,287,Emergency,01-09-2020,Lipitor,Normal,97.7,84,9843274151
+4.24E+14,Stephanie Reed,24-03-2005,Male,O+,Hypertension,27-09-2019,Daniel Stephens,8957.210321,486,Elective,18-10-2019,Lipitor,Inconclusive,95.7,128,9843274151
+2.4E+12,Bradley Jones,25-03-2005,Male,A-,Asthma,02-10-2022,Joe Avery,1621.741365,124,Elective,30-10-2022,Penicillin,Abnormal,97.3,68,9843274151
+4.4E+13,Francis Wheeler,26-03-2005,Female,B-,Arthritis,17-12-2018,Chad Riley,14870.62725,493,Elective,12-01-2019,Paracetamol,Inconclusive,101.5,93,9843274151
+6.7E+14,Ricardo Mcconnell,27-03-2005,Male,B-,Obesity,06-10-2022,Mrs. Tammy Rose,17325.66524,356,Elective,07-10-2022,Lipitor,Inconclusive,96.8,116,9843274151
+2.21E+11,Heather Stephens,28-03-2005,Female,A-,Arthritis,14-08-2020,Mindy Lindsey,17171.20108,471,Emergency,07-09-2020,Aspirin,Normal,98.1,87,9843274151
+7.96E+12,Michael Parker,29-03-2005,Male,B+,Cancer,04-09-2019,Linda Gomez,1720.118656,197,Elective,14-09-2019,Penicillin,Normal,97.7,88,9843274151
+2.44E+12,Craig Leonard,30-03-2005,Female,B+,Asthma,22-12-2021,Diana Cooper,43169.87155,190,Urgent,30-12-2021,Paracetamol,Abnormal,99.7,82,9843274151
+2.52E+13,Kevin Cunningham,31-03-2005,Female,O+,Arthritis,28-02-2021,Sheri Mclean,21815.83471,497,Urgent,15-03-2021,Penicillin,Normal,97.2,95,9843274151
+7.42E+13,Terrance Knapp,01-04-2005,Female,AB-,Diabetes,28-12-2022,Julia Murray,15723.02446,104,Emergency,26-01-2023,Aspirin,Normal,98.4,109,9843274151
+7.35E+14,Teresa Martinez,02-04-2005,Male,O+,Obesity,17-08-2019,Kristi Leblanc,25943.14095,386,Urgent,30-08-2019,Ibuprofen,Normal,97.9,97,9843274151
+5.55E+12,Desiree Gordon,03-04-2005,Female,AB-,Diabetes,25-08-2021,Robert Morgan,43137.28068,291,Urgent,30-08-2021,Aspirin,Normal,97.9,133,9843274151
+8939553182,David Reyes,04-04-2005,Female,O-,Asthma,29-04-2019,Renee Ford,20480.12737,194,Emergency,04-05-2019,Penicillin,Normal,97.7,77,9843274151
+3.34E+14,Jessica Yates,05-04-2005,Female,O-,Asthma,08-11-2022,James Roberson,41749.14143,358,Urgent,17-11-2022,Lipitor,Abnormal,98.6,101,9843274151
+6.95E+12,Amber Wade,06-04-2005,Female,B-,Asthma,31-08-2021,Ricky Ryan,25944.58737,163,Urgent,29-09-2021,Lipitor,Abnormal,97.5,78,9843274151
+2.23E+12,Jo Clark,07-04-2005,Male,O+,Diabetes,18-04-2021,Jordan Moss,7898.410395,152,Emergency,03-05-2021,Aspirin,Inconclusive,96.1,88,9843274151
+1.94E+12,Kevin Frederick,08-04-2005,Female,O-,Diabetes,01-12-2018,Mr. Seth Watson II,26652.0263,339,Emergency,02-12-2018,Penicillin,Inconclusive,99,117,9843274151
+3.39E+12,Alfred Johnson,09-04-2005,Male,O-,Cancer,20-11-2018,Norman Williams,22964.51303,142,Urgent,07-12-2018,Paracetamol,Normal,97.9,63,9843274151
+6.93E+13,Emily Mason,10-04-2005,Female,B+,Arthritis,30-10-2022,Holly Chan,40088.25191,445,Emergency,24-11-2022,Lipitor,Abnormal,96.8,98,9843274151
+4.82E+13,Terry Thompson,11-04-2005,Female,A-,Hypertension,18-06-2020,Lori Chandler,21643.09887,441,Urgent,18-07-2020,Aspirin,Inconclusive,97.3,75,9843274151
+1.88E+12,Michael Simon,12-04-2005,Female,AB+,Asthma,25-09-2020,Christopher Owens,45847.12145,303,Elective,04-10-2020,Paracetamol,Abnormal,98,83,9843274151
+6.67E+13,Diana Stevens,13-04-2005,Male,A+,Diabetes,01-02-2020,Steven Allen,21787.94821,221,Emergency,25-02-2020,Paracetamol,Normal,98.2,88,9843274151
+4.74E+11,Luis Cooper,14-04-2005,Female,A-,Cancer,14-07-2019,Derrick Krause,1308.450511,203,Urgent,15-07-2019,Lipitor,Abnormal,98,106,9843274151
+2.95E+13,George Allison,15-04-2005,Male,A+,Hypertension,12-08-2022,Ryan Kirk,16653.86124,233,Elective,08-09-2022,Penicillin,Abnormal,97.3,83,9843274151
+3.38E+12,David Boyd,16-04-2005,Female,AB-,Cancer,07-03-2021,Kyle Miller,4890.952697,355,Emergency,05-04-2021,Penicillin,Abnormal,98,80,9843274151
+2.28E+14,Leonard Benton,17-04-2005,Male,O-,Obesity,05-09-2021,Jessica Yu,3672.310738,287,Urgent,13-09-2021,Lipitor,Inconclusive,97.1,74,9843274151
+4.27E+13,Kenneth Armstrong,18-04-2005,Female,O+,Asthma,02-07-2022,Michelle Lopez,2754.241384,496,Urgent,25-07-2022,Penicillin,Abnormal,97.9,78,9843274151
+3.18E+13,Angela Lopez,19-04-2005,Female,A+,Asthma,04-03-2022,Alexander Cruz,7375.702678,469,Urgent,20-03-2022,Ibuprofen,Normal,98,86,9843274151
+7.23E+14,Stanley Kirby,20-04-2005,Male,B+,Arthritis,21-12-2018,Derek Martin,17774.51346,315,Emergency,28-12-2018,Penicillin,Normal,97.7,55,9843274151
+7.38E+13,Stephanie Bryant,21-04-2005,Female,A+,Asthma,01-06-2022,Carol Brown,37817.35474,245,Urgent,29-06-2022,Ibuprofen,Abnormal,97.8,75,9843274151
+2.76E+12,Daniel Barajas,22-04-2005,Male,AB+,Cancer,29-10-2022,Mr. Mark Nguyen,35327.49681,187,Elective,05-11-2022,Penicillin,Abnormal,98.3,72,9843274151
+7.11E+13,Joy Mitchell,23-04-2005,Male,A+,Cancer,24-02-2020,Kimberly Garcia,7515.106726,118,Urgent,18-03-2020,Lipitor,Abnormal,97.2,62,9843274151
+6.57E+11,Daniel Mccoy,24-04-2005,Female,AB+,Asthma,25-12-2022,Dylan Andrews,26191.85568,250,Elective,30-12-2022,Penicillin,Inconclusive,97.5,88,9843274151
+7.13E+14,Latoya Liu,25-04-2005,Male,A-,Diabetes,15-09-2020,Amber Welch,40368.63079,467,Emergency,28-09-2020,Lipitor,Abnormal,97.9,67,9843274151
+3.95E+14,Michael Thompson,26-04-2005,Female,AB-,Arthritis,12-10-2021,Zachary Fuentes,12318.4026,444,Elective,23-10-2021,Paracetamol,Abnormal,98,88,9843274151
+4.83E+14,Daryl Torres,27-04-2005,Female,B+,Arthritis,22-12-2019,Jared Marshall,25682.58668,500,Elective,03-01-2020,Penicillin,Abnormal,97.6,111,9843274151
+6.64E+13,Cindy Gomez,28-04-2005,Female,A-,Asthma,03-07-2023,Mr. Timothy Santiago,1166.771319,212,Elective,02-08-2023,Paracetamol,Abnormal,98.1,106,9843274151
+8.77E+14,Sherry Williams,29-04-2005,Male,AB+,Arthritis,24-11-2022,Matthew Kennedy,26137.14802,405,Urgent,18-12-2022,Penicillin,Normal,98.1,86,9843274151
+5.98E+13,Kurt Gordon,30-04-2005,Female,B-,Obesity,18-10-2022,Thomas Rice,30496.55102,270,Elective,08-11-2022,Penicillin,Abnormal,97.8,91,9843274151
+3.85E+13,Tammy Hamilton,01-05-2005,Male,A-,Cancer,01-02-2020,Kristi Chan,22805.87772,226,Urgent,22-02-2020,Lipitor,Abnormal,97.9,60,9843274151
+7.41E+14,Kevin Montoya,02-05-2005,Female,AB-,Arthritis,07-05-2019,Mark Watkins,49270.07251,133,Elective,13-05-2019,Lipitor,Abnormal,97.6,71,9843274151
+4.73E+14,Dana Beck,03-05-2005,Male,B+,Arthritis,26-03-2020,Hunter Carter,4858.182481,261,Urgent,03-04-2020,Lipitor,Abnormal,98.1,106,9843274151
+2.22E+14,Crystal Green,04-05-2005,Male,AB-,Cancer,09-03-2019,George Jones,9221.570266,415,Elective,16-03-2019,Penicillin,Abnormal,102.2,105,9843274151
+6.98E+14,Steven Clark,05-05-2005,Female,B-,Diabetes,06-06-2021,Gregory Patton,7277.398359,450,Emergency,24-06-2021,Penicillin,Abnormal,98.1,100,9843274151
+3.48E+14,Cheryl Thomas,06-05-2005,Male,AB-,Cancer,29-03-2023,Duane Lane,46231.73251,153,Emergency,26-04-2023,Paracetamol,Normal,98,84,9843274151
+6.98E+14,Judith Trevino,07-05-2005,Female,O-,Hypertension,16-10-2019,Jesse Bailey,4159.851675,240,Elective,15-11-2019,Paracetamol,Inconclusive,98.3,88,9843274151
+5.35E+13,Amy Keller,08-05-2005,Female,O-,Cancer,27-02-2022,Laurie Floyd,39008.29088,231,Emergency,23-03-2022,Ibuprofen,Abnormal,98.2,98,9843274151
+2.32E+14,Gerald Moore,09-05-2005,Male,AB+,Diabetes,13-06-2020,Alexandria Potts,5859.633336,136,Emergency,24-06-2020,Paracetamol,Abnormal,98.4,103,9843274151
+1.72E+14,Deanna Stone,10-05-2005,Female,AB-,Cancer,07-11-2018,Jessica Jackson,11504.24353,304,Emergency,17-11-2018,Lipitor,Abnormal,97.8,84,9843274151
+5.15E+14,Christian Gonzalez,11-05-2005,Male,B-,Arthritis,17-06-2022,Julie Moreno,29711.44849,171,Elective,12-07-2022,Lipitor,Abnormal,98,80,9843274151
+5.48E+12,John Rios,12-05-2005,Female,O+,Diabetes,11-07-2022,Carla Dougherty,12779.41907,139,Urgent,15-07-2022,Lipitor,Normal,97.2,85,9843274151
+1.78E+14,James Chung,13-05-2005,Female,A-,Hypertension,14-07-2021,Franklin Martin,37031.66795,464,Elective,24-07-2021,Ibuprofen,Normal,98.3,81,9843274151
+6.62E+14,Kimberly Mccarthy,14-05-2005,Male,AB-,Cancer,22-03-2019,Adrian Davis,35296.6074,478,Elective,12-04-2019,Lipitor,Inconclusive,98.1,70,9843274151
+3.62E+13,Christine Young,15-05-2005,Female,A-,Hypertension,29-11-2020,Anthony Davis,13251.93067,272,Urgent,11-12-2020,Aspirin,Normal,97.8,101,9843274151
+4.64E+12,Donald Walker,16-05-2005,Female,O-,Hypertension,18-06-2019,Kristen Sherman,10398.84143,263,Elective,14-07-2019,Paracetamol,Abnormal,98.3,65,9843274151
+9.18E+11,Shane Black,17-05-2005,Male,AB+,Obesity,21-11-2018,Heather Burns,35824.27718,147,Emergency,17-12-2018,Paracetamol,Abnormal,97.3,77,9843274151
+1.36E+14,Derek Henderson,18-05-2005,Male,B+,Arthritis,29-10-2021,Mrs. Lindsey Howell,25646.98277,384,Emergency,04-11-2021,Aspirin,Normal,98,90,9843274151
+4.75E+13,Pamela Miller,19-05-2005,Male,AB+,Arthritis,11-08-2023,Xavier Wright,38797.57016,443,Emergency,30-08-2023,Penicillin,Inconclusive,98.3,60,9843274151
+5.93E+12,Allison Aguilar,20-05-2005,Male,O-,Asthma,23-09-2022,Patty Murphy,39298.31398,499,Emergency,29-09-2022,Penicillin,Normal,99.4,102,9843274151
+8.84E+12,Ms. Katelyn Lopez MD,21-05-2005,Female,B-,Diabetes,31-01-2022,Emily Watson,13906.86947,254,Urgent,21-02-2022,Penicillin,Abnormal,97,78,9843274151
+6.33E+14,Alicia Evans,22-05-2005,Female,A-,Cancer,05-12-2018,Russell Smith,3240.309923,310,Urgent,12-12-2018,Penicillin,Inconclusive,97.8,94,9843274151
+1.82E+14,David Collins,23-05-2005,Male,B+,Obesity,12-11-2020,Melissa Cervantes,18890.59999,323,Emergency,11-12-2020,Lipitor,Inconclusive,99.9,78,9843274151
+7.68E+14,Lisa Marshall,24-05-2005,Male,B+,Diabetes,21-10-2021,Anthony Cole,1832.966602,308,Urgent,14-11-2021,Ibuprofen,Abnormal,97,87,9843274151
+4.52E+13,Miss Courtney Navarro,25-05-2005,Male,B-,Cancer,10-10-2021,Peggy Bailey,9781.227877,145,Elective,14-10-2021,Paracetamol,Abnormal,98.1,93,9843274151
+6.16E+12,Pamela Sullivan,26-05-2005,Female,B-,Arthritis,26-08-2020,David Jennings,3484.917279,287,Elective,21-09-2020,Paracetamol,Normal,98.8,63,9843274151
+8.82E+12,Linda Stewart,27-05-2005,Male,O-,Diabetes,07-07-2021,Connie Johnson,28319.67557,223,Elective,21-07-2021,Paracetamol,Normal,98,84,9843274151
+8.82E+12,Daniel Blevins,28-05-2005,Female,O-,Diabetes,19-08-2021,Ashley Brooks,22706.1675,253,Emergency,22-08-2021,Ibuprofen,Abnormal,99.2,79,9843274151
+1.39E+13,Kenneth Oconnell,29-05-2005,Female,O+,Hypertension,11-01-2020,Morgan Johnson,8941.469519,155,Emergency,17-01-2020,Lipitor,Abnormal,98.1,95,9843274151
+1.59E+13,Tamara Salazar,30-05-2005,Female,O+,Cancer,23-08-2020,Jasmine Russell,6537.146944,213,Urgent,12-09-2020,Lipitor,Inconclusive,97.1,86,9843274151
+2.89E+13,Tammy Lewis,31-05-2005,Female,B-,Cancer,04-01-2021,Charles Weber,2089.921297,287,Emergency,15-01-2021,Paracetamol,Inconclusive,97.7,66,9843274151
+7.13E+14,Christine Lewis,01-06-2005,Male,B+,Arthritis,25-06-2021,Joseph Banks,6786.999889,451,Elective,22-07-2021,Aspirin,Inconclusive,97.9,72,9843274151
+5.56E+12,Lynn Lowery,02-06-2005,Male,AB+,Arthritis,28-07-2020,Beverly Carlson,7135.088457,413,Emergency,11-08-2020,Penicillin,Normal,97.9,60,9843274151
+2.89E+12,Marie Franklin,03-06-2005,Male,AB+,Diabetes,01-06-2019,Michael Dougherty,38992.27217,471,Elective,15-06-2019,Aspirin,Normal,98.2,69,9843274151
+1.96E+12,Holly Norman,04-06-2005,Female,A+,Asthma,01-05-2019,Karen Rogers,24341.76247,288,Elective,04-05-2019,Penicillin,Normal,98.1,73,9843274151
+9.44E+11,Michael Russell,05-06-2005,Male,O-,Obesity,24-10-2022,Jake White,38397.63351,381,Emergency,27-10-2022,Aspirin,Normal,98,68,9843274151
+56548277857,Richard Vega,06-06-2005,Male,B+,Obesity,31-10-2020,David Dean,19815.01794,225,Emergency,11-11-2020,Lipitor,Inconclusive,98,99,9843274151
+9.49E+12,Jessica Mcdonald,07-06-2005,Female,O-,Cancer,23-10-2021,Randy Scott,43750.16334,131,Urgent,10-11-2021,Penicillin,Inconclusive,98.1,84,9843274151
+1.29E+14,Bruce Johnson,08-06-2005,Female,AB+,Diabetes,05-05-2022,Luke Lawrence,32288.97324,191,Elective,25-05-2022,Paracetamol,Inconclusive,98.8,67,9843274151
+3.49E+14,Daniel Meadows,09-06-2005,Male,B+,Hypertension,20-11-2020,Sean Warren,21005.63445,425,Emergency,12-12-2020,Ibuprofen,Normal,97.2,80,9843274151
+3.97E+13,Jesse Tucker,10-06-2005,Female,O-,Cancer,16-06-2019,Michele Cruz,34855.72726,233,Urgent,05-07-2019,Penicillin,Normal,97.3,109,9843274151
+6.23E+14,Ryan Anderson,11-06-2005,Male,AB+,Hypertension,06-08-2022,Jordan Shelton,26510.62831,135,Urgent,04-09-2022,Penicillin,Inconclusive,98.2,67,9843274151
+5.23E+12,Kaitlyn Sampson,12-06-2005,Female,B+,Cancer,07-07-2021,Philip Mullins,12042.40894,385,Elective,08-07-2021,Lipitor,Inconclusive,98.1,74,9843274151
+9.63E+13,Brian York,13-06-2005,Male,B+,Hypertension,04-04-2020,Garrett Benton,41216.67692,178,Urgent,28-04-2020,Paracetamol,Abnormal,102.6,112,9843274151
+2.13E+14,Ashley Martinez,14-06-2005,Female,A-,Asthma,07-06-2019,Michelle Kennedy,6752.416371,405,Urgent,11-06-2019,Aspirin,Normal,98.6,79,9843274151
+4.76E+13,Andre Burch,15-06-2005,Female,O-,Obesity,09-03-2023,Mary Gonzales,24865.14765,411,Emergency,22-03-2023,Ibuprofen,Inconclusive,98.8,80,9843274151
+5.26E+12,Stephen Combs,16-06-2005,Male,A-,Hypertension,01-06-2021,Dana Black,44480.89615,423,Elective,29-06-2021,Ibuprofen,Normal,97,84,9843274151
+2.42E+13,Allison Reed PhD,17-06-2005,Male,B+,Diabetes,05-03-2020,Anthony Hernandez,35699.31153,329,Urgent,18-03-2020,Aspirin,Normal,98.4,72,9843274151
+9.78E+13,Abigail Mitchell,18-06-2005,Female,O-,Cancer,03-10-2020,Cory Campbell,23327.64271,121,Emergency,18-10-2020,Aspirin,Normal,97.3,53,9843274151
+8.59E+14,Jackie Arellano,19-06-2005,Female,O+,Asthma,15-01-2023,Michael Kelly,48488.17809,213,Emergency,23-01-2023,Penicillin,Abnormal,97.9,55,9843274151
+9.48E+13,Sierra Moreno,20-06-2005,Female,AB+,Cancer,10-02-2021,Jacob Olson,44147.79355,315,Emergency,09-03-2021,Aspirin,Normal,96.4,64,9843274151
+5.18E+13,Daniel Golden,21-06-2005,Male,A+,Hypertension,19-02-2023,Kendra Shields,43699.09339,460,Emergency,06-03-2023,Penicillin,Abnormal,99.3,93,9843274151
+8.24E+13,Melissa Martin,22-06-2005,Female,A+,Asthma,04-12-2019,Deanna Williams MD,34573.60213,366,Elective,12-12-2019,Penicillin,Abnormal,97.9,76,9843274151
+1.38E+14,Emily Johnson,23-06-2005,Female,O+,Arthritis,13-09-2019,Nicholas Bailey,25726.29889,493,Emergency,20-09-2019,Ibuprofen,Inconclusive,99.9,53,9843274151
+6.94E+14,Angela Taylor,24-06-2005,Male,O+,Cancer,23-03-2023,Kimberly Henry,28751.33243,326,Emergency,18-04-2023,Ibuprofen,Normal,97.9,106,9843274151
+6.47E+12,Ronald Becker,25-06-2005,Male,AB-,Diabetes,27-09-2022,Henry Garcia,26553.98181,268,Elective,27-10-2022,Paracetamol,Abnormal,98.2,102,9843274151
+9.13E+13,Tanya Sanford DDS,26-06-2005,Male,A+,Asthma,02-08-2019,Madeline Smith,34730.23118,441,Emergency,25-08-2019,Ibuprofen,Inconclusive,98.4,71,9843274151
+1.29E+13,Jerry Roman,27-06-2005,Male,B+,Asthma,22-06-2020,Brian Barnett,33563.15886,310,Elective,13-07-2020,Paracetamol,Inconclusive,98.1,64,9843274151
+9.72E+12,Adam Stephens,28-06-2005,Female,O-,Arthritis,28-03-2021,Nicholas Valenzuela,40482.86092,173,Elective,13-04-2021,Penicillin,Inconclusive,98.4,85,9843274151
+8.58E+13,Jane Vargas,29-06-2005,Female,A+,Obesity,21-08-2020,Donna Hicks,10100.07799,229,Elective,31-08-2020,Paracetamol,Normal,97.9,76,9843274151
+9.56E+12,Joseph Smith,30-06-2005,Male,O-,Cancer,29-01-2023,Amanda Stout,2397.243373,193,Urgent,02-02-2023,Paracetamol,Normal,95.5,60,9843274151
+5.31E+12,Sydney Gill,01-07-2005,Male,A+,Arthritis,02-01-2020,Adrian Boyd,6264.552847,483,Emergency,24-01-2020,Ibuprofen,Inconclusive,98.8,84,9843274151
+5.56E+12,Katherine White,02-07-2005,Female,A-,Diabetes,26-10-2019,Dr. Ann Mcdonald,26193.20859,324,Urgent,28-10-2019,Lipitor,Inconclusive,97.9,90,9843274151
+3.9E+13,Joy Martinez,03-07-2005,Female,B-,Hypertension,05-04-2023,Christine Lewis,26875.03408,103,Urgent,02-05-2023,Penicillin,Inconclusive,97,96,9843274151
+6.44E+14,Karen Mccoy,04-07-2005,Male,O-,Obesity,04-06-2023,Carol Harris,20789.85727,179,Elective,17-06-2023,Aspirin,Inconclusive,96.4,61,9843274151
+2.53E+13,David Pierce,05-07-2005,Female,O+,Diabetes,10-01-2021,Tracy Ward,44300.24972,334,Emergency,21-01-2021,Lipitor,Normal,98.8,84,9843274151
+3.17E+13,Sandra Payne,06-07-2005,Female,AB-,Hypertension,18-09-2022,Maria Walker,8515.078686,189,Emergency,21-09-2022,Aspirin,Inconclusive,97.7,74,9843274151
+4.34E+11,Theresa Woodard,07-07-2005,Female,O+,Asthma,27-09-2022,Carol Park,32934.47275,357,Elective,26-10-2022,Ibuprofen,Abnormal,98.4,87,9843274151
+9.24E+12,Cindy Lowe,08-07-2005,Female,O+,Arthritis,05-07-2020,Lisa Bennett,43134.40435,138,Urgent,27-07-2020,Lipitor,Abnormal,96.6,47,9843274151
+8.83E+14,Deborah Perry,09-07-2005,Female,B+,Cancer,27-05-2022,Sandra Cross,26655.771,405,Emergency,18-06-2022,Penicillin,Abnormal,98.1,78,9843274151
+1.47E+12,Yesenia Williams,10-07-2005,Female,A+,Arthritis,09-02-2020,Danny Mcdaniel,30328.08155,381,Urgent,12-02-2020,Aspirin,Normal,98.4,99,9843274151
+1.36E+13,Amanda Jones,11-07-2005,Male,O-,Arthritis,19-09-2023,Mary Williams,48960.84096,241,Urgent,05-10-2023,Penicillin,Inconclusive,97.5,75,9843274151
+14425282691,Julie Brooks,12-07-2005,Male,AB+,Hypertension,24-01-2020,Susan Olson,29381.5796,478,Emergency,05-02-2020,Lipitor,Abnormal,98.2,64,9843274151
+7.23E+12,Nicholas Martin,13-07-2005,Male,AB-,Hypertension,18-02-2022,Kendra Flores,42307.77965,306,Elective,24-02-2022,Paracetamol,Normal,96.3,64,9843274151
+318385314,Patricia Rivera,14-07-2005,Female,AB+,Arthritis,23-06-2021,Sylvia Avery,27564.35973,244,Elective,26-06-2021,Paracetamol,Inconclusive,98.2,80,9843274151
+9.93E+14,Jeffrey Lawrence,15-07-2005,Male,O+,Hypertension,26-11-2021,Deanna Baldwin,20131.64988,478,Emergency,01-12-2021,Paracetamol,Abnormal,98.8,68,9843274151
+1.89E+12,Curtis Dean,16-07-2005,Male,O-,Hypertension,05-08-2020,Michael Strickland,10643.35192,444,Urgent,14-08-2020,Ibuprofen,Abnormal,97.2,84,9843274151
+97599711357,Tabitha Price,17-07-2005,Male,AB-,Obesity,28-10-2021,Mary Carson,39053.62294,481,Elective,04-11-2021,Ibuprofen,Abnormal,97.5,75,9843274151
+1.72E+12,Todd Hernandez,18-07-2005,Male,AB-,Asthma,03-11-2022,Pamela Patel,19760.5687,347,Elective,09-11-2022,Aspirin,Abnormal,97.5,62,9843274151
+6.94E+13,Seth Burgess,19-07-2005,Male,AB-,Obesity,26-03-2022,Michael Sexton,27726.72588,313,Elective,23-04-2022,Aspirin,Abnormal,97.5,84,9843274151
+2.96E+14,Stephanie James,20-07-2005,Male,AB-,Obesity,08-07-2019,David Gregory,34328.25021,313,Emergency,18-07-2019,Lipitor,Abnormal,96.8,64,9843274151
+5.59E+14,Brandon Scott,21-07-2005,Female,AB-,Hypertension,02-01-2023,Elizabeth Vance,7452.926276,161,Urgent,01-02-2023,Penicillin,Abnormal,96.6,71,9843274151
+7.59E+13,Clarence Munoz,22-07-2005,Male,B+,Asthma,08-03-2019,Mark Dunn,35381.3491,460,Elective,24-03-2019,Ibuprofen,Normal,100.9,137,9843274151
+6.89E+13,Theresa Ball,23-07-2005,Male,A-,Cancer,30-09-2023,Pamela Taylor,29898.89442,164,Elective,02-10-2023,Lipitor,Abnormal,97.9,98,9843274151
+3.54E+12,Barbara Gutierrez,24-07-2005,Female,O+,Diabetes,11-09-2021,Michael Waters,22542.04791,350,Elective,11-10-2021,Lipitor,Inconclusive,98.2,88,9843274151
+3.92E+14,Kimberly Fernandez,25-07-2005,Female,AB+,Diabetes,10-01-2020,Michele Henderson,36610.92882,445,Urgent,25-01-2020,Paracetamol,Normal,99.1,118,9843274151
+9.81E+13,Eric Combs,26-07-2005,Female,B-,Hypertension,03-04-2023,Carrie Becker,19789.25254,413,Urgent,07-04-2023,Ibuprofen,Normal,97.9,62,9843274151
+8.71E+14,Travis Jordan,27-07-2005,Female,B-,Cancer,17-12-2021,Robert Burton,16479.89692,156,Elective,27-12-2021,Paracetamol,Normal,99,82,9843274151
+2345752713,Dillon Dunlap,28-07-2005,Female,O+,Diabetes,02-09-2021,Jason Coleman,2023.52182,499,Emergency,27-09-2021,Ibuprofen,Abnormal,98.2,102,9843274151
+1.6E+14,Sonya Gonzales,29-07-2005,Female,AB-,Diabetes,06-03-2021,Amy Simmons,8596.554416,498,Emergency,31-03-2021,Penicillin,Inconclusive,96.6,68,9843274151
+5.17E+12,Erin Sharp,30-07-2005,Male,A-,Asthma,01-09-2021,Matthew Rodriguez,17282.78345,210,Urgent,11-09-2021,Penicillin,Inconclusive,97.7,80,9843274151
+5.65E+12,Eric Green,31-07-2005,Female,B+,Arthritis,18-10-2019,Ryan Castillo,45839.00224,175,Elective,22-10-2019,Ibuprofen,Abnormal,98.8,101,9843274151
+9.35E+13,Tina Howard,01-08-2005,Female,O+,Cancer,10-04-2019,Ellen Spence,43865.89992,360,Urgent,09-05-2019,Ibuprofen,Normal,99.1,87,9843274151
+3.5E+11,Michael Lewis,02-08-2005,Male,B-,Cancer,06-02-2021,Mr. Adam Ramirez,5290.397062,362,Emergency,13-02-2021,Ibuprofen,Inconclusive,97.5,72,9843274151
+3.38E+11,Thomas Rodriguez,03-08-2005,Female,AB-,Diabetes,10-02-2019,Joshua Miller,41850.87496,180,Urgent,13-02-2019,Aspirin,Normal,97.3,66,9843274151
+6.85E+12,Linda Gillespie,04-08-2005,Male,AB-,Asthma,16-09-2023,Steven Serrano,26642.36764,402,Emergency,14-10-2023,Penicillin,Abnormal,96.8,78,9843274151
+2.86E+13,Terry Lawson,05-08-2005,Female,O+,Asthma,07-07-2019,Daniel Mack,9976.235732,272,Elective,23-07-2019,Lipitor,Normal,97.2,101,9843274151
+3.97E+12,Kelsey Perry,06-08-2005,Female,A+,Asthma,09-03-2020,Mike Alvarez,22780.12697,155,Urgent,26-03-2020,Aspirin,Abnormal,98.1,94,9843274151
+4.14E+13,Erik Wood,07-08-2005,Male,O+,Cancer,11-04-2023,Lori Horton,19037.81996,203,Urgent,09-05-2023,Penicillin,Abnormal,98.1,67,9843274151
+4.14E+13,Jeremy Jones,08-08-2005,Female,B-,Asthma,18-05-2023,Linda Tran,5936.854428,248,Emergency,19-05-2023,Ibuprofen,Inconclusive,97.2,86,9843274151
+1.55E+13,Elizabeth Stafford,09-08-2005,Male,O-,Obesity,11-09-2021,Erin Scott,33209.18552,331,Elective,03-10-2021,Lipitor,Abnormal,97,53,9843274151
+3.95E+12,Jason Alvarado,10-08-2005,Female,O+,Arthritis,27-06-2020,Aaron Johnson,25489.3619,430,Emergency,09-07-2020,Ibuprofen,Normal,97.2,73,9843274151
+6.62E+13,Mary Stein,11-08-2005,Male,A+,Hypertension,07-12-2020,Alice Gross DVM,49974.80659,390,Emergency,28-12-2020,Lipitor,Normal,97,76,9843274151
+9.58E+14,Sandra Green,12-08-2005,Male,B+,Diabetes,09-10-2021,Diana Castro,21078.49492,154,Elective,08-11-2021,Aspirin,Abnormal,99.1,69,9843274151
+5.34E+13,Nicholas Mitchell,13-08-2005,Male,B+,Diabetes,07-03-2023,Samuel Sutton,33335.11307,341,Emergency,26-03-2023,Aspirin,Inconclusive,97.2,67,9843274151
+7.78E+14,Joshua Gates,14-08-2005,Male,AB-,Hypertension,29-08-2021,Michael Flores,42294.90532,401,Urgent,30-08-2021,Ibuprofen,Inconclusive,97.7,110,9843274151
+2.39E+12,William Hart,15-08-2005,Female,B+,Hypertension,09-03-2019,Cynthia Freeman,20485.05306,312,Urgent,28-03-2019,Penicillin,Normal,98.4,96,9843274151
+1.43E+13,Leah Harrington,16-08-2005,Male,AB+,Obesity,28-11-2018,Steven Hawkins,24362.37396,424,Urgent,02-12-2018,Ibuprofen,Abnormal,99.7,92,9843274151
+85976977119,Victoria Kennedy,17-08-2005,Female,O+,Cancer,04-06-2023,Gina Daniel,30219.84057,248,Urgent,29-06-2023,Ibuprofen,Normal,99.1,118,9843274151
+7.43E+14,Juan Vargas,18-08-2005,Male,A+,Asthma,15-12-2020,Alexander Jones,16043.14917,231,Urgent,31-12-2020,Aspirin,Normal,98.6,72,9843274151
+5.89E+11,Mr. Bryan Williams,19-08-2005,Male,AB-,Hypertension,28-02-2021,Jeffrey Jackson,47901.75284,336,Elective,02-03-2021,Lipitor,Inconclusive,96.8,73,9843274151
+5.32E+11,Sabrina Barron,20-08-2005,Male,AB-,Obesity,07-08-2022,Brittany Gilbert,46411.59805,299,Elective,02-09-2022,Paracetamol,Abnormal,97.2,88,9843274151
+6.98E+14,Anthony Bailey,21-08-2005,Male,A+,Arthritis,18-04-2019,Tony Wright,5412.689045,495,Urgent,06-05-2019,Aspirin,Inconclusive,98.4,76,9843274151
+8.79E+12,Ryan Edwards,22-08-2005,Male,AB+,Hypertension,10-02-2020,Sheri Garcia,39094.68031,180,Emergency,27-02-2020,Aspirin,Abnormal,97.9,90,9843274151
+4.82E+14,William Osborne,23-08-2005,Male,AB+,Obesity,13-06-2022,Charles James,38597.00168,136,Urgent,15-06-2022,Aspirin,Abnormal,98.8,64,9843274151
+6.25E+14,Jennifer Perez,24-08-2005,Female,AB-,Hypertension,09-03-2020,Dawn Graves,28429.30706,211,Elective,07-04-2020,Penicillin,Inconclusive,98.8,104,9843274151
+8.95E+13,Natasha Fischer,25-08-2005,Male,B+,Arthritis,11-08-2021,Debbie Fisher,44226.3429,338,Elective,09-09-2021,Aspirin,Normal,98.1,68,9843274151
+9.44E+13,Jennifer Wang,26-08-2005,Male,AB+,Arthritis,14-03-2023,Mr. Aaron Chase,24428.30169,470,Elective,03-04-2023,Lipitor,Abnormal,97.5,81,9843274151
+6.77E+14,Danielle Jones,27-08-2005,Female,B-,Hypertension,10-05-2023,Natalie Smith,19925.36121,381,Emergency,03-06-2023,Penicillin,Inconclusive,95.9,74,9843274151
+6.47E+14,Lori Walker,28-08-2005,Male,AB-,Cancer,08-06-2023,Paula Chavez,20592.20316,230,Elective,30-06-2023,Ibuprofen,Inconclusive,97.9,105,9843274151
+1.38E+14,Lauren Sosa,29-08-2005,Female,B+,Arthritis,04-12-2020,Stephanie Smith,9812.179824,262,Urgent,13-12-2020,Aspirin,Abnormal,99.3,118,9843274151
+1.37E+11,John Lynch,30-08-2005,Male,AB+,Diabetes,28-11-2019,Richard Freeman,19972.93487,139,Emergency,12-12-2019,Aspirin,Normal,97.9,90,9843274151
+9.24E+11,Elizabeth Johnson,31-08-2005,Male,AB-,Obesity,15-08-2022,Gerald Green,41120.099,208,Emergency,30-08-2022,Lipitor,Inconclusive,97.3,73,9843274151
+3.15E+13,Karen Butler,01-09-2005,Male,AB+,Diabetes,12-10-2023,Patrick Williams,11287.41551,447,Urgent,21-10-2023,Paracetamol,Abnormal,98.1,102,9843274151
+4.28E+12,Brittany Baker,02-09-2005,Male,AB-,Diabetes,26-01-2023,James Flynn,31740.49134,174,Emergency,29-01-2023,Ibuprofen,Inconclusive,99,96,9843274151
+8.4E+12,Melissa Dean,03-09-2005,Male,A+,Hypertension,07-06-2022,Barbara Cantrell,13376.23962,240,Elective,29-06-2022,Lipitor,Normal,97.5,80,9843274151
+5.56E+13,Sylvia Johnson,04-09-2005,Male,A+,Obesity,14-03-2022,Rebecca Myers,27639.32606,162,Elective,27-03-2022,Paracetamol,Abnormal,98.1,85,9843274151
+8.63E+13,Johnny Stephens,05-09-2005,Male,O+,Cancer,16-08-2019,Matthew Olsen,19180.35768,469,Elective,10-09-2019,Ibuprofen,Normal,97,73,9843274151
+8.79E+12,Michele Thompson,06-09-2005,Female,B-,Obesity,08-08-2021,Kelly Guerrero,40812.45406,374,Elective,22-08-2021,Ibuprofen,Normal,95,100,9843274151
+9.18E+13,Loretta Schmitt,07-09-2005,Female,AB-,Diabetes,15-02-2022,Jason Williams,17426.34136,341,Elective,10-03-2022,Aspirin,Inconclusive,97.5,100,9843274151
+8.15E+12,Malik Phillips,08-09-2005,Female,B-,Obesity,03-03-2020,Misty Allen,44982.00041,299,Emergency,18-03-2020,Penicillin,Abnormal,97.1,53,9843274151
+5.89E+12,Andrea Thompson,09-09-2005,Male,O+,Obesity,30-11-2018,Heather Livingston,47650.80969,364,Elective,15-12-2018,Lipitor,Abnormal,97.4,64,9843274151
+1.49E+12,Brenda James,10-09-2005,Female,AB+,Obesity,16-02-2020,Jessica Rodriguez,6103.389064,369,Elective,11-03-2020,Lipitor,Normal,97.8,76,9843274151
+98247527761,Jeff Castillo,11-09-2005,Female,AB-,Diabetes,23-01-2019,Christine Frey,24921.31563,235,Emergency,11-02-2019,Lipitor,Normal,98.6,75,9843274151
+1.79E+12,John Kim,12-09-2005,Male,AB+,Asthma,13-12-2018,Kevin Higgins,1032.263087,377,Urgent,14-12-2018,Paracetamol,Normal,97,87,9843274151
+6.35E+14,Marie Cooper,13-09-2005,Male,B+,Obesity,15-09-2019,Leslie Cook,42103.26303,366,Urgent,07-10-2019,Lipitor,Normal,96,48,9843274151
+6.87E+13,Christopher Powers,14-09-2005,Female,O+,Obesity,13-12-2021,Thomas Hutchinson,24954.73114,343,Urgent,08-01-2022,Paracetamol,Normal,98.8,75,9843274151
+1781488635,Rebecca Johnson,15-09-2005,Female,O+,Hypertension,19-04-2021,Lacey Keith,9326.034947,144,Elective,09-05-2021,Paracetamol,Inconclusive,99,102,9843274151
+2.34E+13,Annette Cruz,16-09-2005,Female,O+,Asthma,27-05-2021,Lindsay Curry,25362.31419,148,Urgent,26-06-2021,Lipitor,Inconclusive,96,62,9843274151
+6.87E+12,Melissa Mcdonald,17-09-2005,Male,O-,Arthritis,24-08-2019,Amy Williams,44336.26915,401,Urgent,07-09-2019,Aspirin,Inconclusive,98.2,79,9843274151
+9.49E+13,Ashley English,18-09-2005,Female,B+,Hypertension,12-03-2022,Dawn Hughes,5538.761874,277,Emergency,27-03-2022,Ibuprofen,Normal,98.6,65,9843274151
+4.28E+13,Kevin Thomas,19-09-2005,Male,B+,Arthritis,19-10-2022,Michael Evans,16280.9091,199,Urgent,31-10-2022,Penicillin,Inconclusive,98.6,64,9843274151
+6.45E+12,Sean Sullivan,20-09-2005,Female,A+,Cancer,08-02-2022,Craig Harris,8508.149557,183,Urgent,10-02-2022,Lipitor,Normal,97.4,87,9843274151
+7.42E+13,Mark Proctor,21-09-2005,Male,A-,Cancer,03-01-2020,Ashley Kim,10230.63151,481,Urgent,30-01-2020,Lipitor,Normal,100.1,75,9843274151
+7.45E+12,Annette Mitchell,22-09-2005,Female,AB+,Asthma,11-02-2019,Nicole King,41051.67028,329,Emergency,21-02-2019,Penicillin,Normal,97.1,84,9843274151
+7.93E+13,Carl Thompson,23-09-2005,Female,O-,Hypertension,04-07-2019,Shannon Rodriguez,23274.30405,427,Urgent,23-07-2019,Ibuprofen,Inconclusive,97.6,86,9843274151
+2.11E+14,Steven Davis,24-09-2005,Female,AB-,Diabetes,13-04-2023,David Lopez,37722.50943,257,Emergency,06-05-2023,Ibuprofen,Abnormal,98.3,66,9843274151
+8.2E+14,Justin Cunningham,25-09-2005,Male,B+,Hypertension,20-04-2020,Samantha May,47030.32859,467,Emergency,10-05-2020,Paracetamol,Abnormal,98,72,9843274151
+4.48E+12,Christine Bryant,26-09-2005,Female,A+,Asthma,31-01-2023,Shannon Perry,32654.99225,289,Elective,21-02-2023,Lipitor,Abnormal,97.5,73,9843274151
+2.83E+12,Andrea Rich,27-09-2005,Male,O-,Diabetes,04-04-2019,Matthew Williams,29497.37403,244,Elective,26-04-2019,Aspirin,Normal,97.5,65,9843274151
+8.97E+13,Audrey Moore,28-09-2005,Male,A-,Hypertension,18-05-2019,Debra Parsons,27302.71522,375,Emergency,29-05-2019,Penicillin,Abnormal,99.2,100,9843274151
+2.87E+13,Rebecca Lyons,29-09-2005,Female,O-,Diabetes,24-11-2020,Michael Taylor,47704.58179,296,Urgent,29-11-2020,Paracetamol,Inconclusive,96.3,84,9843274151
+2.39E+14,Steven Davis,30-09-2005,Male,O+,Diabetes,05-01-2022,Elizabeth Ashley,48627.34761,300,Urgent,10-01-2022,Ibuprofen,Normal,99.1,85,9843274151
+6.44E+13,Ana Clark,01-10-2005,Male,B+,Hypertension,17-04-2019,Frances Watson,35343.11175,189,Emergency,03-05-2019,Lipitor,Abnormal,97.2,89,9843274151
+2.94E+12,Brandon Miller MD,02-10-2005,Female,A-,Arthritis,01-12-2019,Lisa Hill,41082.61487,359,Elective,07-12-2019,Paracetamol,Normal,97.3,80,9843274151
+1.42E+13,Autumn Ortiz,03-10-2005,Female,B+,Asthma,05-11-2021,Stephen Fletcher,34712.19111,104,Elective,11-11-2021,Lipitor,Abnormal,101.1,108,9843274151
+4.18E+13,Ana Stone,04-10-2005,Female,AB-,Hypertension,25-08-2019,Paul Ward,23918.81251,165,Elective,20-09-2019,Aspirin,Abnormal,97.5,71,9843274151
+7.23E+12,Anthony Conner Jr.,05-10-2005,Male,B+,Obesity,26-06-2022,Janice Lee,8749.923731,295,Emergency,12-07-2022,Ibuprofen,Inconclusive,98.2,75,9843274151
+9.92E+13,April Williams,06-10-2005,Male,B-,Asthma,17-07-2020,Robert George,25970.86614,235,Elective,25-07-2020,Ibuprofen,Inconclusive,101.5,111,9843274151
+2.28E+14,Justin Martin,07-10-2005,Male,A-,Obesity,14-07-2019,Sarah Holden,20536.00918,119,Urgent,13-08-2019,Ibuprofen,Normal,100,98,9843274151
+6.2E+12,Jason Whitaker,08-10-2005,Male,B+,Diabetes,26-12-2020,Robert Edwards,17232.9672,143,Urgent,08-01-2021,Aspirin,Inconclusive,96.6,84,9843274151
+6.57E+12,Holly Knight,09-10-2005,Female,B-,Obesity,05-08-2023,Robert Brown,22420.43928,200,Urgent,18-08-2023,Ibuprofen,Inconclusive,96.7,85,9843274151
+5.18E+13,Lori Phillips,10-10-2005,Male,A+,Diabetes,24-01-2022,Erin Yang,43237.62811,472,Elective,05-02-2022,Ibuprofen,Normal,97,108,9843274151
+8.2E+14,Nicholas Johnson,11-10-2005,Female,AB+,Arthritis,29-01-2023,Justin Lynch,11296.56602,123,Elective,11-02-2023,Aspirin,Abnormal,96.2,115,9843274151
+2.81E+13,Amy Bowman,12-10-2005,Female,B+,Cancer,01-01-2019,Brittany Lewis,8476.740872,262,Urgent,24-01-2019,Aspirin,Normal,95.2,58,9843274151
+5.97E+13,Joshua Frey,13-10-2005,Male,A+,Obesity,15-12-2021,Meredith Harris,36408.22625,135,Elective,10-01-2022,Paracetamol,Inconclusive,95.5,66,9843274151
+2.77E+14,William Farrell,14-10-2005,Female,O+,Diabetes,28-02-2022,Melissa Wyatt,19484.05124,242,Elective,29-03-2022,Paracetamol,Inconclusive,98,99,9843274151
+5.3E+13,Danielle Nunez,15-10-2005,Male,A+,Hypertension,19-11-2020,Jeffrey White,13608.17897,304,Emergency,15-12-2020,Ibuprofen,Inconclusive,97.6,78,9843274151
+5.35E+12,Mrs. Natasha Williams,16-10-2005,Male,O+,Arthritis,17-07-2021,Robert Fisher,25004.26861,416,Emergency,18-07-2021,Aspirin,Inconclusive,98.9,67,9843274151
+6.89E+13,Peter Davis MD,17-10-2005,Female,O-,Cancer,29-01-2021,Brandon Hines,37667.41226,468,Emergency,15-02-2021,Lipitor,Inconclusive,98.2,63,9843274151
+4.44E+12,Angie Robinson,18-10-2005,Male,B+,Hypertension,16-02-2019,Sergio Johnson,16236.09494,273,Urgent,18-03-2019,Aspirin,Normal,97.6,49,9843274151
+1.75E+13,Elizabeth Burton,19-10-2005,Female,O+,Hypertension,14-03-2022,Eric Thomas,41603.68077,396,Elective,11-04-2022,Aspirin,Normal,101.4,95,9843274151
+1.18E+12,Gloria Weaver,20-10-2005,Female,AB-,Arthritis,24-05-2021,Nancy Lewis,30732.69838,292,Elective,19-06-2021,Paracetamol,Inconclusive,96.9,125,9843274151
+41787422569,David Thomas,21-10-2005,Female,O+,Arthritis,08-07-2019,Mrs. Cheryl Gomez,29222.32718,355,Emergency,26-07-2019,Lipitor,Inconclusive,95.8,75,9843274151
+7.79E+14,Hector Gross,22-10-2005,Female,O+,Arthritis,25-06-2020,William Alexander,39541.66394,351,Emergency,11-07-2020,Ibuprofen,Normal,96.6,83,9843274151
+8.77E+12,Sean Holmes,23-10-2005,Male,O-,Arthritis,02-05-2019,Dawn Alvarez,44595.20992,240,Emergency,17-05-2019,Lipitor,Normal,95.6,78,9843274151
+8.77E+12,Sandra Mcclain,24-10-2005,Female,A-,Asthma,12-05-2020,Allen Powers,11167.18406,395,Emergency,07-06-2020,Ibuprofen,Inconclusive,96,93,9843274151
+7.87E+13,Ashley Osborne,25-10-2005,Female,AB+,Hypertension,26-09-2020,Paula Gonzalez,42381.33687,194,Elective,05-10-2020,Lipitor,Normal,97.9,78,9843274151
+3.95E+14,Erin Baldwin,26-10-2005,Female,AB-,Cancer,21-03-2022,Richard Rhodes,11523.99697,319,Urgent,27-03-2022,Ibuprofen,Normal,97.4,80,9843274151
+4.77E+13,Kenneth Mcfarland,27-10-2005,Female,A+,Arthritis,12-03-2022,Cassidy Williams,38730.91328,130,Elective,24-03-2022,Penicillin,Normal,97.9,90,9843274151
+3.97E+13,Timothy Wu,28-10-2005,Female,B-,Asthma,02-03-2020,Kenneth Nunez,16887.30253,340,Urgent,20-03-2020,Penicillin,Inconclusive,97,98,9843274151
+6.29E+13,Margaret Hamilton,29-10-2005,Male,O-,Diabetes,03-03-2022,James Larsen,34572.73533,393,Urgent,16-03-2022,Penicillin,Abnormal,97.5,60,9843274151
+9.82E+13,Jeffery Patton,30-10-2005,Male,AB+,Cancer,06-07-2023,John Webb,47900.18865,440,Urgent,20-07-2023,Lipitor,Normal,97,70,9843274151
+7.27E+14,Cameron Hall,31-10-2005,Male,A-,Hypertension,05-09-2019,Jon Rodriguez,24048.2666,370,Emergency,11-09-2019,Aspirin,Normal,98.3,86,9843274151
+4.92E+12,Matthew Olson,01-11-2005,Male,A+,Diabetes,29-07-2023,Angela Lee,41011.11902,268,Elective,21-08-2023,Lipitor,Inconclusive,100.5,104,9843274151
+5.14E+14,Kevin Padilla,02-11-2005,Female,AB+,Asthma,19-06-2020,Dr. Gabriel Gibson,9100.186854,303,Elective,05-07-2020,Penicillin,Inconclusive,97,95,9843274151
+9.28E+11,Paul Brooks,03-11-2005,Male,AB+,Obesity,21-06-2023,Traci Henderson,35435.87507,363,Emergency,16-07-2023,Lipitor,Inconclusive,95,84,9843274151
+6.31E+14,Crystal Allen,04-11-2005,Female,B-,Cancer,09-05-2023,John Duncan,28265.16834,119,Urgent,06-06-2023,Ibuprofen,Normal,97.6,77,9843274151
+4.72E+14,Brian Williams,05-11-2005,Male,AB-,Diabetes,24-08-2019,Andre Schultz,1318.430281,129,Emergency,05-09-2019,Penicillin,Inconclusive,97.2,90,9843274151
+66494969535,Laura Schmidt,06-11-2005,Female,AB-,Hypertension,21-09-2022,Mark Thompson,43949.34658,278,Emergency,30-09-2022,Aspirin,Inconclusive,97,111,9843274151
+3.37E+14,Sarah Campbell,07-11-2005,Male,AB-,Asthma,12-03-2021,Luis Cabrera,17245.16735,290,Emergency,18-03-2021,Aspirin,Abnormal,97.8,89,9843274151
+4.69E+13,Kristen Johnson,08-11-2005,Male,B-,Diabetes,16-03-2023,Christine Stein,19562.89781,326,Emergency,29-03-2023,Ibuprofen,Inconclusive,98.1,115,9843274151
+4.38E+14,Antonio Robbins,09-11-2005,Male,A+,Hypertension,24-01-2021,Kara Curry,32220.03923,201,Emergency,04-02-2021,Paracetamol,Normal,97.3,94,9843274151
+1.69E+11,Debra Mcdaniel,10-11-2005,Male,A+,Obesity,25-07-2023,Jeremy Mills,33854.2969,461,Elective,19-08-2023,Penicillin,Abnormal,98,68,9843274151
+2.59E+12,Virginia Wolfe,11-11-2005,Male,A+,Diabetes,04-06-2019,Angela Gomez,45936.95113,244,Elective,18-06-2019,Aspirin,Normal,98.4,91,9843274151
+2.59E+12,Carolyn Nguyen DVM,12-11-2005,Male,AB+,Asthma,05-06-2022,Dr. Tyler Anthony,33301.63099,464,Urgent,18-06-2022,Paracetamol,Abnormal,97.8,89,9843274151
+6.71E+13,Christopher Cervantes,13-11-2005,Female,AB-,Hypertension,28-03-2021,Kristen Hancock,2634.757863,210,Urgent,08-04-2021,Lipitor,Normal,97.9,100,9843274151
+5.16E+13,Alan Alvarado,14-11-2005,Female,B-,Hypertension,19-09-2023,Edward Figueroa PhD,43274.06975,268,Elective,14-10-2023,Lipitor,Normal,98.2,99,9843274151
+2.69E+12,Kelly Taylor,15-11-2005,Male,O-,Asthma,06-02-2020,Jennifer Carr,1606.285191,491,Elective,16-02-2020,Aspirin,Inconclusive,97.1,87,9843274151
+5.25E+12,Justin Perry,16-11-2005,Male,A-,Arthritis,24-06-2019,Joshua Blackwell,44358.02708,108,Emergency,15-07-2019,Lipitor,Inconclusive,98.4,96,9843274151
+5.36E+14,Kristin Proctor,17-11-2005,Female,O-,Cancer,21-07-2023,Kevin Ryan,25817.69518,163,Emergency,22-07-2023,Aspirin,Abnormal,97.9,78,9843274151
+5.98E+14,Danielle Hunter,18-11-2005,Female,O+,Hypertension,03-11-2018,Pamela Williams,43952.39022,343,Urgent,13-11-2018,Ibuprofen,Inconclusive,97.6,95,9843274151
+3.84E+13,Jeanne Gray,19-11-2005,Female,A-,Arthritis,10-04-2023,Jason Chase,23210.81233,443,Urgent,25-04-2023,Paracetamol,Abnormal,98.6,63,9843274151
+6.77E+12,Rachel Marks,20-11-2005,Female,AB-,Asthma,22-10-2021,Michael Lloyd,47469.08317,355,Elective,18-11-2021,Lipitor,Inconclusive,98.9,77,9843274151
+3.84E+13,Matthew Bush,21-11-2005,Male,O+,Diabetes,24-02-2019,Christopher Mcfarland,8945.823548,146,Urgent,23-03-2019,Aspirin,Abnormal,97.7,86,9843274151
+4.92E+13,Justin Buck,22-11-2005,Female,A-,Hypertension,01-04-2019,Theresa Thomas,45779.07519,232,Urgent,24-04-2019,Lipitor,Normal,98.4,97,9843274151
+6.79E+11,Julie Murray,23-11-2005,Male,AB+,Diabetes,14-12-2021,Mrs. Theresa Rosales MD,14964.0716,376,Elective,10-01-2022,Paracetamol,Inconclusive,98.2,71,9843274151
+5.44E+11,Travis Dyer,24-11-2005,Male,AB-,Obesity,16-03-2022,Claire Young,32000.19585,292,Emergency,31-03-2022,Lipitor,Normal,98.3,55,9843274151
+5.44E+11,Matthew Good DVM,25-11-2005,Female,AB+,Asthma,29-01-2023,Jose Boone,18696.9983,266,Emergency,13-02-2023,Penicillin,Normal,98.5,98,9843274151
+6.43E+11,Lori Lyons,26-11-2005,Female,AB-,Obesity,06-07-2023,Rhonda Porter,13108.51089,209,Elective,20-07-2023,Paracetamol,Abnormal,98.1,120,9843274151
+9.39E+12,Michael Monroe,27-11-2005,Male,AB+,Cancer,23-08-2019,Karen Garrison,17892.93059,230,Elective,15-09-2019,Penicillin,Inconclusive,98.1,111,9843274151
+4.25E+13,Christopher Miller,28-11-2005,Male,A+,Diabetes,08-01-2023,Ashley Price,32942.42403,395,Elective,23-01-2023,Penicillin,Normal,97.3,56,9843274151
+7.66E+14,Chris Roth,29-11-2005,Female,A-,Hypertension,26-11-2022,Derrick Francis,43613.48843,315,Emergency,04-12-2022,Paracetamol,Inconclusive,98.2,111,9843274151
+6.81E+11,Jennifer Harrison,30-11-2005,Male,B+,Cancer,20-02-2023,Sherry Lara,19989.16792,449,Urgent,14-03-2023,Ibuprofen,Abnormal,98.6,91,9843274151
+6.7E+11,Jeffrey Carter,01-12-2005,Female,A+,Cancer,05-04-2022,Gloria Hernandez,45853.98802,401,Urgent,21-04-2022,Lipitor,Normal,98,103,9843274151
+5.72E+12,Alexis Jones,02-12-2005,Male,AB-,Arthritis,21-01-2019,Cassandra Johnson,20230.44551,473,Elective,06-02-2019,Ibuprofen,Normal,98.1,71,9843274151
+3.44E+14,Karen Mills,03-12-2005,Female,A-,Cancer,31-12-2022,Natasha Valenzuela,33070.80494,265,Elective,18-01-2023,Lipitor,Normal,97.9,70,9843274151
+1.12E+13,Linda Collins,04-12-2005,Male,O-,Arthritis,01-09-2020,Robert Hanson,26105.14343,185,Emergency,11-09-2020,Penicillin,Normal,101.1,144,9843274151
+2.9E+13,Tricia Oliver,05-12-2005,Female,AB-,Hypertension,30-12-2020,Jason Boone,19835.73047,289,Elective,03-01-2021,Aspirin,Normal,97.8,94,9843274151
+4.25E+13,Corey Cruz,06-12-2005,Male,A+,Cancer,09-08-2019,Wendy King,36906.24048,417,Urgent,28-08-2019,Penicillin,Abnormal,99.1,75,9843274151
+7.44E+13,Christopher Adams,07-12-2005,Female,B-,Diabetes,30-04-2022,John Henderson,30810.30609,429,Emergency,25-05-2022,Aspirin,Normal,97.2,81,9843274151
+1E+14,Michael Mccall,08-12-2005,Female,O+,Cancer,04-10-2019,Kelly Smith,9766.823867,133,Emergency,12-10-2019,Aspirin,Abnormal,98.2,79,9843274151
+1.4E+14,Monica Ryan,09-12-2005,Female,A-,Asthma,18-05-2019,Jonathan Mcmillan,36594.91074,453,Elective,27-05-2019,Penicillin,Normal,97.9,103,9843274151
+2.43E+12,Shannon Gonzales,10-12-2005,Female,AB+,Arthritis,05-11-2021,Charles Robinson,30615.0091,332,Emergency,05-12-2021,Paracetamol,Inconclusive,98.6,86,9843274151
+9.33E+11,Mason Boyd,11-12-2005,Male,O+,Hypertension,08-04-2020,Amanda Peterson,42871.49405,374,Elective,01-05-2020,Paracetamol,Normal,98.5,78,9843274151
+1.45E+12,Laura Romero PhD,12-12-2005,Male,AB+,Diabetes,19-05-2022,Robert Day,43266.50999,435,Elective,06-06-2022,Lipitor,Abnormal,98.1,64,9843274151
+4.82E+13,Angela Lewis,13-12-2005,Male,AB+,Hypertension,11-03-2019,Ryan Barron,6584.543835,271,Elective,14-03-2019,Penicillin,Inconclusive,98.1,74,9843274151
+7.68E+13,Dwayne Fletcher,14-12-2005,Female,A+,Diabetes,03-05-2023,Zachary Anderson,14317.3807,186,Urgent,23-05-2023,Lipitor,Normal,98.9,70,9843274151
+2.62E+14,Robert Benitez PhD,15-12-2005,Female,AB-,Asthma,09-09-2023,Karen Baker,43128.45216,495,Emergency,01-10-2023,Aspirin,Normal,97.4,58,9843274151
+6.51E+12,Jamie Holland,16-12-2005,Male,AB-,Diabetes,18-09-2019,Brian Rocha,43281.86685,452,Urgent,05-10-2019,Aspirin,Abnormal,98.8,65,9843274151
+1.54E+14,Miss Lisa Hale,17-12-2005,Male,B-,Asthma,12-03-2021,Corey Hopkins,22223.74582,118,Emergency,29-03-2021,Lipitor,Inconclusive,98.7,91,9843274151
+4.65E+13,Michelle Williams,18-12-2005,Male,B+,Diabetes,06-06-2021,Amanda Shaw,16817.14471,228,Emergency,06-07-2021,Penicillin,Abnormal,100.1,99,9843274151
+7.23E+14,Mark Browning,19-12-2005,Female,B+,Obesity,05-09-2021,Lindsay Collins,34122.43388,120,Emergency,19-09-2021,Lipitor,Normal,98.8,80,9843274151
+8.75E+12,Heather Johnston,20-12-2005,Female,A-,Cancer,07-07-2022,Christopher Sandoval,25511.20748,348,Elective,05-08-2022,Penicillin,Inconclusive,98.9,94,9843274151
+9.21E+14,Joy Henry,21-12-2005,Female,A-,Arthritis,05-09-2020,Allison Mendoza,37736.47265,232,Urgent,01-10-2020,Aspirin,Inconclusive,98.4,103,9843274151
+6.89E+12,Sonya Hernandez,22-12-2005,Female,B-,Cancer,16-02-2019,Amber Young,32010.0787,258,Urgent,06-03-2019,Aspirin,Inconclusive,97.7,82,9843274151
+8.24E+12,Steven Martinez,23-12-2005,Female,A+,Diabetes,07-04-2022,Zachary Griffith,42041.61275,455,Urgent,14-04-2022,Penicillin,Normal,98.1,88,9843274151
+8.85E+13,Heather Washington,24-12-2005,Male,O+,Obesity,22-06-2023,Troy Parker,37221.71894,382,Urgent,15-07-2023,Penicillin,Inconclusive,98.3,90,9843274151
+3.65E+12,Michael Crawford,25-12-2005,Male,AB-,Arthritis,23-04-2021,Sarah Mcneil,25159.92389,233,Elective,22-05-2021,Aspirin,Abnormal,98.7,58,9843274151
+7.44E+14,Andrew Harmon,26-12-2005,Female,A-,Arthritis,06-04-2020,Jenna Stone,27165.33485,215,Emergency,26-04-2020,Ibuprofen,Normal,97.9,100,9843274151
+2.34E+12,Stacey Wade,27-12-2005,Female,O+,Asthma,31-03-2023,Michelle Robinson MD,49401.13273,263,Emergency,02-04-2023,Penicillin,Inconclusive,98.5,110,9843274151
+8.34E+13,Shannon Williams,28-12-2005,Male,B+,Asthma,04-07-2021,Michael Hodges,24982.04687,475,Urgent,10-07-2021,Aspirin,Normal,98.3,84,9843274151
+3.26E+13,Mr. Theodore Roberts,29-12-2005,Male,B-,Cancer,24-09-2023,Gabriel Hopkins,4861.598349,483,Emergency,14-10-2023,Penicillin,Normal,98.3,85,9843274151
+2.39E+12,Catherine Potter,30-12-2005,Male,O-,Obesity,14-01-2019,Amanda James,39645.2678,277,Emergency,07-02-2019,Penicillin,Normal,98.3,105,9843274151
+9.21E+13,Daniel Murray,31-12-2005,Female,AB-,Arthritis,13-03-2021,Terri Williams,10776.40063,430,Emergency,07-04-2021,Ibuprofen,Normal,98.4,100,9843274151
+4224295661,John Steele,01-01-2006,Female,O+,Asthma,02-12-2022,Maria Griffin,15731.15663,340,Emergency,07-12-2022,Lipitor,Normal,98.6,97,9843274151
+5.86E+12,Bradley Sanford,02-01-2006,Female,O+,Hypertension,02-10-2019,Mr. Austin West Jr.,38598.05972,120,Emergency,10-10-2019,Lipitor,Inconclusive,98.6,97,9843274151
+7.47E+13,Courtney Salinas,03-01-2006,Male,A-,Asthma,03-06-2023,Sean Bean,41324.84836,132,Urgent,07-06-2023,Penicillin,Normal,97.7,93,9843274151
+1.87E+12,Kevin Hernandez,04-01-2006,Male,A-,Hypertension,25-11-2021,Joan Andrews,24578.18499,437,Emergency,16-12-2021,Paracetamol,Normal,97.9,108,9843274151
+8.27E+13,Lisa Gallegos,05-01-2006,Male,AB-,Hypertension,05-05-2020,Abigail Cooper,36750.88799,457,Elective,03-06-2020,Aspirin,Inconclusive,97.1,75,9843274151
+5.59E+11,Heather Hoffman,06-01-2006,Male,A+,Arthritis,02-10-2023,Andre Watson,9305.999962,332,Elective,01-11-2023,Aspirin,Normal,98.3,83,9843274151
+3.56E+12,Madeline Vaughan,07-01-2006,Female,A+,Arthritis,14-11-2018,Brenda Lawson,39472.19376,337,Elective,25-11-2018,Penicillin,Inconclusive,98.1,84,9843274151
+5.63E+13,Susan Oconnell,08-01-2006,Female,A+,Hypertension,01-07-2021,Robert Walker,21707.77774,380,Urgent,27-07-2021,Ibuprofen,Abnormal,97,81,9843274151
+1.96E+14,Jeffrey Clark,09-01-2006,Female,O+,Asthma,15-06-2021,Kenneth Montgomery,23549.23067,398,Urgent,06-07-2021,Aspirin,Abnormal,98,58,9843274151
+3.25E+12,Robert Trevino,10-01-2006,Male,B+,Asthma,18-08-2023,Dean Hart,17745.86717,312,Emergency,20-08-2023,Penicillin,Inconclusive,98.5,96,9843274151
+9.3E+13,Kayla Williams,11-01-2006,Female,A-,Arthritis,01-11-2019,Mary Wagner,36443.76553,497,Emergency,06-11-2019,Paracetamol,Normal,98.5,81,9843274151
+2.31E+11,Jeremy Duffy,12-01-2006,Female,A+,Arthritis,17-04-2021,James Johnson,30101.67901,269,Urgent,03-05-2021,Aspirin,Inconclusive,98,71,9843274151
+9551481585,Steven Lyons,13-01-2006,Female,A-,Obesity,26-06-2019,Kristen Stewart,25974.55283,317,Elective,05-07-2019,Penicillin,Inconclusive,97.9,71,9843274151
+8.59E+12,Linda Davis,14-01-2006,Female,O+,Asthma,10-10-2023,David Duke,8381.328357,175,Urgent,26-10-2023,Lipitor,Normal,98.5,90,9843274151
+3.98E+13,James Roberts,15-01-2006,Female,O-,Asthma,04-01-2022,Samantha Wagner,1897.45541,247,Elective,21-01-2022,Aspirin,Normal,97.8,55,9843274151
+4.19E+13,Kevin Armstrong,16-01-2006,Female,AB-,Cancer,29-04-2019,Dr. Lori Lowe,10160.57928,236,Emergency,24-05-2019,Ibuprofen,Inconclusive,100.9,104,9843274151
+6.58E+13,Tamara Scott,17-01-2006,Male,B+,Diabetes,30-04-2020,Elizabeth Welch,16774.27451,255,Emergency,14-05-2020,Ibuprofen,Inconclusive,101.8,110,9843274151
+4.59E+13,Tiffany Macias,18-01-2006,Male,A+,Cancer,02-11-2022,Lori Hanna,20293.67073,247,Urgent,19-11-2022,Paracetamol,Abnormal,98.6,100,9843274151
+3.56E+14,Diana Brown,19-01-2006,Female,AB-,Hypertension,05-10-2019,Richard Newman,5223.958945,143,Emergency,25-10-2019,Lipitor,Abnormal,99.3,109,9843274151
+5.49E+13,Jeremy Gentry,20-01-2006,Female,B-,Obesity,30-09-2021,Tiffany Perry,39148.11357,417,Urgent,05-10-2021,Aspirin,Inconclusive,101.1,150,9843274151
+2.52E+12,Rebecca Blackwell,21-01-2006,Female,B+,Asthma,28-08-2021,Donald Williams,31040.18118,291,Urgent,01-09-2021,Aspirin,Normal,98.1,90,9843274151
+3.23E+12,Lauren Patterson,22-01-2006,Male,O+,Cancer,02-01-2020,Aaron Smith,18793.67361,184,Urgent,09-01-2020,Ibuprofen,Normal,98.4,106,9843274151
+4.78E+12,Lisa Phillips,23-01-2006,Male,A-,Cancer,25-09-2020,Brent Murray,26851.73655,233,Urgent,21-10-2020,Lipitor,Inconclusive,97.3,88,9843274151
+6.16E+12,Thomas Walsh,24-01-2006,Male,A-,Cancer,09-08-2020,Kevin Conrad,16011.95674,253,Emergency,23-08-2020,Paracetamol,Inconclusive,97.9,94,9843274151
+8.68E+11,Justin Cardenas,25-01-2006,Male,A+,Diabetes,19-01-2022,Jennifer Beasley,30711.59869,370,Elective,17-02-2022,Penicillin,Abnormal,98.8,63,9843274151
+5.33E+14,David Wright,26-01-2006,Female,O-,Cancer,03-02-2020,James Copeland,39174.53902,434,Urgent,28-02-2020,Lipitor,Abnormal,102.9,110,9843274151
+4.92E+12,Renee Miller,27-01-2006,Male,A-,Diabetes,14-12-2019,Kelsey Anderson,47813.99521,382,Elective,29-12-2019,Paracetamol,Inconclusive,98.2,76,9843274151
+9.84E+13,Jeffrey Mckinney DDS,28-01-2006,Female,AB-,Obesity,28-01-2023,Jacob Friedman,32125.1634,170,Urgent,21-02-2023,Ibuprofen,Abnormal,98.6,69,9843274151
+6.3E+11,David Copeland,29-01-2006,Male,B+,Hypertension,23-05-2022,Melissa Hawkins,5244.50798,463,Elective,13-06-2022,Penicillin,Inconclusive,99,119,9843274151
+4.57E+11,Alec Hess,30-01-2006,Male,A+,Diabetes,16-07-2023,Scott Barton,35954.78657,470,Urgent,11-08-2023,Paracetamol,Normal,98.4,80,9843274151
+4.77E+14,Anthony Brown,31-01-2006,Male,B-,Cancer,30-12-2019,Joseph Park,33571.51657,178,Urgent,07-01-2020,Lipitor,Inconclusive,98.2,104,9843274151
+2.51E+13,Harry Johns,01-02-2006,Male,A+,Cancer,20-09-2019,Stephanie Avila,27603.99621,139,Urgent,19-10-2019,Paracetamol,Inconclusive,97.5,101,9843274151
+4.28E+12,Roberto Beck,02-02-2006,Male,O+,Obesity,05-09-2023,Miranda Silva,38216.1305,394,Emergency,22-09-2023,Lipitor,Inconclusive,97.5,81,9843274151
+8.95E+13,Jessica Hanna,03-02-2006,Female,B+,Arthritis,12-10-2021,Victoria Myers,14083.52323,443,Urgent,03-11-2021,Aspirin,Inconclusive,97.5,74,9843274151
+3.99E+13,Daniel Evans,04-02-2006,Male,B-,Asthma,19-06-2020,Michael Olson,4865.551837,386,Elective,28-06-2020,Ibuprofen,Normal,103.8,80,9843274151
+4.43E+14,Samantha Patel,05-02-2006,Female,AB+,Obesity,04-09-2023,Jason Beck,41477.44481,102,Elective,21-09-2023,Aspirin,Normal,98.1,60,9843274151
+2.12E+13,Megan Livingston,06-02-2006,Male,B-,Asthma,23-10-2021,James Allison,35830.27002,383,Emergency,27-10-2021,Paracetamol,Abnormal,97.7,86,9843274151
+1.9E+13,Thomas Brown,07-02-2006,Female,AB+,Asthma,01-11-2018,Travis Davidson,29563.97142,232,Urgent,05-11-2018,Lipitor,Normal,98.1,80,9843274151
+3.6E+12,Jeremy Vasquez,08-02-2006,Female,AB+,Hypertension,27-08-2020,Sandra Moore,22616.99753,195,Emergency,21-09-2020,Aspirin,Abnormal,99.1,101,9843274151
+8.83E+13,Joshua Faulkner,09-02-2006,Male,A+,Cancer,09-07-2019,Michael Goodman,32362.67107,290,Emergency,13-07-2019,Paracetamol,Normal,97.9,111,9843274151
+6.44E+14,Kimberly Shelton,10-02-2006,Female,AB-,Obesity,13-01-2020,Bradley Dillon,10669.98505,317,Urgent,08-02-2020,Paracetamol,Abnormal,98.1,89,9843274151
+4.41E+11,Marissa Dixon,11-02-2006,Male,B+,Hypertension,05-04-2019,Ronald Taylor,2936.565609,172,Emergency,23-04-2019,Ibuprofen,Abnormal,98.1,67,9843274151
+3.46E+13,Theresa May,12-02-2006,Male,B+,Diabetes,25-03-2021,Karen James,21498.02809,193,Emergency,18-04-2021,Ibuprofen,Abnormal,98.6,73,9843274151
+4.41E+14,Derek Patton,13-02-2006,Male,AB+,Arthritis,20-11-2020,Alexandra Robbins,42322.8899,148,Urgent,26-11-2020,Aspirin,Inconclusive,97.2,66,9843274151
+7.12E+12,Kristina Day,14-02-2006,Female,B+,Diabetes,27-03-2023,Michelle Sanchez,3345.578641,467,Emergency,13-04-2023,Lipitor,Abnormal,98.1,78,9843274151
+6.52E+14,Andrea Nicholson,15-02-2006,Male,AB-,Arthritis,05-12-2019,Margaret Jacobs,49142.72431,230,Elective,04-01-2020,Aspirin,Inconclusive,98.4,65,9843274151
+6.34E+12,Andrew Jenkins,16-02-2006,Female,O-,Diabetes,24-01-2022,Deborah Blackwell,10571.48865,316,Emergency,04-02-2022,Penicillin,Inconclusive,98.1,86,9843274151
+1.75E+12,Kelly Graham,17-02-2006,Female,A-,Hypertension,03-09-2019,Henry Mcbride,45454.86612,146,Emergency,14-09-2019,Ibuprofen,Inconclusive,97.7,72,9843274151
+9.38E+13,David Jacobs,18-02-2006,Male,A-,Asthma,13-10-2022,Marco Gallegos,22547.496,491,Emergency,21-10-2022,Paracetamol,Inconclusive,97.5,89,9843274151
+1.76E+12,David Garcia,19-02-2006,Female,O+,Asthma,18-01-2020,Samuel Francis,28481.45553,216,Urgent,17-02-2020,Ibuprofen,Inconclusive,98.2,105,9843274151
+6.86E+13,Sherry Petty,20-02-2006,Male,B-,Obesity,05-03-2019,Crystal Farmer,22508.97434,453,Emergency,07-03-2019,Paracetamol,Normal,98.8,110,9843274151
+1.93E+13,Jonathan Snyder,21-02-2006,Male,A+,Hypertension,01-11-2019,Melissa Jackson,5767.500593,126,Emergency,04-11-2019,Lipitor,Normal,98.1,104,9843274151
+7.12E+12,Wayne May,22-02-2006,Female,AB+,Hypertension,10-07-2023,Laura Webster,19068.02252,269,Elective,12-07-2023,Aspirin,Abnormal,98.4,92,9843274151
+2.82E+13,Thomas Sharp,23-02-2006,Male,O-,Diabetes,12-08-2020,Leon Small,7878.617815,145,Emergency,27-08-2020,Aspirin,Normal,98.8,76,9843274151
+5.98E+13,Randy Huffman,24-02-2006,Male,O-,Cancer,20-06-2019,Tamara Carter,25286.45265,360,Emergency,28-06-2019,Penicillin,Normal,97.7,92,9843274151
+8.27E+14,Chase Mooney,25-02-2006,Male,O-,Cancer,14-09-2019,Theresa Santana,46304.03595,230,Elective,25-09-2019,Penicillin,Normal,97.9,103,9843274151
+5.13E+11,April Eaton,26-02-2006,Female,A+,Asthma,12-11-2021,Stephen Johnson,3552.858736,345,Elective,30-11-2021,Paracetamol,Inconclusive,97.9,77,9843274151
+6.47E+11,Johnny Johnson,27-02-2006,Female,AB-,Diabetes,10-04-2020,Dawn Pierce,30453.29256,481,Emergency,10-05-2020,Aspirin,Inconclusive,97.9,68,9843274151
+4.59E+14,Jessica Lee,28-02-2006,Male,AB+,Diabetes,01-12-2021,Kenneth Mccoy,47788.80099,354,Urgent,13-12-2021,Aspirin,Normal,98.1,83,9843274151
+8.87E+14,Steve Meyer,01-03-2006,Female,A-,Asthma,05-02-2023,Jacqueline Steele,11876.30229,399,Urgent,11-02-2023,Ibuprofen,Abnormal,98.1,90,9843274151
+5.32E+12,Laura Henderson,02-03-2006,Female,AB-,Obesity,20-03-2021,Dana Payne,40247.68976,401,Urgent,24-03-2021,Lipitor,Inconclusive,98.1,74,9843274151
+5.81E+11,Sandra Ford,03-03-2006,Male,A-,Diabetes,26-10-2022,Deborah Guerra MD,47776.28688,247,Emergency,06-11-2022,Aspirin,Normal,95,94,9843274151
+4.41E+12,Tara Graham,04-03-2006,Female,B+,Diabetes,03-12-2021,Nichole Black,28830.11166,293,Urgent,27-12-2021,Paracetamol,Normal,97.7,58,9843274151
+8.87E+14,Nicholas Lewis,05-03-2006,Female,A+,Obesity,16-04-2020,Matthew Arnold,32979.14625,313,Elective,06-05-2020,Paracetamol,Abnormal,98.1,102,9843274151
+5.25E+12,Michael Jones,06-03-2006,Male,AB+,Cancer,31-03-2020,Shane Cabrera,25359.5645,468,Emergency,13-04-2020,Aspirin,Inconclusive,98.4,81,9843274151
+3.13E+11,Bradley Durham,07-03-2006,Female,A-,Obesity,21-04-2023,Megan Torres,6651.500496,124,Urgent,11-05-2023,Paracetamol,Normal,98.4,76,9843274151
+2.43E+13,James Blair,08-03-2006,Female,B+,Obesity,25-07-2022,David Fowler,43965.77871,470,Urgent,14-08-2022,Aspirin,Abnormal,98.1,90,9843274151
+8.33E+12,Glenda Cooper,09-03-2006,Male,B+,Obesity,29-04-2022,Michelle Guzman,9964.062953,375,Emergency,30-04-2022,Lipitor,Normal,98.4,84,9843274151
+3.54E+13,Lee Clark,10-03-2006,Female,O+,Hypertension,16-10-2019,Robert Alexander,37502.40471,449,Emergency,03-11-2019,Aspirin,Abnormal,98.2,93,9843274151
+7.28E+13,Joshua Sullivan,11-03-2006,Female,AB-,Arthritis,30-09-2021,Angelica Houston,28440.88139,500,Elective,26-10-2021,Penicillin,Inconclusive,98.6,106,9843274151
+5.83E+13,Jennifer Hoover,12-03-2006,Male,AB+,Hypertension,11-01-2020,James Jackson,18225.08408,422,Urgent,26-01-2020,Ibuprofen,Abnormal,97.9,90,9843274151
+3.26E+13,Jacqueline Walker,13-03-2006,Female,B+,Diabetes,18-08-2023,Lauren Phillips,47902.62383,314,Emergency,06-09-2023,Paracetamol,Normal,98.4,78,9843274151
+3.71E+12,Daniel Branch,14-03-2006,Male,B-,Diabetes,21-08-2022,John Russell,11762.22363,237,Elective,13-09-2022,Lipitor,Abnormal,100.4,96,9843274151
+3.93E+13,Christopher Barron,15-03-2006,Male,O-,Cancer,25-11-2021,Jennifer Wade,11272.08777,349,Urgent,04-12-2021,Aspirin,Normal,98.1,58,9843274151
+7.41E+12,Marie Vargas,16-03-2006,Male,B-,Cancer,21-12-2018,Christine Smith,26589.43327,443,Emergency,26-12-2018,Paracetamol,Normal,97.9,74,9843274151
+1.72E+11,William Garza,17-03-2006,Female,O+,Obesity,29-03-2021,Glenn Burns,44765.71675,437,Elective,02-04-2021,Ibuprofen,Abnormal,98.2,69,9843274151
+4.62E+12,Bernard Gibbs,18-03-2006,Female,A+,Cancer,09-06-2021,Ronald Chen,30217.25113,295,Emergency,28-06-2021,Paracetamol,Normal,97.7,72,9843274151
+1.42E+12,Mark French,19-03-2006,Female,A-,Asthma,25-11-2021,James Richard,12617.4853,408,Emergency,18-12-2021,Ibuprofen,Abnormal,99,80,9843274151
+1.6E+14,Jennifer Walker,20-03-2006,Female,AB+,Obesity,06-12-2020,Laura Ortiz,42052.52488,308,Elective,05-01-2021,Ibuprofen,Normal,96.6,68,9843274151
+3.14E+14,Elizabeth Anderson,21-03-2006,Female,B-,Asthma,22-12-2020,Mark Martin,49125.15775,430,Elective,02-01-2021,Lipitor,Inconclusive,97.9,74,9843274151
+9.19E+13,Theodore Zamora,22-03-2006,Female,AB-,Arthritis,01-04-2020,Matthew Curtis,17704.74158,127,Emergency,22-04-2020,Penicillin,Abnormal,97.9,115,9843274151
+1.53E+12,Kenneth Obrien,23-03-2006,Male,O-,Hypertension,25-08-2022,Nathan Meyers,39459.43627,188,Emergency,17-09-2022,Aspirin,Abnormal,96.8,97,9843274151
+5.56E+13,Aaron Gray,24-03-2006,Male,B+,Diabetes,01-06-2021,Rachel Wood,6897.10032,164,Emergency,24-06-2021,Ibuprofen,Abnormal,104.5,141,9843274151
+7.59E+11,Jennifer Le,25-03-2006,Male,A+,Hypertension,23-10-2021,Brittany Strickland,33283.2847,257,Elective,06-11-2021,Paracetamol,Normal,98.1,94,9843274151
+4.64E+13,Heather Washington,26-03-2006,Male,A+,Asthma,25-11-2020,Joann Meyer,19218.47859,262,Urgent,05-12-2020,Ibuprofen,Normal,97.7,71,9843274151
+5.89E+13,Samuel Braun,27-03-2006,Male,B+,Asthma,15-06-2019,Dana Davidson,14267.90988,159,Urgent,04-07-2019,Ibuprofen,Normal,97.5,42,9843274151
+6E+12,Chloe Adams,28-03-2006,Female,A-,Asthma,19-03-2019,Cody Osborne,11289.84759,481,Urgent,03-04-2019,Aspirin,Normal,97.3,58,9843274151
+1.73E+14,Gail Harris,29-03-2006,Male,B-,Cancer,30-09-2022,Joshua Harris,49565.02133,125,Urgent,18-10-2022,Lipitor,Abnormal,97.9,62,9843274151
+3.14E+13,Andrew Gibbs,30-03-2006,Female,AB+,Hypertension,22-10-2020,Jennifer Smith,9932.19149,135,Emergency,07-11-2020,Penicillin,Inconclusive,98.2,68,9843274151
+82799595198,Jonathan Jimenez,31-03-2006,Female,AB-,Hypertension,17-10-2020,Gabriela Cooley,2737.676109,370,Urgent,23-10-2020,Paracetamol,Normal,98.2,90,9843274151
+9.35E+12,James Smith,01-04-2006,Male,O-,Hypertension,18-05-2023,Kim Payne,39737.32948,144,Emergency,03-06-2023,Aspirin,Abnormal,98.4,72,9843274151
+7.24E+14,Jonathan Herring,02-04-2006,Female,B+,Arthritis,13-07-2019,Donna Williams,32465.12852,500,Urgent,26-07-2019,Penicillin,Normal,98.2,95,9843274151
+1.29E+14,Jasmin Scott,03-04-2006,Male,B+,Asthma,01-08-2023,Brittany Carter,49666.60565,251,Emergency,11-08-2023,Lipitor,Abnormal,100.6,88,9843274151
+4.33E+13,Daniel Wilkinson,04-04-2006,Male,O-,Diabetes,12-10-2021,Eric Bowen,3975.074525,310,Emergency,03-11-2021,Aspirin,Normal,97.5,55,9843274151
+1.99E+13,Kevin Robinson,05-04-2006,Female,AB+,Obesity,29-09-2022,Tiffany Pacheco,35582.75582,473,Emergency,26-10-2022,Lipitor,Abnormal,97.9,111,9843274151
+89413383318,Lance Bradley,06-04-2006,Female,O-,Obesity,03-07-2023,James Hatfield,22722.00032,232,Elective,04-07-2023,Penicillin,Inconclusive,96.6,63,9843274151
+8.22E+14,Jacob Franco,07-04-2006,Male,A+,Diabetes,19-07-2021,Natalie Moore,37662.66962,308,Urgent,01-08-2021,Lipitor,Abnormal,101.8,96,9843274151
+1.73E+14,Jennifer Nelson MD,08-04-2006,Female,A-,Obesity,10-04-2021,Rhonda Adams,10035.33296,489,Emergency,27-04-2021,Aspirin,Normal,96.6,68,9843274151
+7.58E+14,Gabriella James,09-04-2006,Female,A+,Obesity,12-07-2020,Michael Gonzalez,26153.38922,199,Elective,26-07-2020,Lipitor,Normal,98.1,76,9843274151
+4.23E+13,Megan Wheeler,10-04-2006,Female,AB+,Diabetes,31-01-2022,Claudia Lee,3882.070121,284,Elective,02-02-2022,Paracetamol,Abnormal,99.1,82,9843274151
+7.59E+11,Molly Brewer,11-04-2006,Male,O+,Diabetes,07-03-2020,Brandon Mccarthy,39221.77787,304,Elective,20-03-2020,Penicillin,Abnormal,99,102,9843274151
+9.35E+12,William Williams,12-04-2006,Male,A+,Arthritis,28-09-2023,Mitchell Holder,20707.31963,261,Elective,08-10-2023,Lipitor,Normal,97.5,91,9843274151
+2.54E+12,Drew Crane,13-04-2006,Female,AB-,Diabetes,02-02-2020,Haley Riley,47443.9976,210,Elective,26-02-2020,Paracetamol,Normal,98.8,95,9843274151
+1.25E+13,Stacey Craig,14-04-2006,Female,O+,Cancer,15-08-2022,Laura Cruz,34241.75893,262,Urgent,02-09-2022,Aspirin,Normal,98.4,108,9843274151
+4.31E+13,Joel Mendoza,15-04-2006,Male,AB+,Cancer,17-11-2018,Antonio Richardson,31097.83643,285,Emergency,08-12-2018,Penicillin,Abnormal,98.4,103,9843274151
+4.33E+13,Sarah Weaver,16-04-2006,Male,O+,Arthritis,04-12-2018,Ashley Sherman,18290.27654,141,Urgent,15-12-2018,Ibuprofen,Abnormal,97.5,66,9843274151
+8.25E+13,Barbara Garrett,17-04-2006,Female,O+,Obesity,12-10-2020,Jennifer Monroe,42685.20052,333,Urgent,22-10-2020,Paracetamol,Normal,98.8,100,9843274151
+1.73E+14,Whitney Bradley,18-04-2006,Male,A+,Cancer,11-11-2021,David Vargas,16471.37699,413,Urgent,04-12-2021,Penicillin,Normal,97,72,9843274151
+7.34E+12,Patricia Taylor,19-04-2006,Female,A+,Arthritis,25-10-2019,Claudia Davis,6982.392908,157,Emergency,08-11-2019,Ibuprofen,Abnormal,97.2,82,9843274151
+91645777599,David Richardson,20-04-2006,Male,O-,Arthritis,07-10-2021,Sherri Vaughn,13650.48759,465,Emergency,03-11-2021,Lipitor,Inconclusive,98.6,64,9843274151
+6.83E+13,Lee Peterson,21-04-2006,Female,A+,Hypertension,04-06-2019,Anna Lyons,37771.75899,169,Elective,12-06-2019,Penicillin,Normal,98.1,95,9843274151
+2.49E+12,Kenneth Rollins,22-04-2006,Male,A+,Obesity,02-03-2019,Lisa Clark,44947.46998,155,Urgent,17-03-2019,Ibuprofen,Abnormal,97.5,70,9843274151
+2.56E+14,Ryan Copeland,23-04-2006,Male,A-,Asthma,13-10-2019,John Brown,49910.07762,152,Elective,24-10-2019,Ibuprofen,Inconclusive,97.7,68,9843274151
+4.27E+13,Laura Jones,24-04-2006,Female,O+,Hypertension,09-01-2021,Ashley Jackson,36183.54548,343,Urgent,24-01-2021,Ibuprofen,Inconclusive,98.2,62,9843274151
+8.85E+14,Nicole Bullock,25-04-2006,Female,AB-,Hypertension,22-11-2020,Erica Guzman,12248.57695,178,Urgent,27-11-2020,Ibuprofen,Inconclusive,99,97,9843274151
+1.82E+14,Christopher Phillips,26-04-2006,Male,O-,Hypertension,12-04-2019,Frederick Reed,6852.501055,159,Elective,22-04-2019,Paracetamol,Normal,98.4,68,9843274151
+1.64E+13,Joshua Phillips,27-04-2006,Male,B-,Cancer,24-07-2019,Anthony Miller,13393.8307,387,Urgent,19-08-2019,Aspirin,Normal,98.4,60,9843274151
+4.52E+11,Zachary Collins,28-04-2006,Female,B+,Obesity,04-02-2020,Roberta Adams,47549.05086,418,Emergency,06-02-2020,Aspirin,Inconclusive,99.8,160,9843274151
+6.56E+13,Natalie Navarro,29-04-2006,Female,A+,Arthritis,02-02-2020,Deborah Adams,21293.01851,487,Urgent,22-02-2020,Penicillin,Abnormal,99.1,77,9843274151
+2.76E+12,John George,30-04-2006,Female,A-,Obesity,22-04-2023,Jordan Gonzales,46888.66111,266,Urgent,20-05-2023,Penicillin,Normal,98.1,97,9843274151
+7.48E+12,April Gomez,01-05-2006,Female,A-,Asthma,08-10-2019,Daniel Nelson,46323.26947,142,Emergency,18-10-2019,Ibuprofen,Abnormal,97.2,76,9843274151
+5.63E+13,Jacob Hoover,02-05-2006,Male,B-,Obesity,12-01-2021,Mindy Bell,47792.23069,338,Urgent,02-02-2021,Aspirin,Abnormal,97.9,96,9843274151
+1.75E+13,Alan Bell,03-05-2006,Male,B-,Diabetes,14-06-2022,Tyrone Robertson,16530.72822,147,Elective,27-06-2022,Ibuprofen,Inconclusive,99,82,9843274151
+4.26E+12,Stacey Wilson,04-05-2006,Female,B+,Arthritis,31-10-2022,Ronald Jackson,16003.55436,448,Urgent,04-11-2022,Ibuprofen,Inconclusive,98.4,102,9843274151
+5.58E+13,April Martin,05-05-2006,Male,AB-,Diabetes,01-03-2021,Brenda Moore,38471.52972,123,Urgent,16-03-2021,Ibuprofen,Normal,100.2,87,9843274151
+7.79E+13,Kimberly Williams,06-05-2006,Female,O-,Obesity,17-07-2020,Alexa Mendoza,19121.37769,391,Urgent,08-08-2020,Lipitor,Normal,98.6,100,9843274151
+3.44E+14,Jonathan Moore,07-05-2006,Female,O+,Hypertension,16-08-2020,Rebecca Perez,17214.8503,249,Emergency,07-09-2020,Penicillin,Inconclusive,99.5,92,9843274151
+2.36E+14,Paul Davidson,08-05-2006,Female,O-,Diabetes,13-06-2021,Eric Patton,30395.38016,323,Elective,16-06-2021,Lipitor,Normal,97,76,9843274151
+1.2E+12,Anthony Johnson,09-05-2006,Male,O+,Hypertension,24-03-2023,Derrick Brown,12583.37725,138,Urgent,25-03-2023,Aspirin,Normal,99.1,87,9843274151
+9.71E+13,Mark Moss,10-05-2006,Male,B-,Cancer,04-11-2019,Jacob Hunt,29672.58469,344,Emergency,03-12-2019,Ibuprofen,Abnormal,97.3,72,9843274151
+6.81E+13,Greg Richardson,11-05-2006,Female,O+,Arthritis,19-03-2022,Amanda Flores,29093.79492,456,Urgent,09-04-2022,Aspirin,Normal,99.3,100,9843274151
+9.64E+13,Philip Hall,12-05-2006,Male,B-,Asthma,01-10-2021,Shannon Taylor,5327.951953,106,Elective,03-10-2021,Aspirin,Abnormal,99,103,9843274151
+1.68E+13,Judith Jackson,13-05-2006,Female,AB-,Hypertension,19-11-2019,Mary James,30883.54911,179,Urgent,20-11-2019,Aspirin,Inconclusive,97.7,87,9843274151
+3.18E+12,Amber Perez,14-05-2006,Male,A+,Cancer,29-02-2020,Olivia Rosales,44183.98783,442,Emergency,29-03-2020,Penicillin,Inconclusive,98.8,131,9843274151
+9.23E+13,Sherry Bass,15-05-2006,Female,A+,Cancer,06-09-2019,Sheila Nelson,32279.41242,204,Urgent,02-10-2019,Aspirin,Normal,98.5,64,9843274151
+4.96E+13,Tiffany Davies,16-05-2006,Female,A-,Hypertension,08-03-2019,Joe Gonzalez,14443.89639,464,Urgent,11-03-2019,Aspirin,Inconclusive,100.9,81,9843274151
+65448689531,Sabrina House MD,17-05-2006,Male,A-,Cancer,03-03-2019,James Juarez II,46044.10392,283,Elective,28-03-2019,Aspirin,Normal,100.2,85,9843274151
+7.14E+12,Bill Garcia,18-05-2006,Male,B-,Cancer,10-08-2020,Brandy Lopez,38551.1345,230,Elective,21-08-2020,Paracetamol,Inconclusive,97.6,88,9843274151
+5.6E+12,Jesse Kelly,19-05-2006,Male,AB+,Arthritis,10-05-2023,David Proctor,37858.70382,469,Urgent,30-05-2023,Paracetamol,Normal,97.5,83,9843274151
+2.93E+12,Emily Mosley,20-05-2006,Male,B-,Obesity,01-04-2022,Kenneth Marsh,15579.67657,462,Urgent,06-04-2022,Ibuprofen,Inconclusive,97.7,83,9843274151
+5.24E+13,Megan Garcia,21-05-2006,Male,B-,Asthma,14-08-2022,Barbara Anderson,1427.240245,331,Elective,23-08-2022,Penicillin,Inconclusive,97.6,70,9843274151
+3.16E+14,Austin Buchanan,22-05-2006,Female,O+,Cancer,11-08-2023,Valerie Rogers,13150.65831,451,Elective,14-08-2023,Paracetamol,Normal,99.1,90,9843274151
